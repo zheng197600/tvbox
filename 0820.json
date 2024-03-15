@@ -1,7 +1,7 @@
 {
 //"spider":"./jar/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad",
 //"spider":"./jar/cs.jar;md5;09e941c7eaedf03e7c43058f62315f76",
-"spider":"./jar/Yoursmile2.jar",
+"spider":"https://fastly.jsdelivr.net/gh/zheng197600/tvbox@main/jar/Yoursmile.jar",
 "lives":[{"name":"综合","type":0,"url":"./tv/我的直播.txt"}],
 
 
@@ -30,7 +30,7 @@
 {"key":"py_cctv","name":"🇨🇳CCTV丨节目","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/py_cctv.py"},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2"},
 {"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/广播迷FM.js","playerType":"2"},
-{"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喜马拉雅.js","playerType":"2"},
+{"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]"，"type":3,"api":"./lib/drpy2.min.js","ext":"./js/喜马拉雅.js","playerType":"2"},
 
 
 
