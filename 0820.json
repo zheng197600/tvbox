@@ -39,24 +39,14 @@
 
 
 {"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
-//{"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","timeout":30,"jar":"./jar/pg.jar"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/网盘2.json"},
-{"key":"影视车","name":"⚽影视车4K|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./jar/pg.jar"},
-{"key":"Wobg","name":"🎀玩偶表哥4K|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./jar/pg.jar"},
-{"key":"Hdhive","name":"🍊影巢4K|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./jar/pg.jar"},
-{"key":"Panta","name":"🚦盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./jar/pg.jar"},
 {"key":"csp_xBPQ_低端影视","name":"低端影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"click":"ddys.tv;#vjsp > button","ext":"./js/低端影视.json"},
-{"key":"csp_xBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/歪片星球.json"},
-{"key":"csp_xb_影渣渣","name":"影渣渣[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yingzhazha.com/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xb_枫林网","name":"枫林网[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://imaple8.co/type/{cateId}-{catePg}.html"},
-{"key":"csp_xb_看片狂人","name":"看片狂人[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kpkr.net/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_80S电影","name":"80S电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80s10.com/newsm/{cateId}-{catePg}.html"},
 {"key":"csp_xb_yyds电影","name":"yyds电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yydsdy.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_YYXX电影","name":"YYXX电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yyxx.tv/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_影视街","name":"影视街[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mov.idoog.me/index.php/vod/type/id/{cateId}-{catePg}.html"},
 {"key":"drpy_js_网飞.TV","name":"影视 | 网飞.TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/yinfans.json"},
+{"key":"csp_xpath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/yinfans.json"},
 {"key":"csp_biubiu_真不卡影院","name":"真不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/真不卡影院.json"},
 {"key":"csp_biubiu_饭团","name":"饭团(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/饭团.json"},
 {"key":"bdys","name":"哔嘀(磁力测试)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/bdys.json"},
@@ -124,6 +114,10 @@
 {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./js/ng_open.js"},
 {"key":"livbo","name":"荔波[cat]","type":3,"api":"./js/MyCatLibvio.js"},
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/歪片星球.json"},
+{"key":"csp_xb_影渣渣","name":"影渣渣[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yingzhazha.com/vodtype/{cateId}-{catePg}.html"},
+{"key":"csp_xb_枫林网","name":"枫林网[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://imaple8.co/type/{cateId}-{catePg}.html"},
+{"key":"csp_xb_看片狂人","name":"看片狂人[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kpkr.net/vodtype/{cateId}-{catePg}.html"},
 
 
 
