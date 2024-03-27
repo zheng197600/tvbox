@@ -3763,6 +3763,8 @@ hd欧美影院,https://epg.pw/stream/5e003ea4a38bb1d565c50f967070887d267bd5d8507
 每经AI,http://aitv.nbd.com.cn/live/aitv_live.m3u8
 TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 篮球长镜头,https://epg.pw/stream/1ece6e27daea56c2563b94db8f5953e8d9c68a9b49044541f8ddb903a4e74ba2.ctv
@@ -3779,6 +3781,8 @@ CAN亚洲新闻台,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8?key=txipt
 纪录片之家字幕组,https://epg.pw/stream/2314b7b2346da9331a262a5e491faa0f670236f1058830bada9044140ef30da9.ctv
 全国各地,#genre#
 TVB--功夫,https://ali.hlspull.yximgs.com/live/12344.flv
+经典功夫台,http://cfss.cc/cdn/yy/1355002394.flv
+经典电影台,http://cfss.cc/cdn/yy/1355260662.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -3799,8 +3803,6 @@ CGNTV4,http://liveru.cgtn.com/1000r/prog_index.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 HOY资讯,http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 无线星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 台 视,rtmp://f13h.mine.nu/sat/tv071
@@ -3814,6 +3816,7 @@ HOY资讯,http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 MOMO 综合台,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN 2,rtmp://f13h.mine.nu/sat/tv741
+佛卫慈悲,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 净空老法师讲经直播台(大陆线路),https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 悟道法师讲经(大陆线路),https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
