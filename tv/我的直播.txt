@@ -3780,6 +3780,8 @@ CAN亚洲新闻台,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8?key=txipt
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8#http://www.biaozhun114.com/dl/dl668/top.php?id=232#https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 纪录片之家字幕组,https://epg.pw/stream/2314b7b2346da9331a262a5e491faa0f670236f1058830bada9044140ef30da9.ctv
 全国各地,#genre#
+马来西亚 8TV,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 TVB--功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 经典功夫台,http://cfss.cc/cdn/yy/1355002394.flv
 经典电影台,http://cfss.cc/cdn/yy/1355260662.flv
