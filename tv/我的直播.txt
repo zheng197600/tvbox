@@ -1141,6 +1141,438 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 重庆万州综合台,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 重庆移动,http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
+全球直播,#genre#
+Vevo '70年代,https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
+Vevo '80年代,https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+Vevo '90年代,https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+XITE 80年代闪回,https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+XITE 90年代复古,https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+Vevo 复古摇滚,https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+Vevo '70 年代和 80 年代,https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
+Vevo '90 年代和 00 年代,https://i.mjh.nz/SamsungTVPlus/GBBC2100002HP.m3u8
+现在是 80 年代,https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
+XITE 摇滚上,https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+新 KPOP,https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
+狂野星球,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+冒险地球,https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+荒野,https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+荒野地球,https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+三星野生动物,https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+Pac-12 内幕,https://i.mjh.nz/SamsungTVPlus/USBA300034DB.m3u8
+台球电视,https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
+味精体育区,https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8
+TNA摔跤,https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
+起源体育,https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8
+連接超時,https://i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8
+beIN体育XTRA,https://i.mjh.nz/SamsungTVPlus/USAJ4300001Q7.m3u8
+fubo体育网,https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
+体育场,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+黄貂鱼闪回 70 年代,https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
+黄貂鱼：记住 80 年代,https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
+黄貂鱼不是 90 年代,https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
+犯罪网络,https://i.mjh.nz/SamsungTVPlus/GBBD4100010H1.m3u8
+新KMOVIES,https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
+预览频道,https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
+XITE命中,https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+今天的XITE国家,https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
+XITE国家最好的,https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+新拉丁裔XITE,https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+XITE Siempre 拉丁裔,https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
+XITE R&B 经典果酱,https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+XITE 图标,https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+网站 Just Chill,https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+XITE只有爱,https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+XITE庆祝,https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
+Vevo 2K,https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+Vevo 2010年代,https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+Vevo 拉丁裔,https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
+Vevo 嘻哈,https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
+Vevo R&B,https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
+Vevo 国家,https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
+Vevo 流行音乐,https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+Vevo 功能,https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
+黄貂鱼 今天的 K-Pop,https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
+黄貂鱼 DJAZZ,https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
+黄貂鱼的Qello音乐会,https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+黄貂鱼 Smooth Jazz,https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
+经典黄貂鱼,https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
+黄貂鱼今天的拉丁流行音乐,https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
+黄貂鱼浪漫拉丁裔,https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
+黄貂鱼轻松聆听,https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
+黄貂鱼经典摇滚,https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
+黄貂鱼嘻哈,https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
+黄貂鱼炎热的乡村,https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
+黄貂鱼最热门的歌曲,https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+欧洲新闻直播,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+喜剧电影,https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+Zee世界,https://i.mjh.nz/SamsungTVPlus/GBBD1100013BJ.m3u8
+邪恶的金枪鱼海峡,https://i.mjh.nz/SamsungTVPlus/GBBC900004G9.m3u8
+科农奥布莱恩电视台,https://i.mjh.nz/SamsungTVPlus/GB300001QO.m3u8
+喜剧中心,https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
+娱乐中心,https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
+天桥,https://i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8
+美国达人秀,https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
+美国偶像,https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
+锤子下的房屋,https://i.mjh.nz/SamsungTVPlus/GBBC900013K9.m3u8
+幸存者,https://i.mjh.nz/SamsungTVPlus/GBBB3800007BN.m3u8
+聊天节目频道,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
+悬疑电视,https://i.mjh.nz/SamsungTVPlus/GBBD50000320.m3u8
+交易或不交易美国,https://i.mjh.nz/SamsungTVPlus/GBBB38000068U.m3u8
+Mech+ 的机器人大战,https://i.mjh.nz/SamsungTVPlus/GBBD500005ZG.m3u8
+毫无意义的英国,https://i.mjh.nz/SamsungTVPlus/GBBD2500002QC.m3u8
+Wipeout Xtra,https://i.mjh.nz/SamsungTVPlus/GBBD3000001QB.m3u8
+我们到了吗,https://i.mjh.nz/SamsungTVPlus/GBBB1600006RS.m3u8
+挑战,https://i.mjh.nz/SamsungTVPlus/GBBD3100005RX.m3u8
+现实生活,https://i.mjh.nz/SamsungTVPlus/GBBC4300003XU.m3u8
+穿越地狱的高速公路,https://i.mjh.nz/SamsungTVPlus/GB500001HY.m3u8
+宠物集体,https://i.mjh.nz/SamsungTVPlus/GBAJ40003481.m3u8
+失败军,https://i.mjh.nz/SamsungTVPlus/GBAJ40003642.m3u8
+所以。。。真正,https://i.mjh.nz/SamsungTVPlus/GBBD1100009M9.m3u8
+真实系列,https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
+哈哈！网络,https://i.mjh.nz/SamsungTVPlus/GBBC900011EC.m3u8
+现场喜剧,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+新娘,https://i.mjh.nz/SamsungTVPlus/GBBD3700002J9.m3u8
+黑色阴影,https://i.mjh.nz/SamsungTVPlus/GBBB3800004IV.m3u8
+雷夫里,https://i.mjh.nz/SamsungTVPlus/GBBA3300022EI.m3u8
+天空混合,https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
+海滩守望者,https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
+流言终结者,https://i.mjh.nz/SamsungTVPlus/GB200005LI.m3u8
+犯罪内幕,https://i.mjh.nz/SamsungTVPlus/GBBD500002R4.m3u8
+英国真实犯罪,https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
+日期线 24/7,https://i.mjh.nz/SamsungTVPlus/GBBD3700001AB.m3u8
+犯罪与正义,https://i.mjh.nz/SamsungTVPlus/GBBD260000189.m3u8
+闹鬼电视,https://i.mjh.nz/SamsungTVPlus/GBBC900005T0.m3u8
+奇迹,https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
+纪录片,https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
+世界大战电视,https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+历史命中,https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
+爱护地球,https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
+PBS历史,https://i.mjh.nz/SamsungTVPlus/GBBA33000540B.m3u8
+杰克·汉纳,https://i.mjh.nz/SamsungTVPlus/GBBD50000084W.m3u8
+水熊,https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+美国有线电视新闻网,https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+法国 24 斋戒,https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
+NBC新闻,https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+彭博电视,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+彭博原创,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+国标新闻,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+卫报,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
+壁炉,https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
+麻烦,https://i.mjh.nz/SamsungTVPlus/GBAJ42000019J.m3u8
+旅行,https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
+GoUSA电视台,https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
+爱宠物,https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
+贵族与王朝,https://i.mjh.nz/SamsungTVPlus/GBBD1100014ZH.m3u8
+时尚电视,https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
+杰米·奥利弗频道,https://i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8
+英国主厨,https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
+英式美食,https://i.mjh.nz/SamsungTVPlus/GBBC900014LW.m3u8
+味道,https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
+赛车,https://i.mjh.nz/SamsungTVPlus/GBBA1500006H6.m3u8
+赛车运动网络,https://i.mjh.nz/SamsungTVPlus/GBBD320000432.m3u8
+国际足联,https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+PGA巡回赛,https://i.mjh.nz/SamsungTVPlus/GBBB1500005BH.m3u8
+红牛电视,https://i.mjh.nz/SamsungTVPlus/GBBD2300003IK.m3u8
+世界扑克巡回赛,https://i.mjh.nz/SamsungTVPlus/GBBD2900001VD.m3u8
+国际网球频道,https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
+马与乡村,https://i.mjh.nz/SamsungTVPlus/GBBA2200008YU.m3u8
+强人冠军联赛,https://i.mjh.nz/SamsungTVPlus/GBBC90001089.m3u8
+乐高频道,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+蓝精灵电视,https://i.mjh.nz/SamsungTVPlus/GBBD1300001WA.m3u8
+天线宝宝,https://i.mjh.nz/SamsungTVPlus/GBBA33000286F.m3u8
+番茄酱电视,https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
+微小的 POP,https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
+家庭 - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
+SuperToons电视,https://i.mjh.nz/SamsungTVPlus/GBBD5100001HL.m3u8
+兔子入侵,https://i.mjh.nz/SamsungTVPlus/GBBD230000420.m3u8
+显示护目镜,https://i.mjh.nz/SamsungTVPlus/GBBC4000017F.m3u8
+超级动漫,https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+Beano电视,https://i.mjh.nz/SamsungTVPlus/GBBA330002536.m3u8
+丹尼斯和格纳舍尔,https://i.mjh.nz/SamsungTVPlus/GBBD1100011V3.m3u8
+呀,https://i.mjh.nz/SamsungTVPlus/GBBA3300030OP.m3u8
+Kidoodle电视,https://i.mjh.nz/SamsungTVPlus/GBAJ49000164E.m3u8
+口袋手表,https://i.mjh.nz/SamsungTVPlus/GBBD1100005QY.m3u8
+Vevo 流行音乐,https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
+嘻哈,https://i.mjh.nz/SamsungTVPlus/GBBD2300001C0.m3u8
+追踪英国,https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
+演出,https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8
+追踪城市,https://i.mjh.nz/SamsungTVPlus/GBBC900001SC.m3u8
+XITE命中,https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
+电影穹顶,https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
+闪闪发光的电影,https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
+西方电影,https://i.mjh.nz/SamsungTVPlus/GBBD500007TG.m3u8
+电影流,https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
+爱情电影,https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+电影球,https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+Popflix的,https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
+热门电影,https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+电视剧电影,https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+动作电影,https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
+科农奥布莱恩电视台,https://i.mjh.nz/SamsungTVPlus/USBD120001614.m3u8
+BBC地球,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+舞蹈妈妈,https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
+来自 FOX 的 LiveNOW,https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+ABC新闻直播,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+NBC新闻,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+美国有线电视新闻网（CNN）头条,https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
+FOX天气,https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
+BBC新闻,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+天空新闻,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+CBC国际新闻,https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
+彭博电视高清,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
+切达新闻,https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
+雅虎财经,https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
+今天全天,https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
+斯克里普斯新闻,https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
+彭博原创,https://i.mjh.nz/SamsungTVPlus/USAJ30000041W.m3u8
+今日美国,https://i.mjh.nz/SamsungTVPlus/USBB1500001GD.m3u8
+新闻马克斯2,https://i.mjh.nz/SamsungTVPlus/USBA300028QU.m3u8
+真正的美国之声,https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
+TYT网络,https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
+第一个,https://i.mjh.nz/SamsungTVPlus/US1000016Q.m3u8
+NBC湾区新闻,https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+ABC7 湾区,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+WN 旧金山,https://i.mjh.nz/SamsungTVPlus/USBB3600008BU.m3u8
+哥伦比亚广播公司新闻湾区,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+FOX 2 旧金山,https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
+离子,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+ALLBLK宝石,https://i.mjh.nz/SamsungTVPlus/USBD300022FH.m3u8
+狮子门影业的EBONY TV,https://i.mjh.nz/SamsungTVPlus/USBD2500012DH.m3u8
+心脏地区,https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
+弹跳XL,https://i.mjh.nz/SamsungTVPlus/USBD300008G1.m3u8
+离子加,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+海滩守望者,https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
+21跳跃街,https://i.mjh.nz/SamsungTVPlus/USBB320000397.m3u8
+脱脂,https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
+幸运狗,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
+鲍勃·罗斯频道,https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
+清晰度 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+电动NOW,https://i.mjh.nz/SamsungTVPlus/USBC6000225M.m3u8
+功绩街,https://i.mjh.nz/SamsungTVPlus/US70001475.m3u8
+诺西,https://i.mjh.nz/SamsungTVPlus/USAJ34000022E.m3u8
+离婚法庭,https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
+圈子,https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
+4紫外线,https://i.mjh.nz/SamsungTVPlus/USBD70000412.m3u8
+黑色阴影,https://i.mjh.nz/SamsungTVPlus/USBC1000004G8.m3u8
+后台,https://i.mjh.nz/SamsungTVPlus/USBC10000129R.m3u8
+邪恶,https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
+雷夫里,https://i.mjh.nz/SamsungTVPlus/USBA3800003VP.m3u8
+喊！电视,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
+Where 频道,https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
+心灵鸡汤,https://i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8
+通往天堂的公路,https://i.mjh.nz/SamsungTVPlus/USBB19000017U.m3u8
+K故事,https://i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8
+MHz 现在,https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
+砂砾 Xtra,https://i.mjh.nz/SamsungTVPlus/USBC24000213P.m3u8
+牛仔之路,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+兄弟电视,https://i.mjh.nz/SamsungTVPlus/USBC240001823.m3u8
+狐狸之魂,https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
+霍利维尔,https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
+TMZ公司,https://i.mjh.nz/SamsungTVPlus/USBD70000213.m3u8
+ION之谜,https://i.mjh.nz/SamsungTVPlus/USBC24000223S.m3u8
+犯罪 24/7,https://i.mjh.nz/SamsungTVPlus/USAK3508703A.m3u8
+我活了下来,https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
+世界上最邪恶的杀手,https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
+A&E 的 60 天,https://i.mjh.nz/SamsungTVPlus/USBD42000073E.m3u8
+REELZ著名与臭名昭著,https://i.mjh.nz/SamsungTVPlus/USBB3200001MG.m3u8
+犯罪惊险她,https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
+G博士：法医,https://i.mjh.nz/SamsungTVPlus/USBB3200004X3.m3u8
+犯罪 邪教 杀手,https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
+取证文件,https://i.mjh.nz/SamsungTVPlus/USBB3200017MY.m3u8
+法律与犯罪,https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
+法院电视台,https://i.mjh.nz/SamsungTVPlus/USBA34000049Z.m3u8
+冷案档案,https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
+未解之谜,https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
+新侦探,https://i.mjh.nz/SamsungTVPlus/USAJ3504547A.m3u8
+Midsomer 谋杀案,https://i.mjh.nz/SamsungTVPlus/USBC24000134A.m3u8
+日期线 24/7,https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
+未知,https://i.mjh.nz/SamsungTVPlus/USBD700021WG.m3u8
+游戏展中心,https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
+超市扫荡,https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
+成交或不成交,https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
+T2,https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+高尔夫通行证,https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
+国际足联+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+体育网格,https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
+ACC数字网络,https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8
+人们真棒,https://i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8
+匹克球电视,https://i.mjh.nz/SamsungTVPlus/USBD4200016QR.m3u8
+世界扑克巡回赛,https://i.mjh.nz/SamsungTVPlus/USBD1700009P5.m3u8
+顶级装备,https://i.mjh.nz/SamsungTVPlus/USBC2400027NG.m3u8
+MAVTV 精选,https://i.mjh.nz/SamsungTVPlus/USBD1700019RN.m3u8
+动力,https://i.mjh.nz/SamsungTVPlus/USBD2500017XQ.m3u8
+MotorTrend 快速电视,https://i.mjh.nz/SamsungTVPlus/USBC3600005U9.m3u8
+NHRA电视台,https://i.mjh.nz/SamsungTVPlus/USBC3200019WF.m3u8
+哈格蒂,https://i.mjh.nz/SamsungTVPlus/USBD4200011W4.m3u8
+力矩,https://i.mjh.nz/SamsungTVPlus/USBB5200027Z5.m3u8
+味道,https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
+请享用,https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
+古斯托电视,https://i.mjh.nz/SamsungTVPlus/USAK3508724A.m3u8
+美国测试厨房,https://i.mjh.nz/SamsungTVPlus/USBA3800002KI.m3u8
+杰米·奥利弗,https://i.mjh.nz/SamsungTVPlus/USBC4400016CL.m3u8
+PBS古董路演,https://i.mjh.nz/SamsungTVPlus/USBD4200017GS.m3u8
+家庭制造国家酒店,https://i.mjh.nz/SamsungTVPlus/USAJ3000006X5.m3u8
+焕然一新,https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
+百万美元上市,https://i.mjh.nz/SamsungTVPlus/USBB3200024V5.m3u8
+小房子国家,https://i.mjh.nz/SamsungTVPlus/USAJ3400020KC.m3u8
+古董路演,https://i.mjh.nz/SamsungTVPlus/USBC600018CF.m3u8
+这栋老房子,https://i.mjh.nz/SamsungTVPlus/USBC13000065U.m3u8
+这个老房子制造商,https://i.mjh.nz/SamsungTVPlus/USBC1300005T6.m3u8
+设计网络,https://i.mjh.nz/SamsungTVPlus/USBD1200022S1.m3u8
+翻转国家,https://i.mjh.nz/SamsungTVPlus/USBD4200008RS.m3u8
+居家,https://i.mjh.nz/SamsungTVPlus/USBD700022M5.m3u8
+在家与家人杂工,https://i.mjh.nz/SamsungTVPlus/USBD25000138Y.m3u8
+品味之家公寓,https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
+Tastemade 旅行,https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
+乔尼,https://i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8
+NBC LX主页,https://i.mjh.nz/SamsungTVPlus/USBB40000028E.m3u8
+饿,https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
+本地语,https://i.mjh.nz/SamsungTVPlus/USBC4400005HY.m3u8
+BBC家居与花园,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+BBC食品,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+全力以赴的现实,https://i.mjh.nz/SamsungTVPlus/USBB4400016F9.m3u8
+骗子,https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
+执行,https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
+交易专区,https://i.mjh.nz/SamsungTVPlus/USBB52000246M.m3u8
+赏金猎人狗,https://i.mjh.nz/SamsungTVPlus/US900002IH.m3u8
+回购操作,https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
+小妇人：洛杉矶,https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
+配对已婚相遇,https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
+所有真人秀 WE 电视,https://i.mjh.nz/SamsungTVPlus/USBD12000061R.m3u8
+典当之星,https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
+厨房噩梦,https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+美国采摘者的历史,https://i.mjh.nz/SamsungTVPlus/USBD3500041ZF.m3u8
+急诊室的干预,https://i.mjh.nz/SamsungTVPlus/USBD3500040WX.m3u8
+A&E 的囤积者,https://i.mjh.nz/SamsungTVPlus/USBD4200009Y4.m3u8
+带上它,https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
+所有婚礼,https://i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8
+不法斯特,https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
+AMC在西班牙,https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+TUDN专区,https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+Telemundo加州,https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
+Telemundo Al Día,https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
+美国有线电视新闻网（CNN）摘要,https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
+星空卫视,https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
+埃斯特雷拉新闻,https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
+埃斯特雷拉游戏,https://i.mjh.nz/SamsungTVPlus/USBC24000145I.m3u8
+索尼频道竞赛,https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
+索尼喜剧频道,https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
+索尼运河小说,https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
+Canela.TV,https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
+ViX 言情小说,https://i.mjh.nz/SamsungTVPlus/USBB44000099N.m3u8
+三玛丽酒店,https://i.mjh.nz/SamsungTVPlus/USBD17000172A.m3u8
+ViX 伟大的情侣,https://i.mjh.nz/SamsungTVPlus/USBC2100012EJ.m3u8
+ViX 小说反派,https://i.mjh.nz/SamsungTVPlus/USBC2100011WI.m3u8
+ViX JaJaJa,https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+反叛,https://i.mjh.nz/SamsungTVPlus/USBD1700018II.m3u8
+英勇者,https://i.mjh.nz/SamsungTVPlus/USBD2700002DU.m3u8
+复古电影,https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
+黄金电影院,https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
+俗话说,https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
+小巨人,https://i.mjh.nz/SamsungTVPlus/USBD2700003F3.m3u8
+此时此地,https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8
+Univision 新闻 24/7,https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
+浪漫电影,https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
+鸭子王朝,https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
+沼泽人,https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
+山地人,https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
+斧头人,https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
+危险电视,https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
+SURF NOW 电视,https://i.mjh.nz/SamsungTVPlus/USBB10000058A.m3u8
+外面,https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
+Xtreme 户外,https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
+航点电视,https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
+追求 UP,https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
+户外美式,https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
+只是为了笑 GAGS,https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
+家庭关系,https://i.mjh.nz/SamsungTVPlus/USBB3500003D6.m3u8
+哈哈！网络,https://i.mjh.nz/SamsungTVPlus/USBC1300009VM.m3u8
+波特兰迪亚,https://i.mjh.nz/SamsungTVPlus/USBD12000038K.m3u8
+宠物集体,https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
+失败军,https://i.mjh.nz/SamsungTVPlus/USAJ3504702A.m3u8
+总是有趣的视频,https://i.mjh.nz/SamsungTVPlus/USBA1600001XM.m3u8
+干酒吧喜剧,https://i.mjh.nz/SamsungTVPlus/USAJ30000039U.m3u8
+喜剧动态,https://i.mjh.nz/SamsungTVPlus/USBD7000145C.m3u8
+里夫特拉克斯,https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
+地狱厨房,https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
+恐惧因素,https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
+存储大战：洛杉矶,https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
+孤独的历史,https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
+在火中锻造,https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
+冰路卡车司机,https://i.mjh.nz/SamsungTVPlus/USBB520002173.m3u8
+擦除 Xtra,https://i.mjh.nz/SamsungTVPlus/USBB4400018LR.m3u8
+挑战,https://i.mjh.nz/SamsungTVPlus/USBB3500001O6.m3u8
+天桥2,https://i.mjh.nz/SamsungTVPlus/USBB3500004RC.m3u8
+IGN公司,https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
+石头,https://i.mjh.nz/SamsungTVPlus/USBD50000048H.m3u8
+消防员山姆,https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
+小爱因斯坦,https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
+天线宝宝2,https://i.mjh.nz/SamsungTVPlus/USBD3500015R5.m3u8
+巴尼和朋友们,https://i.mjh.nz/SamsungTVPlus/US300001UO.m3u8
+鲍勃建筑商,https://i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8
+草莓酥饼,https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
+月虫,https://i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8
+瑞安和朋友们,https://i.mjh.nz/SamsungTVPlus/USBD12000239N.m3u8
+乐高频道,https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
+刺猬索尼克,https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
+斯拉格特拉,https://i.mjh.nz/SamsungTVPlus/USBD33000180S.m3u8
+快乐的孩子,https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
+口袋手表,https://i.mjh.nz/SamsungTVPlus/USBD12000153A.m3u8
+电池POP,https://i.mjh.nz/SamsungTVPlus/USBD3300012VX.m3u8
+显示护目镜,https://i.mjh.nz/SamsungTVPlus/USBB1900004J9.m3u8
+TG少年,https://i.mjh.nz/SamsungTVPlus/USBB3600001R6.m3u8
+所有婴儿频道,https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
+彩虹红宝石,https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
+Kidoodle.TV,https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
+小感性,https://i.mjh.nz/SamsungTVPlus/USBD3300013KV.m3u8
+感性制造者,https://i.mjh.nz/SamsungTVPlus/USBD3300017XB.m3u8
+动物园哞哞,https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
+转速和滚动,https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
+历史 365,https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
+军事英雄,https://i.mjh.nz/SamsungTVPlus/USBC39000204J.m3u8
+历史呈现的现代奇迹,https://i.mjh.nz/SamsungTVPlus/USBB5200025DO.m3u8
+爱自然 4K,https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
+历史与战争,https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
+克普洛尔酒店,https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
+杰克·汉纳频道,https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
+罗弗宠物酒店,https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
+InWonder,https://i.mjh.nz/SamsungTVPlus/USBA300023G8.m3u8
+麦哲伦电视台现在,https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
+天气间谍,https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
+泰德,https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
+ZenLIFE 的 Stingray,https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
+黄貂鱼自然景观,https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
+PBS数字演播室,https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
+4K放大镜,https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
+壁炉 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+黄貂鱼假日景观,https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
+黄貂鱼水疗中心,https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
+恐惧区,https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
+橡树岛的诅咒,https://i.mjh.nz/SamsungTVPlus/US300002BE.m3u8
+谜团 Xplored,https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
+闹鬼电视,https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
+外球,https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
+不明,https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8
+行尸走肉宇宙,https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
+疯人院酒店,https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
+DUST 开发的 Alien Nation,https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
+ALTER 的恐怖片,https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
+复古粉碎,https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
+午夜纸浆,https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
+Hallmark 电影及更多,https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
+Lifetime 的电影收藏夹,https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8
+电影球,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+FilmRise 免费电影,https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
+MyTime电影网,https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
+FilmRise 动作,https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
+纪录片+,https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
+特立独行的黑人电影院,https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
+Gravitas 电影,https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
+CINEVAULT：经典,https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
+CINEVAULT,https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
+CINEVAULT：西部片,https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
+FilmRise 西部片,https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
 网络直播,#genre#
 相声,https://epg.pw/stream/7ff14752c71476591907a959026d942c2f44896a1f80ff8f037d2c6e44d780df.ctv
 邵氏经典,http://diyp.112114.xyz/douyu/4246519
