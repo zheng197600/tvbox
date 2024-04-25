@@ -20,7 +20,9 @@ TVB--功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 Taiwan Plus[geo-blocked],https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
-三立新聞,https://epg.pw/stream/ae362af69eda8cee8e1789bd9fa32cd22b00032d40e277ce429803df204b7452.m3u8
+三立新闻,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+台视新闻,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+民视新闻台,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 中天新聞,https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
 寰宇新聞[geo-blocked],https://epg.pw/stream/1a8764d080afe4b8543f76b10ec64c55d4ae232d73ac71da514a7ba834f2b0e6.m3u8
 人間衛視,https://epg.pw/stream/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8
@@ -1575,6 +1577,7 @@ CINEVAULT：西部片,https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
 FilmRise 西部片,https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
 网络直播,#genre#
 相声,https://epg.pw/stream/7ff14752c71476591907a959026d942c2f44896a1f80ff8f037d2c6e44d780df.ctv
+相声2,https://epg.pw/stream/4f153d0b8aac97ab46c0a2fde9c1e822c51eea290bc460fa68184e1a2eb2a758.ctv
 邵氏经典,http://diyp.112114.xyz/douyu/4246519
 邵氏经典,http://43.138.170.29:35455/douyu/4246519
 地下交通站,https://lunbo.freetv.top/yy/1353428972
@@ -1589,6 +1592,10 @@ FilmRise 西部片,https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
 剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
 古惑仔,https://live.metshop.top/yy/1354507447
 我爱我家,https://lunbo.freetv.top/yy/1382735557
+梁家輝,https://epg.pw/stream/5dfae39abd6f9d3c8386b5ad0d4dfc44907ca31bcbc146239512ef447d5650ab.ctv
+甄子丹,https://epg.pw/stream/b3c5fb71d628359db3178eafbbacd4fa5379703565645966308ad63c0cefef6f.ctv
+洪金宝,https://epg.pw/stream/9f45b3b93b419e28b61e26599fd1edc882bca9c3f379013bbe4986c5a2d03e29.ctv
+李连杰,https://epg.pw/stream/c26e5cf52c15c9ce5363b589fc18a01a12c595ff8dac1a4a89ef3f1d620923de.ctv
 成龙,https://epg.pw/stream/a002c7187d88a86ec0c2fa32b9fe9cf942e45516816cb166f673c32a99c6f8a5.ctv
 功夫聯盟2020,https://epg.pw/stream/67aaee2b61583b2490dc4e81261e7a58deacd799114744eebd78d362ce589da9.ctv
 中二日記搞笑動畫,https://epg.pw/stream/b1161e0171874d4e5a0de3395bd505890b33902f06777f4e316f07b6a1ce5a82.ctv
