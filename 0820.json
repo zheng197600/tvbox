@@ -33,11 +33,10 @@
 
 
 
-{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy","jar":"./jar/pg.jar"},
+
 {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1","jar":"./jar/pg.jar"},
-{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
+{"key":"drpy_js_ikanbot","name":"聚搜 | 爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_网飞.TV","name":"影视 | 网飞.TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
-{"key":"csp_xb_华乐影院","name":"华乐影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://huale.tv/vodtype/{cateId}-{catePg}.html"},
 {"key":"快看资源","name":"快看资源","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源","type":0,"api":"https://taopianapi.com/cjapi/mc/vod/xml","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
@@ -79,6 +78,9 @@
 {"key":"yqk","name":"一起看[cat]","type":3,"api":"./js/yqktv_open.js"},
 {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./js/ng_open.js"},
 {"key":"livbo","name":"荔波[cat]","type":3,"api":"./js/MyCatLibvio.js"},
+{"key":"csp_xb_华乐影院","name":"华乐影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://huale.tv/vodtype/{cateId}-{catePg}.html"},
+{"key":"csp_xb_LIBVIO","name":"LIBVIO[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/type/{cateId}-{catePg}.html"},
+{"key":"csp_xb_骚火电影","name":"骚火电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy2.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/歪片星球.json"},
 {"key":"csp_xb_影渣渣","name":"影渣渣[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yingzhazha.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_枫林网","name":"枫林网[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://imaple8.co/type/{cateId}-{catePg}.html"},
