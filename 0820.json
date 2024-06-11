@@ -72,8 +72,6 @@
 
 
 {"key": "csp_XYQHiker_348电影网","name":"348电影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/348电影网.json"},
-{"key": "csp_XYQHiker_黑料网","name":"黑料网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黑料网.json"},
-{"key": "csp_XYQHiker_午夜剧场","name":"午夜剧场","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/午夜剧场.json"},
 {"key": "csp_XYQHiker_臭蛋蛋影视","name":"臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/臭蛋蛋影视.json"},
 {"key": "csp_XYQHiker_电影港磁力","name":"电影港磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/电影港磁力.json"},
 {"key": "csp_XYQHiker_高清MP4","name":"高清MP4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/高清MP4.json"},
