@@ -1,5 +1,6 @@
 港澳台,#genre#
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+WU TANG 功夫电影,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
 ABN_China_(720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 悟道法师讲经,https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -27,6 +28,7 @@ TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 鳳凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 重温经典,http://mtw.so/5NPX0U
+Bread_TV面包台_(720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?$720P
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8?$720P
 港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?$720P
@@ -441,6 +443,19 @@ oe檔案,https://epg.pw/stream/3d85b278208a2cda2ba319040c649016f5671c9d0ea1698a6
 漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
 霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
 鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
+4K电影,http://allinone.netsite.cc/douyu/9249162
+华语电影1,http://allinone.netsite.cc/douyu/122402
+华语电影2,http://allinone.netsite.cc/douyu/85894
+粤语电影,http://allinone.netsite.cc/douyu/6566671
+欧美电影,http://allinone.netsite.cc/douyu/20415
+国内惊悚,http://allinone.netsite.cc/douyu/218859
+国外惊悚,http://allinone.netsite.cc/douyu/96577
+斗鱼电影1,http://allinone.netsite.cc/douyu/747764
+斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
+斗鱼电影3,http://allinone.netsite.cc/douyu/36337
+斗鱼电影4,http://allinone.netsite.cc/douyu/2436390
+斗鱼电影5,http://allinone.netsite.cc/douyu/323876
+榜单电影,http://allinone.netsite.cc/douyu/8770422
 死神来了系列,https://epg.pw/stream/ef63e2b0f6a5742801d6656721b915769a02f19fe005102d7718e42eb2b4a99b.ctv
 韩国高分动作片,https://epg.pw/stream/df9cec9d3667b14006fc1e8945793fcf625efc355911ece858ba8e9833b984ee.ctv
 科技pro,https://epg.pw/stream/3b7734d61a7d8ae7353fe86995dfe2ba22b169b0b32830d7908c33ffab99e95e.ctv
