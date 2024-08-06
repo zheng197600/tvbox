@@ -41,10 +41,6 @@ TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0
 赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
-海南公共,https://live3.hnntv.cn/srs/tv/ggpd.m3u8
-海南文旅,https://live3.hnntv.cn/srs/tv/wlpd.m3u8
-海南新闻,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
-海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
@@ -155,7 +151,6 @@ TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0
 通川,rtmp://tv.drs.dzxw.net/channellive/tcpd-dz3
 达川生活,rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
 包头,rtmp://test5.btzx.com.cn/live/kkdl.stream
-新闻,rtmp://test5.btzx.com.cn/live/13TV.stream
 宿豫,rtmp://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd
 睢宁,rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh
 泗阳,rtmp://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx
