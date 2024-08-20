@@ -183,6 +183,11 @@
 
 
 
+
+
+{"key":"csp_xb_也许影视","name":"也许影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yxys.live/index.php/vod/type/id/{cateId}-{catePg}.html"},
+{"key":"csp_xb_飘花影院","name":"飘花影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jisuys.com/index.php/vod/type/id/{cateId}-{catePg}.html"},
+{"key":"csp_xb_影视网","name":"影视网[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingshi.cc/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_爱看影院","name":"爱看影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.3ayy.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_华乐影院","name":"华乐影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://huale.tv/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_LIBVIO","name":"LIBVIO[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/type/{cateId}-{catePg}.html"},
