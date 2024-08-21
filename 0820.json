@@ -85,7 +85,7 @@
 
 {"key":"csp_xb_影视街","name":"影视街[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mov.idoog.me/index.php/vod/type/id/{cateId}-{catePg}.html"},
 {"key":"csp_xb_白嫖影院","name":"白嫖影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://love.xn--04s00ixzyhf3a.com/index.php/vod/type/id/{cateId}-{catePg}.html"},
-{"key":"csp_xb_BT天堂","name":"BT天堂[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bttt11.com/html/page-{cateId}-{catePg}-0.html"},
+{"key":"csp_xb_12BT","name":"12BT[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.12bt.cc/vod-type-id-{cateId}-{catePg}-pg-1.html"},
 
 
 
@@ -192,7 +192,6 @@
 {"key":"csp_xb_94i影城","name":"94i影城[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://94itv.app/vod-type-id-{cateId}-{catePg}.html"},
 {"key":"csp_xb_蓝光影院","name":"蓝光影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_日剧TV","name":"日剧TV[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.rjtv6.com/list/{cateId}-{catePg}.html"},
-{"key":"csp_xb_12BT","name":"12BT[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.12bt.cc/vod-type-id-{cateId}-{catePg}-pg-1.html"},
 {"key":"csp_xb_LOL电影天堂","name":"LOL电影天堂[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.993dy.com/vod-type-id-{cateId}-{catePg}-pg-1.html"},
 {"key":"csp_xb_天天看电影","name":"天天看电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tiantk1.com/channel/index{cateId}-{catePg}.html"},
 {"key":"csp_xb_星辰影院","name":"星辰影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xinpengboligang.com/vodtype/{cateId}-{catePg}.html"},
@@ -271,7 +270,6 @@
 {"key":"csp_xb_全集网","name":"全集网[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yijia5.com/{cateId}-{catePg}.html"},
 {"key":"csp_xb_看戏影视","name":"看戏影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kanxig.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xb_蚂蚁影视","name":"蚂蚁影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.mayiyingshi.tv/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xb_华乐影视","name":"华乐影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.tv/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_影视控","name":"影视控[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yingshikong1.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xb_飞飞影视","name":"飞飞影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kaixinfang.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_打工人影院","name":"打工人影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dagongren2.com/list/{cateId}-{catePg}.html"},
