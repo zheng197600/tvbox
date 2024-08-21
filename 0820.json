@@ -84,6 +84,8 @@
 
 
 {"key":"csp_xb_影视街","name":"影视街[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mov.idoog.me/index.php/vod/type/id/{cateId}-{catePg}.html"},
+{"key":"csp_xb_白嫖影院","name":"白嫖影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://love.xn--04s00ixzyhf3a.com/index.php/vod/type/id/{cateId}-{catePg}.html"},
+{"key":"csp_xb_电影先生","name":"电影先生[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zgcwt.com/vodtype/{cateId}-{catePg}.html"},
 
 
 
