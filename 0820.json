@@ -13,7 +13,6 @@
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
 {"key":"道长直播2点播","name":"电视 | 直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json"},
-{"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/相声随身听.js","playerType":"2"},
 {"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/短视频.js"},
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷6网.js"},
 {"key":"drpy_js_苹果DJ","name":"MV | 苹果DJ[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/苹果DJ.js"},
@@ -37,7 +36,7 @@
 
 
 
-{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1","jar":"./jar/pg.jar"},
+
 
 
 {"key":"drpy_js_子子影视","name":"子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
@@ -46,14 +45,13 @@
 {"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider.jar"},
 {"key": "少泽影客（APP）","name": "少泽影客（APP）","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
 {"key":"csp_xpath_mp4dy","name":"mp4电影(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/mp4dy.json"},
-{"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1,"jar":"./jar/pg.jar"},
 {"key":"鸭奈飞","name":"鸭奈飞┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"分享雨晴","name":"晴天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
 
 
 
-{"key":"南瓜影视","name":"南瓜影视[cat]","type":3,"api":"./js/ng_open.js"},
+
 {"key":"一起看","name":"一起看[cat]","type":3,"api":"./js/yqktv_open.js"},
 
 
@@ -67,12 +65,12 @@
 {"key":"csp_xBPQ_酷云影视","name":"酷云影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/酷云影视.json"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/石榴电影.json"},
 {"key":"csp_xBPQ_茶狐杯","name":"茶狐杯","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/茶狐杯.json"},
-{"key":"csp_xBPQ_西屋影视","name":"西屋影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/西屋影视.json"},
 
 
 
-{"key": "csp_XYQHiker_348电影网","name":"348电影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/348电影网.json"},
-{"key": "csp_XYQHiker_臭蛋蛋影视","name":"臭蛋蛋影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/臭蛋蛋影视.json"},
+
+
+
 {"key": "csp_XYQHiker_电影港磁力","name":"电影港磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/电影港磁力.json"},
 {"key": "csp_XYQHiker_高清MP4","name":"高清MP4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/高清MP4.json"},
 {"key": "csp_XYQHiker_素白白影视","name":"素白白影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/素白白影视.json"},
@@ -94,12 +92,10 @@
 
 
 {"key":"drpy_js_ikanbot","name":"聚搜 | 爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
-{"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
 {"key":"drpy_js_磁力熊[磁]","name":"磁力熊[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊[磁].js"},
 {"key":"drpy_js_网飞.TV","name":"网飞.TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
 {"key":"drpy_js_6V新版[磁]","name":"6V新版[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/6V新版[磁].js"},
 {"key":"drpy_js_厂长资源","name":"厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
-{"key":"drpy_js_4k剧院","name":"4k剧院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4k剧院.js"},
 {"key":"drpy_js_555电影","name":"555电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影.js"},
 {"key":"drpy_js_影视工场","name":"影视工场[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视工场.js"},
 {"key":"drpy_js_万能影视","name":"万能影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/万能影视.js"},
