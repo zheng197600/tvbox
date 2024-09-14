@@ -16311,9 +16311,6 @@ VIP频道_8880,#genre#
 日本高清DV,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6225/index.m3u8
 映画・チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 午夜低俗,https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8
-FTV 午夜秘密,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-EPG ： 午夜纸浆,https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
-FTV 午夜秘密2,https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 花花公子+,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
 VENUS,http://168.181.122.234:8000/play/a027/index.m3u8
 Blue Hustler,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
