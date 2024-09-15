@@ -277,12 +277,35 @@ TRA体育台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv077
 Smart频道,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn19
 GLo-Bet台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
 Ginx-TV台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv053
-数字电视,#genre#
+IPTV源,#genre#
+茶频道台,http://111.73.20.252:8688/udp/239.252.220.160:5140
+快乐垂钓,http://111.73.20.252:8688/udp/239.252.220.177:5140
+IPTV体育,http://111.73.20.252:8688/udp/239.252.220.211:5140
+世界地理,http://111.73.20.252:8688/udp/239.252.219.93:5140
+金鹰纪实,http://111.73.20.252:8688/udp/239.252.220.155:5140
+东方财经,http://111.73.20.252:8688/udp/239.252.219.57:5140
+上海纪实,http://111.73.20.252:8688/udp/239.252.219.227:5140
+梨园频道,http://111.73.20.252:8688/udp/239.252.220.179:5140
+武术世界,http://111.73.20.252:8688/udp/239.252.220.180:5140
+文物宝库,http://111.73.20.252:8688/udp/239.252.220.158:5140
+央视精品,http://111.73.20.252:8688/udp/239.252.219.81:5140
+央视台球,http://111.73.20.252:8688/udp/239.252.219.80:5140
+风云音乐,http://111.73.20.252:8688/udp/239.252.219.87:5140
+第一剧场,http://111.73.20.252:8688/udp/239.252.219.86:5140
+风云剧场,http://111.73.20.252:8688/udp/239.252.219.89:5140
+怀旧剧场,http://111.73.20.252:8688/udp/239.252.219.90:5140
+女性时尚,http://111.73.20.252:8688/udp/239.252.219.94:5140
+央视网球,http://111.73.20.252:8688/udp/239.252.219.95:5140
+风云足球,http://111.73.20.252:8688/udp/239.252.219.96:5140
+电视指南,http://111.73.20.252:8688/udp/239.252.219.97:5140
+兵器科技,http://111.73.20.252:8688/udp/239.252.219.98:5140
+CHC高清电影,http://111.73.20.252:8688/udp/239.252.219.83:5140
+CHC家庭影院,http://111.73.20.252:8688/udp/239.252.219.84:5140
+CHC动作电影,http://111.73.20.252:8688/udp/239.252.219.85:5140
+都市剧场,http://111.73.20.252:8688/udp/239.252.219.225:5140
 第一剧场,http://117.82.217.77:4000/rtp/239.49.8.94:8000?
-都市剧场,http://115.199.52.77:8888/rtp/233.50.201.190:5140?
 风云剧场,http://117.82.217.77:4000/rtp/239.49.8.89:8000?
 怀旧剧场,http://117.82.217.77:4000/rtp/239.49.8.91:8000?
-欢笑剧场,http://115.199.52.77:8888/rtp/233.50.201.189:5140?
 风云音乐,http://117.82.217.77:4000/rtp/239.49.8.92:8000?
 女性时尚,http://117.82.217.77:4000/rtp/239.49.8.93:8000?
 江苏体育,http://117.82.217.77:4000/rtp/239.49.8.117:8000?
@@ -661,7 +684,70 @@ UFC格斗精选,http://120.77.28.4:8648/mgu.php?id=ufcgdjx
 四海钓鱼,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=229
 风尚音乐,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=294
 重温经典,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
-
+NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK BS Premium,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS Nittere,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS Asahi,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS TV Tokyo,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS Fuji,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOW Prime,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOW Live,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOW Cinema,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Star Channel 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Star Channel 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Star Channel 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS Animax,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS Sky PerfecTV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS Tsuri Vision,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Nippon Eiga Senmon Channel,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Toei Channel,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Channel Neco,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Movie Plus,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Sky A,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Gaora Sports,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Nittere G+,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Golf Network,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Jidaigeki Senmon Channel,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Family Gekijo,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Channel Ginga,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Super! Drama TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Fox Japan,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Lala TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Music On! TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Kids Station,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Nittere News 24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+AT-X,https://list.iptvcat.com/my_list/s/701eca05f81082b789be1cbc0306632f.m3u8
+NHKBS1,#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHKBSP,#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS日テレ (720p Willfon),#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS朝日 (720p Willfon),#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BS-TBS (720p Willfon),#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ東 (720p Willfon),#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSフジ (720p Willfon),#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合・東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK Eテレ・東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+TBSテレビ,#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ東京,#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレNEWS24,#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Action,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 101,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/101/index.m3u8
 102,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/102/index.m3u8
 103,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/103/index.m3u8
@@ -788,6 +874,27 @@ UFC格斗精选,http://120.77.28.4:8648/mgu.php?id=ufcgdjx
 288,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/288/index.m3u8
 289,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/289/index.m3u8
 290,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/290/index.m3u8
+9,http://168.181.122.234:8000/play/a010/index.m3u8
+10,http://168.181.122.234:8000/play/a011/index.m3u8
+18,http://168.181.122.234:8000/play/a019/index.m3u8
+19,http://168.181.122.234:8000/play/a020/index.m3u8
+23,http://168.181.122.234:8000/play/a024/index.m3u8
+24,http://168.181.122.234:8000/play/a025/index.m3u8
+26,http://168.181.122.234:8000/play/a027/index.m3u8
+27,http://168.181.122.234:8000/play/a028/index.m3u8
+28,http://168.181.122.234:8000/play/a029/index.m3u8
+29,http://168.181.122.234:8000/play/a030/index.m3u8
+30,http://168.181.122.234:8000/play/a031/index.m3u8
+31,http://168.181.122.234:8000/play/a032/index.m3u8
+32,http://168.181.122.234:8000/play/a033/index.m3u8
+33,http://168.181.122.234:8000/play/a034/index.m3u8
+34,http://168.181.122.234:8000/play/a035/index.m3u8
+37,http://168.181.122.234:8000/play/a038/index.m3u8
+38,http://168.181.122.234:8000/play/a039/index.m3u8
+39,http://168.181.122.234:8000/play/a040/index.m3u8
+40,http://168.181.122.234:8000/play/a041/index.m3u8
+41,http://168.181.122.234:8000/play/a042/index.m3u8
+42,http://168.181.122.234:8000/play/a043/index.m3u8
 国内电视,#genre#
 cctv6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -2146,17 +2253,6 @@ FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m
 MyTime movie,https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 TaiwanPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-時代劇専門,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Action,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
@@ -16417,3 +16513,286 @@ Anal,http://cdn.adultiptv.net/anal.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Gay,http://cdn.adultiptv.net/gay.m3u8
+日本映画専門,http://103.197.59.106:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
+日本高清DV,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6225/index.m3u8
+日本高清DV,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6225/index.m3u8
+映画・チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+午夜低俗,https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8
+花花公子+,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+VENUS,http://168.181.122.234:8000/play/a027/index.m3u8
+Blue Hustler,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
+charm,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/18053/index.m3u8
+Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
+XXL,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
+Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
+girls live,https://live.mycamtv.com/stream.m3u8
+PRIVATE,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/243/index.m3u8
+DORCEL,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8
+Hustler,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/244/index.m3u8
+Redlight HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
+Miami TV Sun Beach,http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
+Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+Eropulse TV,http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+TELE 8,http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+BCU Charm HD,http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
+SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
+for brunette secretary with fake agent,http://11216.vod.adultiptv.net/ph59955c90e48af/play.m3u8
+直播720,http://cdn.adultiptv.net/livecams.m3u8
+肛交720,http://cdn.adultiptv.net/anal.m3u8
+巨尻720,http://cdn.adultiptv.net/bigass.m3u8
+大鸟720,http://cdn.adultiptv.net/bigdick.m3u8
+爆乳720,http://cdn.adultiptv.net/bigtits.m3u8
+金发720,http://cdn.adultiptv.net/blonde.m3u8
+口交720,http://cdn.adultiptv.net/blowjob.m3u8
+褐发720,http://cdn.adultiptv.net/brunette.m3u8
+合集720,http://cdn.adultiptv.net/compilation.m3u8
+绿帽720,http://cdn.adultiptv.net/cuckold.m3u8
+恋物720,http://cdn.adultiptv.net/fetish.m3u8
+群交720,http://cdn.adultiptv.net/gangbang.m3u8
+男同720,http://cdn.adultiptv.net/gay.m3u8
+硬核720,http://cdn.adultiptv.net/hardcore.m3u8
+异种720,http://cdn.adultiptv.net/interracial.m3u8
+拉丁720,http://cdn.adultiptv.net/latina.m3u8
+女同720,http://cdn.adultiptv.net/lesbian.m3u8
+少妇720,http://cdn.adultiptv.net/milf.m3u8
+色星720,http://cdn.adultiptv.net/pornstar.m3u8
+第一视角720,http://cdn.adultiptv.net/pov.m3u8
+粗暴720,http://cdn.adultiptv.net/rough.m3u8
+俄罗斯720,http://cdn.adultiptv.net/russian.m3u8
+720,http://cdn.adultiptv.net/teen.m3u8
+三人720,http://cdn.adultiptv.net/threesome.m3u8
+限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=liv
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+Miami TV Mexico (1080p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+O-la-la! (576p),http://31.148.48.15/O-la-la/index.m3u8
+二本04,http://live.redtraffic.xyz:80/blowjob.m3u8
+欧美01,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美02,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+松视1,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
+玩美台,http://live.redtraffic.xyz:80/pov.m3u8
+BigTits,http://live.redtraffic.xyz/bigtits.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8
+MyCamTV Asian (720p),https://live.mycamtv.com/asian.m3u8
+MyCamTV Big Ass (720p),https://live.mycamtv.com/defstream.m3u8
+MyCamTV Brunette (720p),https://live.mycamtv.com/brunette.m3u8
+欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
+欧美版惊艳,http://live.redtraffic.xyz:80/cuckold.m3u8
+欧美版惊艳,http://cdn.adultiptv.net/cuckold.m3u8
+欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
+欧美版松視4,http://live.redtraffic.xyz/latina.m3u8
+欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8
+欧美版粉红,http://live.redtraffic.xyz/teen.m3u8
+欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8
+欧美版玩美,http://live.redtraffic.xyz/pov.m3u8
+欧美版HOT,http://live.redtraffic.xyz:80/hardcore.m3u8
+欧美版彩虹,http://live.redtraffic.xyz:80/bigtits.m3u8
+欧美版潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8
+欧美版现场,http://live.redtraffic.xyz/livecams.m3u8
+欧美版大屌,http://live.redtraffic.xyz/rough.m3u8
+Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
+Compilation,http://live.redtraffic.xyz/compilation.m3u8
+Brunette,http://live.redtraffic.xyz/brunette.m3u8
+Blonde,http://live.redtraffic.xyz/blonde.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8
+Anal,http://live.redtraffic.xyz/anal.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+Anal,http://live.mycamtv.com/anal.m3u8
+AsianGirls,http://live.mycamtv.com/asian.m3u8
+Big_Ass_Girls,http://live.mycamtv.com/bigass.m3u8
+BigTits_Girls,http://live.mycamtv.com/bigtits.m3u8
+Blonde_Girls,http://live.mycamtv.com/blonde.m3u8
+Brunette_Girls,http://live.mycamtv.com/brunette.m3u8
+Ebony_Girls,http://live.mycamtv.com/ebony.m3u8
+Girls_Squirt,http://live.mycamtv.com/squirt.m3u8
+Latina_Girls,http://live.mycamtv.com/latina.m3u8
+SkinnyGirls,http://live.mycamtv.com/skinny.m3u8
+WhiteGirls,http://live.mycamtv.com/white.m3u8
+BigDick,http://live.redtraffic.xyz/bigdick.m3u8
+EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+Interracial,http://cdn.adultiptv.net/interracial.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+电影XXX,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
+电影18+,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
+电影+18,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18076/index.m3u8?
+花花公子+,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6242/index.m3u8?
+花花公子+,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+花花公子+,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6242/index.m3u8
+花花公子+,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/6242/index.m3u8
+日本高清DV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8
+日本高清DV,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8?
+日本高清DV,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/6225/index.m3u8
+日本高清DV,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6225/index.m3u8
+日本高清DV,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8
+日本高清DV,http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/6225/index.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+japanhdv,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/6225/index.m3u8
+japanhdv,http://rhsbjv7k.tvclub.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
+japanhdv,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/6225/index.m3u8
+playboy+,http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/6242/index.m3u8
+playboy+,http://rhsbjv7k.tvclub.xyz/iptv/7XBZV8CQEYWT3U/6242/index.m3u8
+playboy+,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
+playboy+,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/6242/index.m3u8
+BCU Charm  ,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/18053/index.m3u8
+центральное тв Ru,http://j6ivg8rq.russtv.net/iptv/8T27RV8PPL5EKE/20090/manifest.m3u8
+BCU Charm ,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/18053/index.m3u8
+BCU Charm ,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18053/index.m3u8
+BCU Charm ,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8
+Adult TV (18+),http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/31707/index.m3u8
+Ню Арт HD (18+),http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/31716/index.m3u8
+Charm ,http://ca.ukrainske.tv/7141/DF9D16B4057FD00/video.m3u8
+BCU Charm,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
+Кино 18 + HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8
+Кино 18 + International,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18076/index.m3u8
+Eroxxx HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
+Eroxxx HD,http://ca.ukrainske.tv/596/3530225EDBD6B16/video.m3u8
+Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+SexArt,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6253/index.m3u8
+SexArt,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6253/index.m3u8
+Pornstar Red TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6243/index.m3u8
+POV Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
+Japan HDV,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
+Japan HDV,http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/6225/index.m3u8
+Japan HDV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6225/index.m3u8
+Latina Red TV,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6226/index.m3u8
+Brazzers HD,http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
+Threesome,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8?
+Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+Fake Taxi ,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6202/index.m3u8
+Cum4k,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6190/index.m3u8
+Eromania 4K,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/10049/index.m3u8
+XY Plus 2,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12116/index.m3u8
+Super one HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12121/index.m3u8
+Dirty Wives Club,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12122/index.m3u8
+LEO TV FHD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12123/index.m3u8
+French Lover,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12124/index.m3u8
+Meiden Van Holland,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12125/index.m3u8
+Playboy LA,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6280/index.m3u8
+Red XXX,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6281/index.m3u8
+Sexy Hot,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6282/index.m3u8
+Taboo,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6283/index.m3u8
+Venus,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6284/index.m3u8
+X-MO,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6285/index.m3u8
+XY Max HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6286/index.m3u8
+XY Plus HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6288/index.m3u8
+Erotic,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6289/index.m3u8
+Erotic 3,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6291/index.m3u8
+Erotic 4,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6292/index.m3u8
+Erotic 6,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6293/index.m3u8
+Erotic 7,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6294/index.m3u8
+Erotic 8,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6295/index.m3u8
+Erox HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6296/index.m3u8
+MvH Hard,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6297/index.m3u8
+SuperOne HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6298/index.m3u8
+Dorcel HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9064/index.m3u8
+Redlight HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9066/index.m3u8
+Dorcel TV HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9067/index.m3u8
+O-La-La orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9068/index.m3u8
+Family Hookups,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9345/index.m3u8
+EXXXOTICA HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9346/index.m3u8
+ОХ-АХ HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11068/index.m3u8
+KinoXXX,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11052/index.m3u8
+EXTASY HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11051/index.m3u8
+VF Cartoon 18+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11117/index.m3u8
+Kinoshka Adult HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18060/index.m3u8
+Eromania 4K,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/10049/index.m3u8
+DuckTV HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18138/index.m3u8
+Visit X TV,https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
+extasy4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/5014/index.m3u8
+tiny4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/6258/index.m3u8
+Only One Man In Japanese step Familys - LinkFull In My Frofile,http://12156.vod.redtraffic.xyz/ph5b5f2516e12a1/play.m3u8
+Anal (CDN•AdultIPTV),https://cdn.adultiptv.net/anal.m3u8
+Asian (CDN•AdultIPTV),https://cdn.adultiptv.net/asian.m3u8
+Big Ass (CDN•AdultIPTV),https://cdn.adultiptv.net/bigass.m3u8
+Big Dick (CDN•AdultIPTV),https://cdn.adultiptv.net/bigdick.m3u8
+Big Tits (CDN•AdultIPTV),https://cdn.adultiptv.net/bigtits.m3u8
+Blonde (CDN•AdultIPTV),https://cdn.adultiptv.net/blonde.m3u8
+Blowjob (CDN•AdultIPTV),https://cdn.adultiptv.net/blowjob.m3u8
+Brunette (CDN•AdultIPTV),https://cdn.adultiptv.net/brunette.m3u8
+Compilation (CDN•AdultIPTV),https://cdn.adultiptv.net/compilation.m3u8
+Cuckold (CDN•AdultIPTV),https://cdn.adultiptv.net/cuckold.m3u8
+Pornstar (CDN•AdultIPTV),https://cdn.adultiptv.net/pornstar.m3u8
+Russian (CDN•AdultIPTV),https://cdn.adultiptv.net/russian.m3u8
+Teen (CDN•AdultIPTV),https://cdn.adultiptv.net/teen.m3u8
+Threesome (CDN•AdultIPTV),https://cdn.adultiptv.net/threesome.m3u8
+CamTV Big Ass,https://live.mycamtv.com/bigass.m3u8
+CamTV Big Tits,https://live.mycamtv.com/bigtits.m3u8
+CamTV Ebony,https://live.mycamtv.com/ebony.m3u8
+CamTV Latina,https://live.mycamtv.com/latina.m3u8
+CamTV Medium,https://live.mycamtv.com/medium.m3u8
+CamTV MILF,https://live.mycamtv.com/milf.m3u8
+Asian,http://live.redtraffic.xyz/asian.m3u8
+Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+Interracial,http://live.redtraffic.xyz/interracial.m3u8
+Blowjob,http://live.mycamtv.com/blowjob.m3u8
+Medium,http://live.mycamtv.com/medium.m3u8
+Milf,http://live.mycamtv.com/milf.m3u8
+Teen,http://live.mycamtv.com/teen.m3u8
+Young,http://live.mycamtv.com/young.m3u8
+Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+Russian,http://live.redtraffic.xyz:80/russian.m3u8
+СТСHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
+СТСLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
+ТНТHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
+CamTV Skinny,https://live.mycamtv.com/skinny.m3u8
+CamTV Squirt,https://live.mycamtv.com/squirt.m3u8
+CamTV Teen,https://live.mycamtv.com/teen.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Asian,http://cdn.adultiptv.net/asian.m3u8
+Gangbang,http://live.redtraffic.net/gangbang.m3u8
+43,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+45,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+50,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+54,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+59,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+63,http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+64,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+65,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+66,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+67,http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+68,http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+69,http://live.redtraffic.net/gangbang.m3u8#f35ce576bc7a89657a2dd33ec7befb248fbde69dca878adab710ead1bf5be37b
+70,http://live.redtraffic.xyz/threesome.m3u8#b940f898043f5dd1910b72813707ec6e15f2afc5f4475cd49fbc84cbd3348d28
+71,http://live.redtraffic.xyz/bigtits.m3u8#d530a8ee85516fb4d9b59e229015a9d43a3cdcf70f1dd27699db80318eaa011a
+72,http://live.redtraffic.xyz/hardcore.m3u8#af3dece40c60d456c87553e823f086d9485cbfc8de92bfa4d6c5674a7ee8985d
+73,http://live.redtraffic.xyz/bigdick.m3u8#a2f177ba38cafd78d2965bb50f00fbbe74c32fbbfdaf81fd497d2070164b7370
+74,http://live.redtraffic.xyz/lesbian.m3u8#f1715810cd3a8eabc45d557579f16de2cbbcd8b4f299b9e187857c0ca98c0f86
+1,http://cdn.adultiptv.net/blowjob.m3u8#2af289e061a8898c902093820245a7457af527a72df8a638283440b23faa6ea5
+2,http://cdn.adultiptv.net/compilation.m3u8#52a8871d7c1182aa49c3891a2ef29cbf86ddb5ae17aa9638ea2abc833b693c27
+3,http://cdn.adultiptv.net/brunette.m3u8#9a99613488874be955b63b940089d9245bb2621350e8875a0dc591e0416c64d7
+4,http://cdn.adultiptv.net/gay.m3u8#7eca377df38e9515d3ae196b7db51661b2fb9298d5a63a225bf586c30989c44f
+5,http://cdn.adultiptv.net/rough.m3u8#94e235d0a02d723e754712572d3a1bf20fc2d965db8701b5e6d14942251976bf
+6,http://cdn.adultiptv.net/livecams.m3u8#38bc9bc22d231a73f7469c9a69675c5cb990e597738eb4fd6d512e762d9b48e7
+7,http://cdn.adultiptv.net/teen.m3u8#0dc2b068052de44a13d921c54a4ee04f3c712c981e4889496d78b21e4c66ad8e
+8,http://cdn.adultiptv.net/bigass.m3u8#380c10bcc4fe5325ff4eb00cb533bf307b3b97111eea02f3a79b3cf2deb64348
+9,http://cdn.adultiptv.net/pornstar.m3u8#d123adaca17e07abeee12d736914ec4ab8fd773cd6aaa811a7633c3d6a024c3d
+10,http://cdn.adultiptv.net/pov.m3u8#18703e689138bea23ac94157fb81ed44c0a6ed4e2ea09aec47f55846917ba635
+11,http://cdn.adultiptv.net/fetish.m3u8#d02b76c4116af9e41f629d2c9a8ff2213093f24563e326e477a697414b393936
