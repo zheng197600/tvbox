@@ -34,7 +34,7 @@
 {"key":"drpy_js_磁力熊[磁]","name":"磁力熊[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊[磁].js"},
 {"key":"drpy_js_ikanbot","name":"聚搜 | 爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_两个BT","name":"两个BT[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个BT.js"},
-{"key":"片吧影院","name":"片吧影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/片吧影院.json"},
+{"key":"片吧影院","name":"片吧影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/片吧影院.json"},
 
 
 {"key": "影探4K","name": "影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-vip.lyyytv.cn/api.php/app/"}, 
@@ -106,7 +106,6 @@
 {"key":"BT电影天堂","name":"BT电影天堂[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.aidytt.com/bt/{cateId}-{catePg}.html"},
 {"key":"万佳影视","name":"万佳影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wjys.cc/vodtype/{cateId}-{catePg}.html"},
 {"key":"枫林网","name":"枫林网[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://imaple8.co/type/{cateId}-{catePg}.html"},
-{"key":"蛋蛋赞","name":"蛋蛋赞[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dandanzan.club/index.php/vod/type/id/{cateId}-{catePg}.html"},
 {"key":"宝片视频","name":"宝片视频[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ibaopian.com/vod/type/id/{cateId}-{catePg}.html"},
 {"key":"看看屋","name":"看看屋[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tl39.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"神马电影","name":"神马电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kkmmx.com/fenlei/{cateId}-{catePg}.html"},
