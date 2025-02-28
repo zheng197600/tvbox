@@ -29,6 +29,10 @@
 
 
 
+
+
+
+
 {"key": "影探4K","name": "影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://cms-vip.lyyytv.cn/api.php/app/"},
 {"key":"New6v","name":"New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"ext":"https://www.xb6v.com"}, 
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
@@ -38,6 +42,10 @@
 {"key":"片吧影院","name":"片吧影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"ext":"./js/片吧影院.json"},
 
 
+{"key":"csp_Nongm","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"ext":"https://wwgz.cn","jar":"./jar/Yoursmile.jar"},
+{"key":"csp_Lkdy","name":"🏔️来看","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/Yoursmile.jar"},
+{"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"ext":"http://www.tvyun01.com/","jar":"./jar/Yoursmile.jar"},
+{"key":"csp_Ddys","name":"📺低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"jar":"./jar/Yoursmile.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1},
 {"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":0},
 
