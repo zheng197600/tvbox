@@ -1,0 +1,22 @@
+﻿{
+	"主页url": "https://www.dushe1.app",
+	"请求头": "User-Agent$Mozilla/5.0 (Linux; U; Android 2.3; en-us) AppleWebKit/999+ (KHTML, like Gecko) Safari/999.9",
+	"数组": "class=\"module-item\"&&class=\"v-item-footer\"",
+	"图片": "https:\/\/vres.bqlpk.cn+data-original=\"&&\"",
+	"标题": " title=\"&&\"",
+	"副标题": "v-item-bottom\"&&</span>",
+	"简介": "<p>&&</p>",
+	"链接": "href=\"&&\"",
+	"线路数组": "class=\"swiper-slide source-swiper-&&</div",
+	"线路标题": "+>&&</span+👉[共+source-item-num\"&&</i+集]",
+	"搜索url": "/search?os=pc&k={wd}",
+	"搜索二次截取": "class=\"search-result-list fs-margin-section\"&&pagenation-box fs-margin-section",
+	"搜索数组": "<a&&</a",
+	"搜索图片": "https:\/\/vres.bqlpk.cn+id=\"noneCoverImg\"*data-original=\"&&\"",
+	"搜索标题": "title=\"&&\"",
+	"搜索简介": "class=\"desc\">&&</div>",
+	"搜索链接": "href=\"&&\"",
+	"分类url": "https://www.dushe1.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html",
+	"分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+	"排序": "综合$1#最新$2#最热$3#评分$4"
+}
