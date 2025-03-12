@@ -681,12 +681,30 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 网络直播,#genre#
 邵氏电影[1280*720],http://lxajh.top/tv/douyu.php?id=4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+电影轮播1,http://zby.xjqxz.top/live11/live.m3u8
+电影轮播2,http://zby.xjqxz.top/live13/live.m3u8
+电影轮播3,http://zby.xjqxz.top/live7/live.m3u8
+电影轮播4,http://zby.xjqxz.top/live5/live.m3u8
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
 可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 蚂蚱影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
 神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+好先生,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650792
+欢乐综艺,http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
+万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
+奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
+盗墓剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292503
+金庸武侠,http://huanqiuzhibo.cn/manifest/douyu.php?id=7644931
+国产剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860
+国产剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752
+经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=686336
 经典港剧频视,http://2000.run:35455/douyu/9548850
 经典武侠频视,http://2000.run:35455/douyu/338759
 邵氏影院频视,http://2000.run:35455/douyu/4246519
@@ -734,6 +752,74 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 娱乐扒叔轮播,http://2000.run:35455/douyu/9624581
 粤语剧集轮播,http://2000.run:35455/douyu/10338873
 粤语综艺轮播,http://2000.run:35455/douyu/7919720
+邱淑贞,https://live.iill.top/huya/11352949
+女神系列,https://live.iill.top/huya/11336571
+赌片,https://live.iill.top/huya/11342399
+bang派,https://live.iill.top/huya/11336719
+科幻动作,https://live.iill.top/huya/11352964
+国产喜剧,https://live.iill.top/huya/11602044
+五福星,https://live.iill.top/huya/11282233
+古墓系列,https://live.iill.top/huya/11352913
+灾难电影,https://live.iill.top/huya/11352871
+港片,https://live.iill.top/huya/11602043
+奇幻片,https://live.iill.top/huya/16149609
+悬疑片,https://live.iill.top/huya/16099968
+香港贺岁,https://live.iill.top/huya/11601971
+贺岁合家欢剧场,https://live.iill.top/huya/11602067
+恐怖片,https://live.iill.top/huya/16741179
+历年贺岁档,https://live.iill.top/huya/11601986
+李世民,https://live.iill.top/huya/11336572
+港产搞笑,https://live.iill.top/huya/11342423
+滇军抗战,https://live.iill.top/huya/11342388
+经典女神,https://live.iill.top/huya/11352909
+玄幻剧场,https://live.iill.top/huya/11342414
+联合抗日,https://live.iill.top/huya/11352910
+三国,https://live.iill.top/huya/11352944
+埋堆堆布衣神相,https://live.iill.top/huya/23865036
+纪晓岚,https://live.iill.top/huya/11342396
+雍正皇帝,https://live.iill.top/huya/11342439
+许冠英合集,https://live.iill.top/huya/11601972
+经典港剧笑嘻嘻,https://live.iill.top/huya/11352965
+电影_斯坦森,https://live.iill.top/huya/21059588
+电影_小鬼头,https://live.iill.top/huya/11352963
+电影_八点档,https://live.iill.top/huya/880261
+电影_古装片,https://live.iill.top/huya/11336590
+电影_国产悬疑,https://live.iill.top/huya/11342395
+电影_蘑菇影厅,https://live.iill.top/huya/11601981
+电影_怪兽系列,https://live.iill.top/huya/21059554
+鹿鼎记小春版,https://live.iill.top/huya/23865080
+使徒行者,https://live.iill.top/huya/23734256
+扫黄先锋,https://live.iill.top/huya/23903196
+电影_强森,https://live.iill.top/huya/21059581
+电影_怪兽,https://live.iill.top/huya/21059577
+电影_救援,https://live.iill.top/huya/21059594
+电影_盗墓,https://live.iill.top/huya/21059552
+电影_谍战,https://live.iill.top/huya/21059585
+电影_李连杰,https://live.iill.top/huya/11342390
+电影_梁家辉,https://live.iill.top/huya/11342429
+电影_刘德华,https://live.iill.top/huya/11342424
+埋堆堆 𝟙,https://live.iill.top/huya/23740156
+埋堆堆 𝟚,https://live.iill.top/huya/23749096
+埋堆堆 𝟛,https://live.iill.top/huya/23735126
+埋堆堆 𝟜,https://live.iill.top/huya/23903123
+埋堆堆 𝟝,https://live.iill.top/huya/23734169
+埋堆堆 𝟞,https://live.iill.top/huya/23863804
+埋堆堆 𝟠,https://live.iill.top/huya/23864973
+埋堆堆 𝟡,https://live.iill.top/huya/23903130
+埋堆堆 𝟙𝟘,https://live.iill.top/huya/23860039
+埋堆堆 𝟙𝟙,https://live.iill.top/huya/23903183
+埋堆堆 𝟙𝟛,https://live.iill.top/huya/23728674
+埋堆堆 𝟙𝟝,https://live.iill.top/huya/23829543
+埋堆堆 𝟙𝟞,https://live.iill.top/huya/23865161
+埋堆堆 𝟙𝟟,https://live.iill.top/huya/23865058
+埋堆堆 𝟙𝟠,https://live.iill.top/huya/23824164
+埋堆堆 𝟙𝟡,https://live.iill.top/huya/23863796
+埋堆堆 𝟚𝟘,https://live.iill.top/huya/23734183
+埋堆堆 𝟚𝟙,https://live.iill.top/huya/23728660
+埋堆堆 𝟚𝟚,https://live.iill.top/huya/23865142
+埋堆堆 𝟚𝟛,https://live.iill.top/huya/23734246
+埋堆堆 𝟚𝟜,https://live.iill.top/huya/23865171
+埋堆堆 𝟚𝟞,https://live.iill.top/huya/23749083
 经典拳赛,http://zzy789.xyz/douyu1.php?id=9412138
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 粤语综艺,http://zzy789.xyz/douyu1.php?id=7919720
