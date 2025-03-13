@@ -681,12 +681,16 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 网络直播,#genre#
 邵氏电影[1280*720],http://lxajh.top/tv/douyu.php?id=4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-电影轮播1,http://zby.xjqxz.top/live11/live.m3u8
-电影轮播2,http://zby.xjqxz.top/live13/live.m3u8
-电影轮播3,http://zby.xjqxz.top/live7/live.m3u8
-电影轮播4,http://zby.xjqxz.top/live5/live.m3u8
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
-1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+蜡笔小新|好大馄饨,http://dns.yiandrive.com:15907/bilibili/1820703641
+陈佩斯喜剧,http://dns.yiandrive.com:15907/douyu/9286868
+郭德纲于谦精选相声,http://dns.yiandrive.com:15907/huya/28274529
+德云社,http://dns.yiandrive.com:15907/bilibili/7777
+天道,http://dns.yiandrive.com:15907/yy/1382735574
+古惑仔,http://dns.yiandrive.com:15907/yy/1354507447
+经典喜剧憨豆先生,http://dns.yiandrive.com:15907/yy/1354936239
+陈翔六点半,http://dns.yiandrive.com:15907/huya/11274154
+国外高分大片,http://dns.yiandrive.com:15907/yy/1382736867
+国外动作大片,http://dns.yiandrive.com:15907/yy/1382736833
 贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
 可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 蚂蚱影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
@@ -700,126 +704,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
 奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
 热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
-盗墓剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292503
-金庸武侠,http://huanqiuzhibo.cn/manifest/douyu.php?id=7644931
-国产剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860
-国产剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752
-经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=686336
-经典港剧频视,http://2000.run:35455/douyu/9548850
-经典武侠频视,http://2000.run:35455/douyu/338759
-邵氏影院频视,http://2000.run:35455/douyu/4246519
-檬檬功夫频视,http://2000.run:35455/douyu/9838414
-粤语版电影一,http://2000.run:35455/douyu/5033502
-粤语版电影二,http://2000.run:35455/douyu/6566671
-粤语版电影三,http://2000.run:35455/douyu/1226741
-国语译制电影,http://2000.run:35455/douyu/2436390
-第一滴血全集,http://2000.run:35455/yy/1354932355
-敢死队全轮播,http://2000.run:35455/yy/1382735573
-速度与激情集,http://2000.run:35455/yy/1382736911
-漫威系列轮播,http://2000.run:35455/yy/1354932402
-变形金刚轮播,http://2000.run:35455/yy/1382736803
-夺宝奇兵全集,http://2000.run:35455/yy/1382736833
-机械战警全集,http://2000.run:35455/yy/1382736854
-古惑仔国轮播,http://2000.run:35455/yy/1458015189
-黑衣一二轮播,http://2000.run:35455/yy/1354930936
-叠影重重全集,http://2000.run:35455/yy/1382735570
-美剧解说轮播,http://2000.run:35455/douyu/9643264
-经典美剧解说,http://2000.run:35455/douyu/9123570
-我的体育老师,http://2000.run:35455/yy/1382745169
-如果岁月轮播,http://2000.run:35455/yy/1382736883
-流金岁月轮播,http://2000.run:35455/yy/1382749906
-欢乐颂电视剧,http://2000.run:35455/douyu/3756989
-好先生电视剧,http://2000.run:35455/douyu/9650792
-我的前半生剧,http://2000.run:35455/yy/1382735564
-伪装者电视剧,http://2000.run:35455/yy/1354936244
-火蓝刀锋轮播,http://2000.run:35455/yy/1382737892
-二炮手电视剧,http://2000.run:35455/yy/1354930964
-炮神电视轮播,http://2000.run:35455/yy/22089862
-风筝电视轮播,http://2000.run:35455/yy/1354931585
-武林外传轮播,http://2000.run:35455/yy/1355652820
-科幻Fans轮播,http://2000.run:35455/douyu/3508304
-科幻解说轮播,http://2000.run:35455/douyu/9338839
-笑声传奇轮播,http://2000.run:35455/yy/1382736880
-笑傲帮集轮播,http://2000.run:35455/yy/1382735555
-笑傲江湖一季,http://2000.run:35455/yy/1382749896
-笑傲江湖二季,http://2000.run:35455/yy/1382736914
-欢乐集结号播,http://2000.run:35455/yy/1354931582
-欢乐集结号三,http://2000.run:35455/yy/1382736822
-欢乐集结号四,http://2000.run:35455/yy/1382736889
-吐槽大会海天,http://2000.run:35455/yy/1354932379
-吐槽大会二季,http://2000.run:35455/yy/1354936145
-吐槽大会五季,http://2000.run:35455/yy/1354889009
-娱乐扒叔轮播,http://2000.run:35455/douyu/9624581
-粤语剧集轮播,http://2000.run:35455/douyu/10338873
-粤语综艺轮播,http://2000.run:35455/douyu/7919720
-邱淑贞,https://live.iill.top/huya/11352949
-女神系列,https://live.iill.top/huya/11336571
-赌片,https://live.iill.top/huya/11342399
-bang派,https://live.iill.top/huya/11336719
-科幻动作,https://live.iill.top/huya/11352964
-国产喜剧,https://live.iill.top/huya/11602044
-五福星,https://live.iill.top/huya/11282233
-古墓系列,https://live.iill.top/huya/11352913
-灾难电影,https://live.iill.top/huya/11352871
-港片,https://live.iill.top/huya/11602043
-奇幻片,https://live.iill.top/huya/16149609
-悬疑片,https://live.iill.top/huya/16099968
-香港贺岁,https://live.iill.top/huya/11601971
-贺岁合家欢剧场,https://live.iill.top/huya/11602067
-恐怖片,https://live.iill.top/huya/16741179
-历年贺岁档,https://live.iill.top/huya/11601986
-李世民,https://live.iill.top/huya/11336572
-港产搞笑,https://live.iill.top/huya/11342423
-滇军抗战,https://live.iill.top/huya/11342388
-经典女神,https://live.iill.top/huya/11352909
-玄幻剧场,https://live.iill.top/huya/11342414
-联合抗日,https://live.iill.top/huya/11352910
-三国,https://live.iill.top/huya/11352944
-埋堆堆布衣神相,https://live.iill.top/huya/23865036
-纪晓岚,https://live.iill.top/huya/11342396
-雍正皇帝,https://live.iill.top/huya/11342439
-许冠英合集,https://live.iill.top/huya/11601972
-经典港剧笑嘻嘻,https://live.iill.top/huya/11352965
-电影_斯坦森,https://live.iill.top/huya/21059588
-电影_小鬼头,https://live.iill.top/huya/11352963
-电影_八点档,https://live.iill.top/huya/880261
-电影_古装片,https://live.iill.top/huya/11336590
-电影_国产悬疑,https://live.iill.top/huya/11342395
-电影_蘑菇影厅,https://live.iill.top/huya/11601981
-电影_怪兽系列,https://live.iill.top/huya/21059554
-鹿鼎记小春版,https://live.iill.top/huya/23865080
-使徒行者,https://live.iill.top/huya/23734256
-扫黄先锋,https://live.iill.top/huya/23903196
-电影_强森,https://live.iill.top/huya/21059581
-电影_怪兽,https://live.iill.top/huya/21059577
-电影_救援,https://live.iill.top/huya/21059594
-电影_盗墓,https://live.iill.top/huya/21059552
-电影_谍战,https://live.iill.top/huya/21059585
-电影_李连杰,https://live.iill.top/huya/11342390
-电影_梁家辉,https://live.iill.top/huya/11342429
-电影_刘德华,https://live.iill.top/huya/11342424
-埋堆堆 𝟙,https://live.iill.top/huya/23740156
-埋堆堆 𝟚,https://live.iill.top/huya/23749096
-埋堆堆 𝟛,https://live.iill.top/huya/23735126
-埋堆堆 𝟜,https://live.iill.top/huya/23903123
-埋堆堆 𝟝,https://live.iill.top/huya/23734169
-埋堆堆 𝟞,https://live.iill.top/huya/23863804
-埋堆堆 𝟠,https://live.iill.top/huya/23864973
-埋堆堆 𝟡,https://live.iill.top/huya/23903130
-埋堆堆 𝟙𝟘,https://live.iill.top/huya/23860039
-埋堆堆 𝟙𝟙,https://live.iill.top/huya/23903183
-埋堆堆 𝟙𝟛,https://live.iill.top/huya/23728674
-埋堆堆 𝟙𝟝,https://live.iill.top/huya/23829543
-埋堆堆 𝟙𝟞,https://live.iill.top/huya/23865161
-埋堆堆 𝟙𝟟,https://live.iill.top/huya/23865058
-埋堆堆 𝟙𝟠,https://live.iill.top/huya/23824164
-埋堆堆 𝟙𝟡,https://live.iill.top/huya/23863796
-埋堆堆 𝟚𝟘,https://live.iill.top/huya/23734183
-埋堆堆 𝟚𝟙,https://live.iill.top/huya/23728660
-埋堆堆 𝟚𝟚,https://live.iill.top/huya/23865142
-埋堆堆 𝟚𝟛,https://live.iill.top/huya/23734246
-埋堆堆 𝟚𝟜,https://live.iill.top/huya/23865171
-埋堆堆 𝟚𝟞,https://live.iill.top/huya/23749083
 经典拳赛,http://zzy789.xyz/douyu1.php?id=9412138
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 粤语综艺,http://zzy789.xyz/douyu1.php?id=7919720
@@ -1054,6 +938,302 @@ STARSHINE刹那,http://zzy789.xyz/douyu1.php?id=9191006
 猫总白一航,http://zzy789.xyz/douyu1.php?id=9517105
 UP主DJC,http://zzy789.xyz/douyu1.php?id=9429545
 川麻麻将大师赛,http://zzy789.xyz/douyu1.php?id=10217975
+变形金刚,http://dns.yiandrive.com:15907/douyu/4105989
+邵氏电影·1,http://dns.yiandrive.com:15907/douyu/4246519
+60帧,http://dns.yiandrive.com:15907/douyu/12143022
+当燕双鹰遇见李元芳,http://dns.yiandrive.com:15907/douyu/3439096
+牛叔说电影,http://dns.yiandrive.com:15907/douyu/2758565
+史君说剧,http://dns.yiandrive.com:15907/douyu/9419771
+赵本山小品,http://dns.yiandrive.com:15907/douyu/9817716
+隋唐演义,http://dns.yiandrive.com:15907/douyu/7552568
+宰相刘罗锅,http://dns.yiandrive.com:15907/douyu/8543072
+成龙历险记,http://dns.yiandrive.com:15907/douyu/2287949
+开心锤锤动漫,http://dns.yiandrive.com:15907/douyu/9018297
+蕃薯粥粥煮好了,http://dns.yiandrive.com:15907/douyu/11878141
+小片片说大片,http://dns.yiandrive.com:15907/douyu/4258555
+大漠叔叔,http://dns.yiandrive.com:15907/douyu/1109218
+动漫轮播,http://dns.yiandrive.com:15907/douyu/426517
+贾玲经典小品,http://dns.yiandrive.com:15907/douyu/10419541
+漂洋过海来,http://dns.yiandrive.com:15907/douyu/9548850
+懒猫,http://dns.yiandrive.com:15907/douyu/260322
+小约翰可汗,http://dns.yiandrive.com:15907/douyu/9738854
+cym009,http://dns.yiandrive.com:15907/douyu/8231658
+宋小宝小品,http://dns.yiandrive.com:15907/douyu/9817729
+爱笑会议室,http://dns.yiandrive.com:15907/douyu/9375430
+狄仁杰 1-4 部,http://dns.yiandrive.com:15907/douyu/6027991
+经典,http://dns.yiandrive.com:15907/douyu/11756388
+疯狂小潴潴,http://dns.yiandrive.com:15907/douyu/5522351
+爱情公寓|爱情公寓vip,http://dns.yiandrive.com:15907/douyu/6863367
+科幻Fans布玛,http://dns.yiandrive.com:15907/douyu/3508304
+万合天宜,http://dns.yiandrive.com:15907/douyu/9220456
+相声,http://dns.yiandrive.com:15907/douyu/9273031
+宋江,http://dns.yiandrive.com:15907/douyu/9487003
+庆余年,http://dns.yiandrive.com:15907/douyu/11391949
+精讲老剧,http://dns.yiandrive.com:15907/douyu/3715426
+未解之谜,http://dns.yiandrive.com:15907/douyu/9369468
+武侠剧,http://dns.yiandrive.com:15907/douyu/7655471
+发条电影最TOP,http://dns.yiandrive.com:15907/douyu/2164691
+经典老剧轮播,http://dns.yiandrive.com:15907/douyu/12015111
+蔡老板家的长工,http://dns.yiandrive.com:15907/douyu/8869614
+一目十影,http://dns.yiandrive.com:15907/douyu/3643605
+【动漫】超燃 怀旧 经典-苹果Zei甜,http://dns.yiandrive.com:15907/douyu/1174353
+电影迷小雅,http://dns.yiandrive.com:15907/douyu/9639225
+庆余年,http://dns.yiandrive.com:15907/douyu/7812810
+燕双鹰猎鹰1,http://dns.yiandrive.com:15907/douyu/12308334
+牛叔说电影二台,http://dns.yiandrive.com:15907/douyu/10010651
+挖沟连彭沟长,http://dns.yiandrive.com:15907/douyu/8413092
+第五 墨鱼,http://dns.yiandrive.com:15907/douyin/X763367
+第五 北北北海,http://dns.yiandrive.com:15907/douyin/BEIHAG
+苏晗王者荣耀,http://dns.yiandrive.com:15907/douyin/suhanxiaohao
+第五 知己不,http://dns.yiandrive.com:15907/douyin/68444151609
+7师傅,http://dns.yiandrive.com:15907/douyu/17732
+俺娘田小草,http://dns.yiandrive.com:15907/yy/1382741638
+天下,http://dns.yiandrive.com:15907/yy/1354780649
+功夫,http://dns.yiandrive.com:15907/yy/1354930926
+猩球,http://dns.yiandrive.com:15907/yy/1354930181
+二炮手,http://dns.yiandrive.com:15907/yy/1354930964
+变形金刚·,http://dns.yiandrive.com:15907/yy/1354932355
+白娘子,http://dns.yiandrive.com:15907/yy/1508902755
+超英,http://dns.yiandrive.com:15907/yy/1382745091
+国外科幻,http://dns.yiandrive.com:15907/yy/1382736851
+复联,http://dns.yiandrive.com:15907/yy/1354936167
+熊出没,http://dns.yiandrive.com:15907/yy/1354930977
+悬疑 烧脑,http://dns.yiandrive.com:15907/yy/1354930903
+速度与激情,http://dns.yiandrive.com:15907/yy/1382749892
+狂飙·1,http://dns.yiandrive.com:15907/yy/1354790484
+金刚,http://dns.yiandrive.com:15907/yy/1382745093
+真实案件,http://dns.yiandrive.com:15907/yy/1382671124
+红楼梦,http://dns.yiandrive.com:15907/yy/1382745084
+天龙,http://dns.yiandrive.com:15907/yy/1351814644
+神雕,http://dns.yiandrive.com:15907/yy/1382704651
+少年,http://dns.yiandrive.com:15907/yy/1356043677
+鹿鼎记,http://dns.yiandrive.com:15907/yy/28265277
+鹿鼎记周星驰,http://dns.yiandrive.com:15907/yy/1354658049
+我的兄弟,http://dns.yiandrive.com:15907/yy/1459331991
+宰相,http://dns.yiandrive.com:15907/yy/1353892468
+港片·2,http://dns.yiandrive.com:15907/yy/1461037999
+黄大妮,http://dns.yiandrive.com:15907/yy/1354930904
+苦乐村官,http://dns.yiandrive.com:15907/yy/1382736864
+家有九凤,http://dns.yiandrive.com:15907/yy/1354930894
+亮剑,http://dns.yiandrive.com:15907/yy/1453810838
+读心神探,http://dns.yiandrive.com:15907/yy/1382736875
+国产大片电影,http://dns.yiandrive.com:15907/yy/1354926655
+灌篮高手,http://dns.yiandrive.com:15907/yy/1382735626
+流金岁月,http://dns.yiandrive.com:15907/yy/1382736891
+经典功夫,http://dns.yiandrive.com:15907/yy/1353422557
+小敏,http://dns.yiandrive.com:15907/yy/1382736890
+吃鱼了,http://dns.yiandrive.com:15907/yy/1354936131
+经典港片,http://dns.yiandrive.com:15907/yy/1382749895
+动作片,http://dns.yiandrive.com:15907/yy/1382745176
+炊事班的故事,http://dns.yiandrive.com:15907/yy/1382749901
+法证先锋,http://dns.yiandrive.com:15907/yy/1354930939
+地下交通站,http://dns.yiandrive.com:15907/yy/1382736795
+笑傲江湖TVB,http://dns.yiandrive.com:15907/yy/1354930909
+宫锁珠帘,http://dns.yiandrive.com:15907/yy/1354926666
+燕双鹰,http://dns.yiandrive.com:15907/yy/1354825244
+宫心计,http://dns.yiandrive.com:15907/yy/1354933540
+欢乐颂,http://dns.yiandrive.com:15907/yy/1382735624
+少年包青天3,http://dns.yiandrive.com:15907/yy/1382736814
+父母爱情,http://dns.yiandrive.com:15907/yy/1354926650
+穿越时空的爱恋,http://dns.yiandrive.com:15907/yy/1382735567
+士兵突击,http://dns.yiandrive.com:15907/yy/1382828766
+法证先锋高清轮播,http://dns.yiandrive.com:15907/yy/1354888736
+法证先锋轮播,http://dns.yiandrive.com:15907/yy/1382851599
+知否知否应是绿肥红瘦,http://dns.yiandrive.com:15907/yy/1354936134
+哈利波特,http://dns.yiandrive.com:15907/yy/1382745105
+加勒比海盗系列,http://dns.yiandrive.com:15907/yy/1382749914
+小甜甜-悬疑电视剧,http://dns.yiandrive.com:15907/yy/504368
+正阳门下,http://dns.yiandrive.com:15907/yy/1382851588
+木乃伊全集,http://dns.yiandrive.com:15907/yy/1354889024
+来自星星的你,http://dns.yiandrive.com:15907/yy/1354930976
+大碗娱乐小品轮播,http://dns.yiandrive.com:15907/yy/1454859415
+炊事班的故事合集,http://dns.yiandrive.com:15907/yy/1382736885
+国产喜剧,http://dns.yiandrive.com:15907/yy/1382736856
+传奇英雄,http://dns.yiandrive.com:15907/yy/1382735578
+神医喜来乐,http://dns.yiandrive.com:15907/yy/1382714119
+挨饿德,http://dns.yiandrive.com:15907/huya/15373958
+经典传奇,http://dns.yiandrive.com:15907/yy/1382736912
+妖猫传,http://dns.yiandrive.com:15907/yy/1382736820
+解放-苏联战争巨片,http://dns.yiandrive.com:15907/yy/1354936249
+脱口秀大会,http://dns.yiandrive.com:15907/yy/1354936145
+武林外传·2,http://dns.yiandrive.com:15907/yy/21092633
+星球大战,http://dns.yiandrive.com:15907/yy/1354932407
+武林外传·3,http://dns.yiandrive.com:15907/yy/1355652820
+动画,http://dns.yiandrive.com:15907/yy/1356243352
+插翅难逃,http://dns.yiandrive.com:15907/yy/23402146
+林正英高清,http://dns.yiandrive.com:15907/yy/34229877
+林正英全集,http://dns.yiandrive.com:15907/yy/1453996620
+博物馆奇妙夜,http://dns.yiandrive.com:15907/yy/1354936221
+神探狄仁杰·1,http://dns.yiandrive.com:15907/yy/1382851575
+神探狄仁杰·2,http://dns.yiandrive.com:15907/yy/1354930934
+大蒙香味,http://dns.yiandrive.com:15907/huya/21288462
+香港喜剧大全,http://dns.yiandrive.com:15907/huya/23865080
+华扬-思思吖,http://dns.yiandrive.com:15907/huya/27586442
+都爱看,http://dns.yiandrive.com:15907/huya/26058097
+金媛-开心娱乐,http://dns.yiandrive.com:15907/huya/29731435
+不发威当我Kitty,http://dns.yiandrive.com:15907/huya/11342403
+赢城-江爽,http://dns.yiandrive.com:15907/huya/23796393
+我不是茯苓,http://dns.yiandrive.com:15907/huya/26508934
+堆堆港剧日常,http://dns.yiandrive.com:15907/huya/23903123
+四大裁子之首,http://dns.yiandrive.com:15907/huya/11602058
+周星星,http://dns.yiandrive.com:15907/huya/11342412
+偷心大盗ヽ龍宝,http://dns.yiandrive.com:15907/huya/11342386
+我爱黑科技,http://dns.yiandrive.com:15907/huya/11602068
+梦梦影视,http://dns.yiandrive.com:15907/huya/25129377
+千里,http://dns.yiandrive.com:15907/huya/20985776
+核桃姐姐,http://dns.yiandrive.com:15907/huya/11342390
+婧丶,http://dns.yiandrive.com:15907/huya/26298751
+实力拔萝卜,http://dns.yiandrive.com:15907/huya/11601960
+7喜先生,http://dns.yiandrive.com:15907/huya/11342421
+逗比宝宝,http://dns.yiandrive.com:15907/huya/11342427
+之而成冠毛,http://dns.yiandrive.com:15907/huya/26355802
+尽是与君别,http://dns.yiandrive.com:15907/huya/26355824
+正恒YJ-十五放映厅,http://dns.yiandrive.com:15907/huya/29451869
+依依妹妹在等你,http://dns.yiandrive.com:15907/huya/138531
+小怪兽、,http://dns.yiandrive.com:15907/huya/11602044
+Yummy,http://dns.yiandrive.com:15907/huya/11336587
+我叫山鸡哥,http://dns.yiandrive.com:15907/huya/23734246
+埋堆搞搞震,http://dns.yiandrive.com:15907/huya/23734169
+我是周粤驰,http://dns.yiandrive.com:15907/huya/23864973
+合班阿離,http://dns.yiandrive.com:15907/huya/26355792
+漓江塔景区售票阿姨,http://dns.yiandrive.com:15907/huya/11602082
+HC-叶阳清怡,http://dns.yiandrive.com:15907/huya/20674803
+我很忙,http://dns.yiandrive.com:15907/huya/11352950
+iTVB大后宫,http://dns.yiandrive.com:15907/huya/23863804
+农民,http://dns.yiandrive.com:15907/huya/29580971
+里昂保护的马蒂达,http://dns.yiandrive.com:15907/huya/21059594
+梦溪影视,http://dns.yiandrive.com:15907/huya/25742076
+堆堆港剧日记,http://dns.yiandrive.com:15907/huya/23903130
+鯎爺,http://dns.yiandrive.com:15907/huya/11352944
+冷门港片大全,http://dns.yiandrive.com:15907/huya/23903196
+可爱的小强,http://dns.yiandrive.com:15907/huya/11342435
+海绵宝宝,http://dns.yiandrive.com:15907/huya/11352919
+樹袋熊小九九,http://dns.yiandrive.com:15907/huya/11282233
+神探·,http://dns.yiandrive.com:15907/huya/11352958
+杰克,http://dns.yiandrive.com:15907/huya/11602046
+贺岁,http://dns.yiandrive.com:15907/huya/11601986
+超,http://dns.yiandrive.com:15907/huya/26355829
+笙歌,http://dns.yiandrive.com:15907/huya/11352965
+李卫,http://dns.yiandrive.com:15907/huya/26355788
+阿呀呀阿sir,http://dns.yiandrive.com:15907/huya/23865171
+水,http://dns.yiandrive.com:15907/huya/26355860
+西游记,http://dns.yiandrive.com:15907/huya/26355861
+扫黑,http://dns.yiandrive.com:15907/huya/11342404
+熊猫,http://dns.yiandrive.com:15907/huya/11601958
+丹,http://dns.yiandrive.com:15907/huya/11352935
+宝莲灯,http://dns.yiandrive.com:15907/huya/21059563
+探索,http://dns.yiandrive.com:15907/huya/26355781
+天地争霸美猴王,http://dns.yiandrive.com:15907/huya/23735126
+小军迷,http://dns.yiandrive.com:15907/huya/11352909
+唯爱,http://dns.yiandrive.com:15907/huya/21059567
+神医,http://dns.yiandrive.com:15907/huya/11601978
+嶺外奇服兮,http://dns.yiandrive.com:15907/huya/26355850
+电影_发哥,http://dns.yiandrive.com:15907/huya/11342387
+神探,http://dns.yiandrive.com:15907/huya/11342425
+电影_黄渤,http://dns.yiandrive.com:15907/huya/11352876
+刘德华,http://dns.yiandrive.com:15907/huya/11342424
+封神榜,http://dns.yiandrive.com:15907/huya/23749096
+电影_怪兽,http://dns.yiandrive.com:15907/huya/21059577
+胡八一,http://dns.yiandrive.com:15907/huya/29852720
+王宝强,http://dns.yiandrive.com:15907/huya/11352877
+电影_沈腾,http://dns.yiandrive.com:15907/huya/11601968
+梁家辉,http://dns.yiandrive.com:15907/huya/11342429
+成立,http://dns.yiandrive.com:15907/huya/11601981
+野原的一家,http://dns.yiandrive.com:15907/huya/11352970
+大宋,http://dns.yiandrive.com:15907/huya/26355856
+电影_罪犯,http://dns.yiandrive.com:15907/huya/11352962
+电影_枪战,http://dns.yiandrive.com:15907/huya/21059579
+电影_漫威,http://dns.yiandrive.com:15907/huya/11602034
+电影_推荐,http://dns.yiandrive.com:15907/huya/11602041
+斗破-萧炎,http://dns.yiandrive.com:15907/huya/29863394
+蜡笔小新大象舞,http://dns.yiandrive.com:15907/huya/29798259
+名侦探柯南,http://dns.yiandrive.com:15907/huya/28634344
+电影_强森,http://dns.yiandrive.com:15907/huya/21059581
+周星驰吧,http://dns.yiandrive.com:15907/huya/21136378
+电影_赛车,http://dns.yiandrive.com:15907/huya/11279247
+电影_警匪,http://dns.yiandrive.com:15907/huya/11352886
+止戈电影,http://dns.yiandrive.com:15907/huya/19863777
+痞子帅叔叔,http://dns.yiandrive.com:15907/huya/11342433
+熊出没,http://dns.yiandrive.com:15907/huya/30202313
+父母爱情,http://dns.yiandrive.com:15907/huya/11602071
+马春夏秋冬梅,http://dns.yiandrive.com:15907/huya/21059564
+刑事侦缉档案,http://dns.yiandrive.com:15907/huya/29465856
+乡村爱情,http://dns.yiandrive.com:15907/huya/30080255
+电影_宇宙,http://dns.yiandrive.com:15907/huya/11342428
+深情默指导,http://dns.yiandrive.com:15907/huya/415355
+三国演义,http://dns.yiandrive.com:15907/huya/11602081
+扁豆看电影,http://dns.yiandrive.com:15907/huya/16028551
+客户,http://dns.yiandrive.com:15907/huya/145378
+庆余年,http://dns.yiandrive.com:15907/huya/29982639
+电影_海盗,http://dns.yiandrive.com:15907/huya/21059595
+电影,http://dns.yiandrive.com:15907/huya/11352897
+名侦探柯南|傍晚猴,http://dns.yiandrive.com:15907/huya/30080236
+杨光,http://dns.yiandrive.com:15907/huya/11602085
+网球王子|我们都爱笑,http://dns.yiandrive.com:15907/huya/11352882
+活佛济公,http://dns.yiandrive.com:15907/huya/11342400
+周星星|SJ-安安小兔子,http://dns.yiandrive.com:15907/huya/25646817
+爱情公寓|武林萌主唐小姐,http://dns.yiandrive.com:15907/huya/11336726
+挨打,http://dns.yiandrive.com:15907/huya/30080238
+埋堆堆官方,http://dns.yiandrive.com:15907/huya/23740156
+征服,http://dns.yiandrive.com:15907/huya/11601970
+漫长的季节,http://dns.yiandrive.com:15907/huya/11342393
+鉴证实录,http://dns.yiandrive.com:15907/huya/23903183
+錦丹广明,http://dns.yiandrive.com:15907/huya/26355793
+飙车的老司机,http://dns.yiandrive.com:15907/huya/11352894
+虹猫蓝兔系列|虹猫蓝兔官方,http://dns.yiandrive.com:15907/huya/22592516
+迪迦奥特曼,http://dns.yiandrive.com:15907/huya/30080227
+周星星,http://dns.yiandrive.com:15907/huya/ 11342412
+光头阿强,http://dns.yiandrive.com:15907/huya/28962587
+港剧慢品汇,http://dns.yiandrive.com:15907/huya/23865142
+魔幻手机|如意菜头,http://dns.yiandrive.com:15907/huya/11352966
+炊事班de故事,http://dns.yiandrive.com:15907/huya/19524135
+火影,http://dns.yiandrive.com:15907/huya/11342385
+笑看风云,http://dns.yiandrive.com:15907/huya/23865058
+民兵葛二蛋,http://dns.yiandrive.com:15907/huya/11602072
+情满四合院,http://dns.yiandrive.com:15907/huya/11342426
+鬼吹灯,http://dns.yiandrive.com:15907/huya/11352883
+鬼吹灯之精绝古城,http://dns.yiandrive.com:15907/huya/11352871
+鬼吹灯之龙岭迷窟,http://dns.yiandrive.com:15907/huya/29465863
+鬼吹灯之昆仑神宫,http://dns.yiandrive.com:15907/huya/11601957
+古墓系列-去冒险吧!,http://dns.yiandrive.com:15907/huya/11352913
+泛爱心说剧,http://dns.yiandrive.com:15907/huya/14734068
+小松说剧,http://dns.yiandrive.com:15907/huya/11593369
+鬼吹灯之云南虫谷,http://dns.yiandrive.com:15907/huya/11352898
+科幻梦工场,http://dns.yiandrive.com:15907/huya/15152155
+燕双鹰,http://dns.yiandrive.com:15907/huya/30219264
+狄仁杰 1+4 部,http://dns.yiandrive.com:15907/huya/30250949
+樱桃小丸子,http://dns.yiandrive.com:15907/huya/11342394
+乌龙闯情关,http://dns.yiandrive.com:15907/huya/26355767
+阿斗归来了,http://dns.yiandrive.com:15907/huya/13303478
+庆余年,http://dns.yiandrive.com:15907/huya/ 11352960
+插翅难逃,http://dns.yiandrive.com:15907/huya/28901439
+双面胶,http://dns.yiandrive.com:15907/huya/11352956
+周星星,http://dns.yiandrive.com:15907/huya/24551
+领带哥,http://dns.yiandrive.com:15907/huya/11342430
+大盛魁,http://dns.yiandrive.com:15907/huya/30292086
+年年营,http://dns.yiandrive.com:15907/huya/29580970
+狄仁杰电影,http://dns.yiandrive.com:15907/huya/30080229
+和珅,http://dns.yiandrive.com:15907/huya/28272846
+鬼吹灯之怒晴湘西,http://dns.yiandrive.com:15907/huya/11602075
+征服,http://dns.yiandrive.com:15907/huya/30311494
+林正英,http://dns.yiandrive.com:15907/huya/30186662
+林正英,http://dns.yiandrive.com:15907/huya/29985109
+盗墓笔记-怒海潜沙-秦岭神树,http://dns.yiandrive.com:15907/huya/11342415
+向阳花-神奇宝贝,http://dns.yiandrive.com:15907/huya/11602069
+音乐石榴,http://dns.yiandrive.com:15907/huya/17091681
+古惑z,http://dns.yiandrive.com:15907/huya/11336719
+UZI,http://dns.yiandrive.com:15907/huya/1691592144
+cx-梦艺,http://dns.yiandrive.com:15907/huya/128369
+张伟丽MMA,http://dns.yiandrive.com:15907/huya/134769
+cxy0714,http://dns.yiandrive.com:15907/huya/770714
+95920,http://dns.yiandrive.com:15907/huya/95920
+克里斯,http://dns.yiandrive.com:15907/huya/136741
+白千涵、,http://dns.yiandrive.com:15907/huya/416076
+集梦兜兜,http://dns.yiandrive.com:15907/huya/857129
+雅梦,http://dns.yiandrive.com:15907/huya/29847991
+Dae、红莲,http://dns.yiandrive.com:15907/huya/229085
+Zz1tai姿态,http://dns.yiandrive.com:15907/huya/333003
+蜡笔小新|狐狐动画城,http://dns.yiandrive.com:15907/bilibili/30837590
 国际频道,#genre#
 A21 Network 俄罗斯赛车电视台,https://autopilot.catcast.tv/content/37909/index.m3u8
 国家地理野生俄罗斯,https://hls.rt.com/hls/rtdru.m3u8
