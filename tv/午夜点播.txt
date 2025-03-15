@@ -1,4 +1,4 @@
-港澳台,#genre#
+三级,#genre#
 玉蒲团Ⅰ之偷情宝鉴,https://shayubf.com/20200219/hOTxwIkm/index.m3u8
 玉蒲团Ⅱ之玉女心经,https://shayubf.com/20200219/DYCxsgad/index.m3u8
 玉蒲团Ⅲ之官人我要,https://shayubf.com/20200219/70cjduAv/index.m3u8
@@ -36,6 +36,7 @@
 父女的不?之戀-李小藍,https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8#https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8#https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 公公的特別照?-?若?,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8#https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+欧美,#genre#
 今晚老公不在家-?小雨,https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
 叫雞叫到表姐-李蓉蓉,https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
 鮑魚遊戲-孟若羽,https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
