@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pc0330.jar",
+"spider":"./jar/我的.jar",
 "lives":[{"name":"综合","type":0,"url":"./tv/我的直播.txt"}],
 
 
@@ -31,12 +31,11 @@
 {"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/广播迷FM.js","playerType":"2"},
 
 
-{"key":"爱电影","name":"爱电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.gs4x7nq4.com/type/{cateId}-{catePg}"},
-{"key":"白嫖","name":"白嫖[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://ys.51baipiao.net/index.php/vod/type/id/{cateId}-{catePg}.html"},
-{"key":"布卡影院","name":"布卡影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.gtrgt.com/vodtype/{cateId}-{catePg}.html"},
-{"key":"星云影视","name":"星云影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.neimaowang.com/vodtype/{cateId}-{catePg}.html"},
-{"key":"快影视","name":"快影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.kuaiys.com/list/{cateId}-{catePg}.html"},
-{"key":"魅影","name":"魅影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.hangtong168.com/category/{cateId}-{catePg}.html"},
+
+
+
+
+
 
 
 
@@ -110,6 +109,11 @@
 {"key":"drpy_js_凌云影视","name":"凌云影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/凌云影视.js"},
 
 
+
+
+
+
+{"key":"奇库影视","name":"奇库影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://qkys8.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"片库","name":"片库[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"http://pianku.rest/vodtype/{cateId}-{catePg}.html"},
 {"key":"饭团影视","name":"饭团影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://fwdq.cc/vtype/{cateId}-{catePg}.html"},
 {"key":"茶杯狐","name":"茶杯狐[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.5jcd.com/typ/{cateId}-{catePg}.html"},
@@ -151,7 +155,8 @@
 {"key":"火狐资源","name":"火狐资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},	
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"黑木","name":"黑木","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"黑木耳","name":"黑木耳","type":1,"api":"
+https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"海外","name":"海外","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/josn","searchable":1,"quickSearch":1},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
@@ -196,7 +201,12 @@
 
 
 
-
+{"key":"爱看影视","name":"爱看影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.akysw.pro/vodshow/{cateId}-{catePg}-----------.html"},
+{"key":"星辰影院","name":"星辰影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.hongbaohk.com/pljx/{cateId}-{catePg}.html"},
+{"key":"布卡影院","name":"布卡影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.gtrgt.com/vodtype/{cateId}-{catePg}.html"},
+{"key":"星云影视","name":"星云影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.neimaowang.com/vodtype/{cateId}-{catePg}.html"},
+{"key":"快影视","name":"快影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.kuaiys.com/list/{cateId}-{catePg}.html"},
+{"key":"魅影","name":"魅影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.hangtong168.com/category/{cateId}-{catePg}.html"},
 {"key":"5点电影","name":"5点电影[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.5.movie/vodtype/{cateId}-{catePg}.html"},
 {"key":"麦田","name":"麦田[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.mtyy5.com/vodtype/{cateId}-{catePg}.html"},
 {"key":"网飞猫","name":"网飞猫[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.ncat21.com/channel/{cateId}-{catePg}.html"},
