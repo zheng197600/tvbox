@@ -21,8 +21,10 @@
 {"key":"MTV点播","name":"MTV点播(T4)","type":4,"api":"http://120.53.102.254/dsp"},
 {"key":"教育","name":"教育(T4)","type":4,"api":"http://120.53.102.254/dsp16"},
 {"key":"t42直播转点播","name":"t42直播转点播(T4)","type":4,"api":"http://120.53.102.254/dsp999"},
+{"key":"B站-合集","name":"B站-合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=合集"},
 {"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
 {"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
+{"key":"B站-演唱会","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
 {"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
 {"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷6网.js"},
@@ -43,10 +45,6 @@
 
 
 
-
-
-
-
 {"key": "影探4K","name": "影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://cmsyt123.lyyytv.cn/api.php/app/"},
 {"key": "磁力聚合","name":"磁力聚合","type":3,"searchable":1,"quickSearch":1,"api":"./js/磁力聚合.js","timeout":60},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
@@ -60,7 +58,7 @@
 
 
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1},
-
+{"key":"圆涂影视","name":"圆涂影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
 
 
 
@@ -124,6 +122,10 @@
 {"key":"网飞TV","name":"网飞TV[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.wangfei1.cc/vodtype/{cateId}-{catePg}.html"},
 {"key":"纽约影院","name":"纽约影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"ext":"https://www.nycvod.com/vodshow/{cateId}-{catePg}-----------.html"},
 {"key":"剧迷","name":"剧迷[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gimy.tv/browse/{cateId}-{catePg}.html"},
+{"key":"多瑙影院","name":"多瑙影院[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.duonaovod.com/index.php/vod/type/id/{cateId}-{catePg}.html"},
+
+
+
 
 
 
@@ -136,6 +138,8 @@
 {"key":"暴风采集","name":"暴风采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"优质资源","name":"优质资源","type":1,"api":"https://api.yzzy-api.com/inc/apijson.php?ac=list","searchable":1,"quickSearch":1},
 {"key":"豆瓣资源","name":"豆瓣资源","type":1,"api":"https://caiji.dbzy.tv/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1},
+{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"m2077影视","name":"m2077影视","type":1,"api":"https://www.m2077.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"墨白影视","name":"墨白影视","type":1,"api":"https://nm.xxxc137.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"黑墙影视","name":"黑墙影视","type":1,"api":"https://blackwallvideo.online/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -156,10 +160,9 @@
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi88.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"索尼影视","name":"索尼影视","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"ok资源","name":"ok资源","type":0,"api":"https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml","searchable":1,"quickSearch":1},
+{"key":"花旗资源","name":"花旗资源","type":1,"api":"https://www.seacms.org/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速播采集","name":"速播采集","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"火狐资源","name":"火狐资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},	
@@ -170,13 +173,14 @@ https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSe
 {"key":"海外","name":"海外","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/josn","searchable":1,"quickSearch":1},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"牛牛资源","name":"牛牛资源","type":0,"api":"https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml","searchable":1,"quickSearch":1},
 {"key":"神马资源","name":"神马资源","type":1,"api":"https://img.smdyw.top/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"华为资源","name":"华为资源","type":1,"api":"https://hw8.live/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"索尼影视","name":"索尼影视","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"黑木耳资源","name":"黑木耳资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"祥祥影视","name":"祥祥影视","type":1,"api":"http://141.147.146.105/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"牛牛资源","name":"牛牛资源","type":1,"api":"https://api.niuniuzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"海洋资源","name":"海洋资源","type":0,"api":"https://www.seacms.org/zyapi.php","searchable":1,"quickSearch":1},
+{"key":"虾米资源","name":"虾米资源","type":1,"api":"https://zy.hls.one/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快鹰资源","name":"快鹰资源","type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天涯资源","name":"天涯资源","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鸣人资源","name":"鸣人资源","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
