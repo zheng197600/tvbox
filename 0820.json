@@ -40,12 +40,13 @@
 {"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/广播迷FM.js","playerType":"2"},
 
 
+ 
 
 
 
 
 
-{"key": "影探4K","name": "影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://cmsyt123.lyyytv.cn/api.php/app/"},
+{"key": "影探4K","name": "影探4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://cmsyt114.lyyytv.cn/api.php/app/"},
 {"key": "磁力聚合","name":"磁力聚合","type":3,"searchable":1,"quickSearch":1,"api":"./js/磁力聚合.js","timeout":60},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 {"key":"drpy_js_磁力熊[磁]","name":"磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊[磁].js"},
@@ -59,7 +60,7 @@
 
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1},
 {"key":"圆涂影视","name":"圆涂影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
-
+{"key": "采集","name": "采集","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://cmsff.lyyytv.cn/api.php/app/"}, 
 
 
 
