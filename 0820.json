@@ -1,6 +1,6 @@
 {
 "spider":"./jar/zheng.jar",
-"lives":[{"name":"综合","type":0,"url":"./tv/我的直播.txt"}],
+"lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
 
 
 
@@ -29,7 +29,7 @@
 {"key":"B站-演唱会","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych","searchable":0,"quickSearch":0},
 {"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集","searchable":0,"quickSearch":0},
 {"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集","searchable":0,"quickSearch":0},
-{"key":"小灯塔科学","name":"小灯塔科学","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔科学","searchable":0,"quickSearch":0},
+{"key":"小灯塔科学"，"name":"小灯塔科学","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔科学","searchable":0,"quickSearch":0},
 {"key":"小灯塔地理","name":"小灯塔地理","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔地理","searchable":0,"quickSearch":0},
 {"key":"小灯塔百科","name":"小灯塔百科","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔百科","searchable":0,"quickSearch":0},
 {"key":"小灯塔国学","name":"小灯塔国学","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔国学","searchable":0,"quickSearch":0},
