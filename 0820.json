@@ -62,7 +62,7 @@
 //{"key": "大师兄","name": "大师兄","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4#综艺$3","搜索url": "https://www.kkys02.com/search?os=pc&k={wd}"}},{area}地区,{class}类型{lang}语言{year}年份{letter}字母
 
 
-{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./js/可可影视.json"},
+
 
 
 
@@ -109,7 +109,9 @@
 {"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf","commonConfig":"./json/peizhi.json"}},
 {"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://www.wogg.one/","filter":"./json/wogg.json"}},
 
+
 {"key":"狐狸君","name":"狐狸君","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./js/狐狸君.json"},
+{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./js/可可影视.json"},
 
 
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
