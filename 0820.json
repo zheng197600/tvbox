@@ -1,5 +1,5 @@
 {
-"spider":"./jar/cat满接口.jar",
+"spider":"./jar/xbpq.jar",
 "lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
 
 
@@ -60,6 +60,7 @@
 
 
 
+
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
 {"key":"py_猎手影视","name":"py_猎手影视","type":3,"api":"py_猎手影视","ext":"./py/py_猎手影视.py","searchable":1,"quickSearch":1},  
 {"key":"py_嗨皮影视","name":"py_嗨皮影视","type":3,"api":"py_嗨皮影视","ext":"./py/py_嗨皮影视.py","searchable":1,"quickSearch":1},  
@@ -90,14 +91,14 @@
 {"key": "天天美剧","name": "天天美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "https://www.ttmja.com/api.php/app/"},
 
 
-{"key": "电影港磁力","name":"电影港磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/电影港磁力.json"},
-{"key": "2bt","name":"2bt","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/2bt.json"},
-{"key": "剧圈圈","name":"剧圈圈","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/剧圈圈.json"},
-{"key": "瓜子影视","name":"瓜子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/瓜子影视.json"},
-{"key": "农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/农民影视.json"},
-{"key": "骚火电影VIP","name":"骚火电影VIP","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/骚火电影VIP.json"},
-{"key": "电影盒子","name":"电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/电影盒子.json"},
-{"key": "电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/电影牛.json"},
+{"jar": "./jar/XYQHiker.jar","key": "电影港磁力","name":"电影港磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/电影港磁力.json"},
+{"jar": "./jar/XYQHiker.jar","key": "2bt","name":"2bt","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/2bt.json"},
+{"jar": "./jar/XYQHiker.jar","key": "剧圈圈","name":"剧圈圈","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/剧圈圈.json"},
+{"jar": "./jar/XYQHiker.jar","key": "瓜子影视","name":"瓜子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/瓜子影视.json"},
+{"jar": "./jar/XYQHiker.jar","key": "农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/农民影视.json"},
+{"jar": "./jar/XYQHiker.jar","key": "骚火电影VIP","name":"骚火电影VIP","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/骚火电影VIP.json"},
+{"jar": "./jar/XYQHiker.jar","key": "电影盒子","name":"电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/电影盒子.json"},
+{"jar": "./jar/XYQHiker.jar","key": "电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/电影牛.json"},
 
 
 {"key":"drpy_js_人人影视搜","name":"人人影视搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/人人影视搜.js"},
@@ -160,6 +161,8 @@
 {"key":"看戏影视","name":"看戏影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.ikanxi.com/tags/{cateId}-{area}---{lang}----{catePg}---{year}.html","搜索url":"https://www.ikanxi.com/search/-------------.html?wd={wd}&submit="}},
 {"key":"努努影院","name":"努努影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url": "https://nnyy.in/{cateId}/?year={year}&country={area}&genre={calss}","搜索url": "https://nnyy.in/so?q={wd}"}},
 {"key":"影视街","name":"影视街","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://mov.idoog.me/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://mov.idoog.me/index.php/vod/search/page/{catePg}/wd/{wd}.html"}},
+{"key":"纽约影院","name":"纽约影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.nycvod.com/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://www.nycvod.com/vodsearch/-------------.html?wd={wd}"}},
+{"key":"统一影视","name":"统一影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://tyys2.com/index.php/vod/type/id/{cateId}/page/{catePg}.html","搜索url":"https://tyys2.com/index.php/vod/search.html?wd={wd}"}},
 
 {"key":"碟调网","name":"碟调网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.shenqizhe.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},
 {"key":"电影小镇","name":"电影小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"http://dyxz.tv/list/{cateId}-{catePg}.html"}},
