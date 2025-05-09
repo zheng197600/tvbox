@@ -1,7 +1,7 @@
 {
 "spider":"./jar/xbpq.jar",
-"lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
-
+"lives":[{"name":"综合","type":0,"url":"./tv/新建文本文档 (4).txt"}],
+        
 
 
 
@@ -10,6 +10,7 @@
 {"key":"豆瓣","name":"豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js","searchable":0,"quickSearch":0},
 {"key":"T4_预告","name":"预告(T4)","type":4,"api":"https://catbox.n13.club/t9/yugaopian.php","searchable":0,"quickSearch":0},
 //{"key":"豆瓣","name":"CNS┃豆瓣","type":3,"api":"csp_Douban","ext":"./js/douban.json","jar":"./jar/豆瓣.jar","searchable":0,"quickSearch":0},
+{"key":"道长直播","name":"道长直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json","searchable":0,"quickSearch":0},
 {"key":"相声","name":"相声","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs","searchable":0,"quickSearch":0},
 {"key":"软件教程","name":"软件教程","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=软件教程","searchable":0,"quickSearch":0},
 {"key":"T4_企鹅体育","name":"企鹅体育(T4)","type":4,"api":"https://catbox.n13.club/t9/qietiyu.php","searchable":0,"quickSearch":0},
@@ -49,7 +50,6 @@
 {"key":"py_央视","name":"py_央视","type":3,"api":"py_央视","ext":"./py/py_央视.py","searchable":0,"quickSearch":0},  
 {"key":"T4_央视","name":"央视(T4)","type":4,"api":"https://catbox.n13.club/t9/cntv.php","searchable":0,"quickSearch":0},
 {"key":"T4_糖豆","name":"糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php","searchable":0,"quickSearch":0},
-{"key":"电视直播","name":"电视直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json","searchable":0,"quickSearch":0},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2","searchable":0,"quickSearch":0},
 {"key":"drpy_js_广播迷FM","name":"广播迷FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/广播迷FM.js","playerType":"2","searchable":0,"quickSearch":0},
 {"key":"csp_BookTing","name":"听书","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
