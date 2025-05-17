@@ -1,8 +1,10 @@
 港澳台,#genre#
 
+
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 VoA 波斯语,https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+新唐人美东台,https://ntd02.akamaized.net/HD-NY/index.m3u8
 NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 悟道法师讲经,https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 网络念佛堂,https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
@@ -10,6 +12,8 @@ NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 生命电视台,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+天主教电视网CatholicTV,https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 长野电视,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
@@ -23,7 +27,8 @@ Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
 东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TV4,https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-
+亞太第一衛視綜合,http://play2.one-tv.com/live/onetv.m3u8
+红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
