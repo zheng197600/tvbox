@@ -1,7 +1,7 @@
 {
 "spider":"./jar/xbpq.jar",
-"lives":[{"name":"综合","type":0,"url":"./tv/新建文本文档 (4).txt"}],
-        
+"lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
+
 
 
 
@@ -10,7 +10,6 @@
 {"key":"豆瓣","name":"豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js","searchable":0,"quickSearch":0},
 {"key":"T4_预告","name":"预告(T4)","type":4,"api":"https://catbox.n13.club/t9/yugaopian.php","searchable":0,"quickSearch":0},
 //{"key":"豆瓣","name":"CNS┃豆瓣","type":3,"api":"csp_Douban","ext":"./js/douban.json","jar":"./jar/豆瓣.jar","searchable":0,"quickSearch":0},
-{"key":"道长直播","name":"道长直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json","searchable":0,"quickSearch":0},
 {"key":"相声","name":"相声","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs","searchable":0,"quickSearch":0},
 {"key":"软件教程","name":"软件教程","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=软件教程","searchable":0,"quickSearch":0},
 {"key":"T4_企鹅体育","name":"企鹅体育(T4)","type":4,"api":"https://catbox.n13.club/t9/qietiyu.php","searchable":0,"quickSearch":0},
@@ -50,6 +49,7 @@
 {"key":"py_央视","name":"py_央视","type":3,"api":"py_央视","ext":"./py/py_央视.py","searchable":0,"quickSearch":0},  
 {"key":"T4_央视","name":"央视(T4)","type":4,"api":"https://catbox.n13.club/t9/cntv.php","searchable":0,"quickSearch":0},
 {"key":"T4_糖豆","name":"糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php","searchable":0,"quickSearch":0},
+{"key":"电视直播","name":"电视直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json","searchable":0,"quickSearch":0},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2","searchable":0,"quickSearch":0},
 {"key":"drpy_js_广播迷FM","name":"广播迷FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/广播迷FM.js","playerType":"2","searchable":0,"quickSearch":0},
 {"key":"csp_BookTing","name":"听书","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
@@ -57,7 +57,6 @@
 //{"key":"兄弟影视","name":"兄弟影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.brovod.com/show/{cateId}-{area}--{calss}-{lang}----{catePg}---{year}/","分类":"电影$1#电视剧$2#动漫$4#综艺$3","搜索url":"https://www.brovod.com/ss/{wd}-------------/"}},
 //{"key":"电影小镇","name":"电影小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"http://dyxz.tv/list/{cateId}-{catePg}.html"}},
 //类型{cateid}，剧情{calss}，地区{area}，年份{year}，排序{by}，{letter}字母，语言{lang}，           翻页{catepg}{catepg}是翻页，网页拉到下边，点一下第2页或者随便哪一页，网址上多出来的page/2，按规律替换就有翻页了。
-
 
 
 
@@ -123,6 +122,7 @@
 {"key":"影吧","name":"影吧","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.zaixiandianying8.com/vodshow/{cateId}-{area}--{calss}-{lang}----{catePg}---{year}.html","搜索url":"https://www.zaixiandianying8.com/vodsearch/-------------.html?wd={wd}&submit="}},
 {"key":"奇库影视","name":"奇库影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://qkys.me/vodshow/{cateId}--------{catePg}---.html","搜索url": "http://qkys.me/vodsearch/{wd}-------------.html"}},
 {"key":"雪糕TV","name":"雪糕TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.xgitv.com/vtype/{cateId}-{catePg}.html","搜索url": "https://www.xgitv.com/vsearch/-------------.html?wd={wd}"}},
+{"key":"飞流视频","name":"飞流视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.flixflop.com/explore/1514381477{cateId}?page={catePg}","搜索url":"https://www.flixflop.com/results?q={wd}","分类":"电影$86375168#电视剧$94763777"}},
 {"key":"晴天影院","name":"晴天影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/page/{catePg}.html","搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit="}},
 {"key":"百思派电影","name":"百思派电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.bestpipe.cn/vodtype/{cateId}-{catePg}.html","搜索url": "https://www.bestpipe.cn/vodsearch/{wd}-------------.html"}},
 {"key":"片库","name":"片库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"http://pianku.rest/vodtype/{cateId}-{catePg}.html","搜索url": "http://pianku.rest/vodsearch/{wd}-------------.html"}},
