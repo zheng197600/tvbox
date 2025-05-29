@@ -1,6 +1,6 @@
 var rule = {
 	title:'磁力熊[磁]',
-	host:'https://www.cilixiong.com',
+	host:'https://www.cilixiong.org',
 	homeUrl:'/top250/index.html',
 	// url: '/fyclass/index_(fypage-1).html',
 	url: '/fyclassfyfilter-(fypage-1).html',
