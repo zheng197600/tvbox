@@ -60,7 +60,6 @@
 
 
 
-
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
 {"key":"py_猎手影视","name":"py_猎手影视","type":3,"api":"py_猎手影视","ext":"./py/py_猎手影视.py","searchable":1,"quickSearch":1},  
 {"key":"py_嗨皮影视","name":"py_嗨皮影视","type":3,"api":"py_嗨皮影视","ext":"./py/py_嗨皮影视.py","searchable":1,"quickSearch":1},  
@@ -315,7 +314,8 @@ https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSe
 {"key":"X细胞资源","name":"X细胞资源","type":1,"api":"https://www.xxibaozyw.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"py_lav","name":"py_lav","type":3,"api":"py_lav","ext":"./py/py_lav.py","searchable":0,"quickSearch":0},
 {"key":"JavBus","name":"JavBus","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://javbus.sbs/vod/type/id/{cateId}/page/{catePg}/","搜索url":"https://javbus.sbs/vod/search/?wd={wd}&submit=","分类":"一区$1#二区$2#三区$3#四区$4#五区$5#传媒映画$6#日本AV$7"}},
-{"key":"AV兄弟","name":"AV兄弟","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://avbro.xyz/vodtype/{cateId}-{catePg}/","搜索url":"https://avbro.xyz/vodsearch/-------------/?wd={wd}","分类":"中文字幕$28#日本有码$21#日本无码$22#欧美$23"}},  
+{"key":"AV兄弟","name":"AV兄弟","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://avbro.xyz/vodtype/{cateId}-{catePg}/","搜索url":"https://avbro.xyz/vodsearch/-------------/?wd={wd}","分类":"中文字幕$28#日本有码$21#日本无码$22#欧美$23"}},
+{"key":"骑虎影库","name":"骑虎影库","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.1guoc.com/vodtype/{cateId}-{catePg}.html","搜索url":"https://www.1guoc.com/s/-.html?wd={wd}"}},  
 {"key":"drpy_js_ss直播","name":"ss直播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","searchable":0,"quickSearch":0}],
 
 
