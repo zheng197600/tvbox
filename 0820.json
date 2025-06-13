@@ -64,6 +64,8 @@
 
 
 
+
+
 {"key":"T4_欧乐","name":"欧乐(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=OleVod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
 {"key":"py_猎手影视","name":"py_猎手影视","type":3,"api":"py_猎手影视","ext":"./py/py_猎手影视.py","searchable":1,"quickSearch":1},  
@@ -151,7 +153,7 @@
 {"key":"BT影视","name":"BT影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.btbtl.com/type/{cateId}/{catePg}/","搜索url":"https://www.btbtl.com/search/{wd}","分类":"电影$movies#电视剧$tv"}},
 {"key":"北川影视","name":"北川影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.xgys.xyz/vodshow/{cateId}--------{catePg}---/","搜索url":"https://www.xgys.xyz/vodsearch/?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 {"key":"白嫖者","name":"白嫖者","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.6699z.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://www.6699z.cn/index.php/vod/search.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
-{"key":"PTT","name":"PTT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://ptt.red/p/1/c/{class}?area_id={area}&year={year}","搜索url": "https://ptt.red/node/search?title={wd}"}},
+{"key":"PTT","name":"PTT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://ptt.red/p/{cateId}?page={catePg}","搜索url": "https://ptt.red/node/search?title={wd}"}},
 {"key":"西瓜在线","name":"西瓜在线","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://sszzyy.com/index.php/vod/search.html?wd={wd}","分类":"电影$20#电视剧$37#动漫$43#综艺$45"}},
 {"key":"游子视频","name":"游子视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://youzisp.tv/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://youzisp.tv/vodsearch/-------------.html?wd={wd}","分类":"电影$dianying#电视剧$dianshiju#动漫$dongman"}},
 {"key":"人人影视","name":"人人影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.renren.pro/list/{cateId}?page={catePg}","搜索url":"https://www.renren.pro/search?wd={wd}"}},
@@ -332,7 +334,9 @@
 {"key":"py_lav","name":"py_lav","type":3,"api":"py_lav","ext":"./py/py_lav.py","searchable":0,"quickSearch":0},
 {"key":"JavBus","name":"JavBus","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://javbus.sbs/vod/type/id/{cateId}/page/{catePg}/","搜索url":"https://javbus.sbs/vod/search/?wd={wd}&submit=","分类":"一区$1#二区$2#三区$3#四区$4#五区$5#传媒映画$6#日本AV$7"}},
 {"key":"AV兄弟","name":"AV兄弟","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://avbro.xyz/vodtype/{cateId}-{catePg}/","搜索url":"https://avbro.xyz/vodsearch/-------------/?wd={wd}","分类":"中文字幕$28#日本有码$21#日本无码$22#欧美$23"}},
-{"key":"骑虎影库","name":"骑虎影库","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.1guoc.com/vodtype/{cateId}-{catePg}.html","搜索url":"https://www.1guoc.com/s/-.html?wd={wd}"}},  
+{"key":"骑虎影库","name":"骑虎影库","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.1guoc.com/vodtype/{cateId}-{catePg}.html","搜索url":"https://www.1guoc.com/s/-.html?wd={wd}"}},
+{"key": "柠檬","name": "柠檬","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch":0,"changeable": 0,"filterable": 0,"timeout":120,"ext": {"数组": "<a&&</a>","标题": "<p>&&</p>","图片": "<img> src=\"&&\"","链接": "href=\"&&\"","分类url": "https://www.lsshaofu.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类": "国产精品$1#日韩精选$2#国产传媒$3#国产自拍$27#网红网爆$5"}},
+{"key":"农夫与少妇", "name":"农夫与少妇", "type":3, "api":"csp_XBPQ","searchable":1, "quickSearch":1, "filterable":1, "ext":{"二次截取":"<ul class=\"img-list-data&&</ul","主页url":"https://nfsf8kj.nfsf-a2.buzz/go","数组":"<li>&&</li>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"text-bg-r\">&&</p","简介":"keywords\"*content=\"&&剧情","链接":"href=\"&&\"","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/search/page/{pg}/wd/{wd}.html","分类二次截取":"<div class=\"row <{menuInfo.key}>-row\">&&激情图区","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/go/index.php/vod/type/id/&&.html","分类url":"https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},  
 {"key":"drpy_js_ss直播","name":"ss直播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","searchable":0,"quickSearch":0}],
 
 
