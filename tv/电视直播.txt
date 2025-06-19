@@ -28,6 +28,7 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+HOY77,https://cdn3.163189.xyz/live/hoy/stream.m3u8
 新加CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 新加CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
 新加CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
@@ -45,6 +46,28 @@ Now星影,https://gdfire2.67890123.cn:8088/live/nowxy.m3u8
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+18台,http://bx.757888.xyz/api.php?id=18
+TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
+天映经典频道,http://bx.757888.xyz/api.php?id=tyjd
+凤凰深圳旁边,http://bx.757888.xyz/api.php?id=fhhk
+中国电影频道,http://bx.757888.xyz/api.php?id=zgdy
+
+
+莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
+AXN,http://8.138.7.223/tv/aktv.php?id=1
+ROCKACTION,http://8.138.7.223/tv/aktv.php?id=2
+TVN,http://8.138.7.223/tv/aktv.php?id=4
+明珠剧集,http://8.138.7.223/tv/aktv.php?id=5
+翡翠剧集,http://8.138.7.223/tv/aktv.php?id=7
+翡翠综合,http://8.138.7.223/tv/aktv.php?id=9
+CHANNEL5,http://8.138.7.223/tv/aktv.php?id=12
+CHANNEL8,http://8.138.7.223/tv/aktv.php?id=13
+CHANNELU,http://8.138.7.223/tv/aktv.php?id=14
+MYTVSUPER18,http://8.138.7.223/tv/aktv.php?id=15
+POPC,http://8.138.7.223/tv/aktv.php?id=16
+凤凰卫视中文,http://8.138.7.223/tv/aktv.php?id=18
+凤凰卫视资讯,http://8.138.7.223/tv/aktv.php?id=19
+CELESTIALMOVIES,http://8.138.7.223/tv/aktv.php?id=20
 
 
 
@@ -105,6 +128,280 @@ Hoy77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 Hoy78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 爱尔达娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
+
+今日新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
+今日天气4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8?proxy=true
+中天新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8?proxy=true
+东森新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8?proxy=true
+三立新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8?proxy=true
+三立新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/iNEWS/index.m3u8?proxy=true
+非凡新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8?proxy=true
+闽镜新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8?proxy=true
+中视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv051/index.m3u8?proxy=true
+民视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv002/index.m3u8?proxy=true
+民视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv155/index.m3u8?proxy=true
+中视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv040/index.m3u8?proxy=true
+华视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv041/index.m3u8?proxy=true
+台视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv066/index.m3u8?proxy=true
+寰宇闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8?proxy=true
+tvbs闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv073/index.m3u8?proxy=true
+民视台湾4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8?proxy=true
+民视第一4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8?proxy=true
+民视旅游4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv07/index.m3u8?proxy=true
+民视影剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv09/index.m3u8?proxy=true
+民视综艺4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv004/index.m3u8?proxy=true
+中视菁采4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv064/index.m3u8?proxy=true
+中视经典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv080/index.m3u8?proxy=true
+台视财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8?proxy=true
+公视戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv042/index.m3u8?proxy=true
+闽南戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn22/index.m3u8?proxy=true
+国际财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv104/index.m3u8?proxy=true
+全球财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live060/index.m3u8?proxy=true
+东森财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8?proxy=true
+寰宇财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8?proxy=true
+cnbc财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live130/index.m3u8?proxy=true
+tvbs精采4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv067/index.m3u8?proxy=true
+tvbs欢乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv068/index.m3u8?proxy=true
+tvbs综艺4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live087/index.m3u8?proxy=true
+tvbs台剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8?proxy=true
+八大精彩4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv034/index.m3u8?proxy=true
+八大综艺4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv039/index.m3u8?proxy=true
+三立综合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8?proxy=true
+爱达娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv070/index.m3u8?proxy=true
+靖洋戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv045/index.m3u8?proxy=true
+靖洋卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv044/index.m3u8?proxy=true
+靖天综合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv047/index.m3u8?proxy=true
+靖天欢乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true
+靖天戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8?proxy=true
+靖天电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv061/index.m3u8?proxy=true
+靖天育乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv063/index.m3u8?proxy=true
+靖天资讯4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv065/index.m3u8?proxy=true
+龙华卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn01/index.m3u8?proxy=true
+龙华日韩4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn11/index.m3u8?proxy=true
+龙华偶像4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn12/index.m3u8?proxy=true
+龙华电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn03/index.m3u8?proxy=true
+龙华洋片4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn02/index.m3u8?proxy=true
+龙华戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn18/index.m3u8?proxy=true
+龙华经典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn21/index.m3u8?proxy=true
+国会4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv084/index.m3u8?proxy=true
+国会4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv085/index.m3u8?proxy=true
+好消息壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv16/index.m3u8?proxy=true
+好消息贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv17/index.m3u8?proxy=true
+大爱壹高4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live007/index.m3u8?proxy=true
+大爱贰高4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live106/index.m3u8?proxy=true
+人间卫视4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live008/index.m3u8?proxy=true
+原住民族4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live014/index.m3u8?proxy=true
+唐人亚太4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live050/index.m3u8?proxy=true
+智林体育4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv101/index.m3u8?proxy=true
+博斯魅力4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn04/index.m3u8?proxy=true
+博斯网球4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn09/index.m3u8?proxy=true
+博高球壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn05/index.m3u8?proxy=true
+博高球贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn06/index.m3u8?proxy=true
+博运动壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn07/index.m3u8?proxy=true
+博运动贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn08/index.m3u8?proxy=true
+博无限壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn10/index.m3u8?proxy=true
+博无限贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn13/index.m3u8?proxy=true
+阿里郎台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv079/index.m3u8?proxy=true
+滚动人生4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live012/index.m3u8?proxy=true
+达文西台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv018/index.m3u8?proxy=true
+猪哥亮厅4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv006/index.m3u8?proxy=true
+亚洲旅游4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv076/index.m3u8?proxy=true
+ELta旅游4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8?proxy=true
+美国之音4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv03/index.m3u8?proxy=true
+半岛新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv10/index.m3u8?proxy=true
+非凡商业4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8?proxy=true
+第壹商业4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8?proxy=true
+影迷纪实4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv15/index.m3u8?proxy=true
+经典电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live021/index.m3u8?proxy=true
+经典卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live022/index.m3u8?proxy=true
+精选动漫4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live024/index.m3u8?proxy=true
+戏剧壹台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live010/index.m3u8?proxy=true
+古典音乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv059/index.m3u8?proxy=true
+客家电视4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv043/index.m3u8?proxy=true
+华仁纪实4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv013/index.m3u8?proxy=true
+时尚运动4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv014/index.m3u8?proxy=true
+空间居家4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live206/index.m3u8?proxy=true
+生活英语4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn20/index.m3u8?proxy=true
+互动英语4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live030/index.m3u8?proxy=true
+采昌影剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv049/index.m3u8?proxy=true
+数位电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv011/index.m3u8?proxy=true
+欧洲电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live157/index.m3u8?proxy=true
+Amc电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv017/index.m3u8?proxy=true
+CINEMA-4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8?proxy=true
+TRA体育4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv077/index.m3u8?proxy=true
+车迷体育4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live201/index.m3u8?proxy=true
+SMArt台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn19/index.m3u8?proxy=true
+罪案侦查4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live027/index.m3u8?proxy=true
+霹雳布袋4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8?proxy=true
+金光布袋4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live144/index.m3u8?proxy=true
+nick动漫4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true
+nick少儿4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true
+MO-亲子4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8?proxy=true
+DreamW4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true
+LUXE-TV4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live121/index.m3u8?proxy=true
+rock娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live080/index.m3u8?proxy=true
+rock电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8?proxy=true
+HItS电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8?proxy=true
+magellan4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live123/index.m3u8?proxy=true
+INULTRa4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live096/index.m3u8?proxy=true
+LifeTime4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live029/index.m3u8?proxy=true
+电影原声4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live031/index.m3u8?proxy=true
+MTVLive4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live025/index.m3u8?proxy=true
+PETClUB4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live110/index.m3u8?proxy=true
+FUN娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live011/index.m3u8?proxy=true
+韩国娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv016/index.m3u8?proxy=true
+GLOBAL4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live112/index.m3u8?proxy=true
+TV5mon4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live122/index.m3u8?proxy=true
+TRACEU4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv082/index.m3u8?proxy=true
+BLoomb4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live059/index.m3u8?proxy=true
+FRANCE4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8?proxy=true
+MEZZOl4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv083/index.m3u8?proxy=true
+GINX_TV4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv053/index.m3u8?proxy=true
+DW-之声4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live071/index.m3u8?proxy=true
+历史4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live026/index.m3u8?proxy=true
+国家地理4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live208/index.m3u8?proxy=true
+东森购壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live047/index.m3u8?proxy=true
+东森购壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv102/index.m3u8?proxy=true
+东森购壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv102/index.m3u8?proxy=true
+东森购贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live046/index.m3u8?proxy=true
+东森购贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv103/index.m3u8?proxy=true
+东森购贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv103/index.m3u8?proxy=true
+东森购叁4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live048/index.m3u8?proxy=true
+东森购五4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live049/index.m3u8?proxy=true
+中天新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8?proxy=true
+东森新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8?proxy=true
+闽镜新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8?proxy=true
+中视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv074/index.m3u8?proxy=true
+中视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv052/index.m3u8?proxy=true
+华视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8?proxy=true
+中视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv040/index.m3u8?proxy=true
+中视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv040/index.m3u8?proxy=true
+华视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv041/index.m3u8?proxy=true
+华视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8?proxy=true
+台视闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv066/index.m3u8?proxy=true
+寰宇闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8?proxy=true
+tvbs闽南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv073/index.m3u8?proxy=true
+民视台湾4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv001/index.m3u8?proxy=true
+民视第一4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv003/index.m3u8?proxy=true
+民视旅游4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv07/index.m3u8?proxy=true
+民视影剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv09/index.m3u8?proxy=true
+民视综艺4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv004/index.m3u8?proxy=true
+中视菁采4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv064/index.m3u8?proxy=true
+中视经典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv080/index.m3u8?proxy=true
+公视戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv042/index.m3u8?proxy=true
+闽南戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn22/index.m3u8?proxy=true
+国际财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv104/index.m3u8?proxy=true
+东森财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8?proxy=true
+寰宇财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8?proxy=true
+寰宇财经4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8?proxy=true
+tvbs精采4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv067/index.m3u8?proxy=true
+tvbs欢乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv068/index.m3u8?proxy=true
+八大精彩4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv034/index.m3u8?proxy=true
+八大综艺4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv039/index.m3u8?proxy=true
+爱达娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv070/index.m3u8?proxy=true
+靖洋戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv045/index.m3u8?proxy=true
+靖洋卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖天综合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv047/index.m3u8?proxy=true
+靖天欢乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖天电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv061/index.m3u8?proxy=true
+靖天育乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv063/index.m3u8?proxy=true
+靖天资讯4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv065/index.m3u8?proxy=true
+龙华卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn01/index.m3u8?proxy=true
+龙华日韩4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn11/index.m3u8?proxy=true
+龙华偶像4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn12/index.m3u8?proxy=true
+龙华电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn03/index.m3u8?proxy=true
+龙华洋片4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn02/index.m3u8?proxy=true
+龙华戏剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn18/index.m3u8?proxy=true
+龙华经典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn21/index.m3u8?proxy=true
+国会4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv084/index.m3u8?proxy=true
+国会4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv084/index.m3u8?proxy=true
+国会4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv085/index.m3u8?proxy=true
+国会4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv085/index.m3u8?proxy=true
+好消息壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv16/index.m3u8?proxy=true
+好消息壹4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-litv-ftv16/index.m3u8?proxy=true
+好消息贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv17/index.m3u8?proxy=true
+好消息贰4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-litv-ftv17/index.m3u8?proxy=true
+智林体育4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv101/index.m3u8?proxy=true
+阿里郎台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv079/index.m3u8?proxy=true
+达文西台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv018/index.m3u8?proxy=true
+猪哥亮厅4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv006/index.m3u8?proxy=true
+亚洲旅游4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv076/index.m3u8?proxy=true
+亚洲旅游4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv076/index.m3u8?proxy=true
+美国之音4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv03/index.m3u8?proxy=true
+半岛新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv10/index.m3u8?proxy=true
+影迷纪实4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv15/index.m3u8?proxy=true
+古典音乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv059/index.m3u8?proxy=true
+客家电视4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv043/index.m3u8?proxy=true
+华仁纪实4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv013/index.m3u8?proxy=true
+时尚运动4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv014/index.m3u8?proxy=true
+生活英语4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn20/index.m3u8?proxy=true
+生活英语4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn20/index.m3u8?proxy=true
+采昌影剧4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv049/index.m3u8?proxy=true
+数位电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv011/index.m3u8?proxy=true
+Amc电影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv017/index.m3u8?proxy=true
+TRA体育4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv077/index.m3u8?proxy=true
+SMArt台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn19/index.m3u8?proxy=true
+韩国娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv016/index.m3u8?proxy=true
+TRACEU4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8?proxy=true
+MEZZOl4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8?proxy=true
+
+
+📺 AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+📺 Channel 5 ,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+📺 Channel 8 ,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+📺 Channel U ,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+📺 myTV SUPER 18,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+📺 PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+📺 ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+📺 TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+📺 tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+📺 明珠剧集,https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+📺 明珠,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+📺 无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+📺 美亚电影,https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+📺 翡翠剧集,https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+📺 翡翠,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+📺 翡翠综合,https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+📺 凤凰卫视中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+📺 凤凰卫视资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+📺 凤凰卫视香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+📺 Japan News 24H LIVE,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+📺 日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+📺 HBO,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+📺 IQIYI,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+📺 VIUTV,https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+📺 东森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+📺 东森电影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+📺 纬来体育,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+📺 CNA,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+📺 KPOP+,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+📺 朝鲜恩情,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+📺 民视第一,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+📺 TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+📺 中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+📺 东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
 翡翠台,http://xn--94q.xn--0p5a.top/0405smt.php?id=jade_twn
@@ -339,6 +636,7 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 
 央视卫视,#genre#
 
+央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
@@ -390,6 +688,86 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
 新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
 青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
+
+CETV1,http://ygbh.site/php/bfgd.php?id=135
+CETV2,http://ygbh.site/php/bfgd.php?id=492
+CGTN,http://ygbh.site/php/bfgd.php?id=134
+CGTN,http://ygbh.site/php/bfgd.php?id=305
+CGTN阿拉伯语,http://ygbh.site/php/bfgd.php?id=308
+CGTN俄语,http://ygbh.site/php/bfgd.php?id=309
+CGTN法语,http://ygbh.site/php/bfgd.php?id=307
+CGTN西班牙语,http://ygbh.site/php/bfgd.php?id=306
+CCTV1,http://ygbh.site/php/bfgd.php?id=488
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
+本溪综合,http://ygbh.site/php/bfgd.php?id=312
+财富天下,http://ygbh.site/php/bfgd.php?id=231
+茶,http://ygbh.site/php/bfgd.php?id=181
+车迷,http://ygbh.site/php/bfgd.php?id=146
+大连新闻综合,http://ygbh.site/php/bfgd.php?id=273
+丹东新闻综合,http://ygbh.site/php/bfgd.php?id=276
+电视指南,http://ygbh.site/php/bfgd.php?id=164
+电子体育,http://ygbh.site/php/bfgd.php?id=143
+儿童动漫,http://ygbh.site/php/bfgd.php?id=293
+发现之旅,http://ygbh.site/php/bfgd.php?id=151
+法治天地,http://ygbh.site/php/bfgd.php?id=162
+抚顺综合,http://ygbh.site/php/bfgd.php?id=275
+阜新综合,http://ygbh.site/php/bfgd.php?id=279
+国学,http://ygbh.site/php/bfgd.php?id=169
+葫芦岛新闻综合,http://ygbh.site/php/bfgd.php?id=284
+环球旅游,http://ygbh.site/php/bfgd.php?id=147
+绘画,http://ygbh.site/php/bfgd.php?id=297
+纪录片,http://ygbh.site/php/bfgd.php?id=295
+家庭剧场,http://ygbh.site/php/bfgd.php?id=290
+家庭理财,http://ygbh.site/php/bfgd.php?id=139
+家政,http://ygbh.site/php/bfgd.php?id=167
+锦州新闻综合,http://ygbh.site/php/bfgd.php?id=277
+老故事,http://ygbh.site/php/bfgd.php?id=166
+连山区综合,http://ygbh.site/php/bfgd.php?id=491
+辽宁新动漫,http://ygbh.site/php/bfgd.php?id=140
+辽阳新闻综合,http://ygbh.site/php/bfgd.php?id=280
+龙港区综合,http://ygbh.site/php/bfgd.php?id=490
+盘锦新闻综合,http://ygbh.site/php/bfgd.php?id=283
+求索地理,http://ygbh.site/php/bfgd.php?id=286
+社区老年教育课堂,http://ygbh.site/php/bfgd.php?id=615
+摄影,http://ygbh.site/php/bfgd.php?id=222
+沈阳新闻综合,http://ygbh.site/php/bfgd.php?id=059
+生态环境,http://ygbh.site/php/bfgd.php?id=149
+收藏天下,http://ygbh.site/php/bfgd.php?id=155
+书画,http://ygbh.site/php/bfgd.php?id=180
+铁岭新闻综合,http://ygbh.site/php/bfgd.php?id=281
+外国影院,http://ygbh.site/php/bfgd.php?id=291
+网络棋牌,http://ygbh.site/php/bfgd.php?id=141
+午夜影院,http://ygbh.site/php/bfgd.php?id=294
+先锋乒羽,http://ygbh.site/php/bfgd.php?id=349
+营口新闻综合,http://ygbh.site/php/bfgd.php?id=278
+优优宝贝,http://ygbh.site/php/bfgd.php?id=153
+游戏竞技,http://ygbh.site/php/bfgd.php?id=296
+游戏竞技,http://ygbh.site/php/bfgd.php?id=142
+中国天气,http://ygbh.site/php/bfgd.php?id=160
+中华特产,http://ygbh.site/php/bfgd.php?id=158
+重温经典,http://ygbh.site/php/bfgd.php?id=636
+综艺,http://ygbh.site/php/bfgd.php?id=292
+3D影院,http://ygbh.site/php/bfgd.php?id=298
+鞍山新闻综合,http://ygbh.site/php/bfgd.php?id=274
+百姓健康,http://ygbh.site/php/bfgd.php?id=219
+北方导视,http://ygbh.site/php/bfgd.php?id=187
+北京纪实科教,http://ygbh.site/php/bfgd.php?id=113
+辽宁影视剧,http://ygbh.site/php/bfgd.php?id=070
+黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095
+内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110
+辽宁教育青少,http://ygbh.site/php/bfgd.php?id=075
+山东教育卫视,http://ygbh.site/php/bfgd.php?id=112
+家庭影院,http://ygbh.site/php/bfgd.php?id=289
+
+风云音乐,http://sh.lnott.top:880/dx73.m3u8
+纪实科教,http://sh.lnott.top:880/dx64.m3u8
+家庭理财,http://sh.lnott.top:880/dx65.m3u8
+兵器科技,http://sh.lnott.top:880/dx81.m3u8
+中华特产,http://sh.lnott.top:880/dx83.m3u8
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
+怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
+
+
 
 CCTV-1综合,http://xn--z6ut02b.xn--qoqw77q.top/zb.php?id=cctv1
 CCTV-2财经,http://xn--z6ut02b.xn--qoqw77q.top/zb.php?id=cctv2
@@ -2988,6 +3366,79 @@ offer1,https://fmbox.cc/huya.php?id=30080237
 西游记续集,http://home.kuaidi521.com:35455/douyu/3113309
 新三国（斗鱼）,http://home.kuaidi521.com:35455/douyu/12180551
 
+周星驰电影,http://103.193.151.146/huya.php?id=11342412
+林正英电影,http://103.193.151.146/huya.php?id=11342421
+刘德华电影,http://103.193.151.146/huya.php?id=11342424
+古天乐电影,http://103.193.151.146/huya.php?id=29982675
+李连杰电影,http://103.193.151.146/huya.php?id=11342390
+甄子丹电影,http://103.193.151.146/huya.php?id=11352935
+沈腾电影,http://103.193.151.146/huya.php?id=11601968
+黄渤电影,http://103.193.151.146/huya.php?id=11352876
+强森电影,http://103.193.151.146/huya.php?id=21059581
+王晶电影,http://103.193.151.146/huya.php?id=11602058
+金庸武侠,http://103.193.151.146/huya.php?id=11342435
+功夫电影,http://103.193.151.146/huya.php?id=11352941
+贺岁电影,http://103.193.151.146/huya.php?id=11601986
+狄仁杰电影,http://103.193.151.146/huya.php?id=30080229
+神探狄仁杰第一部,http://103.193.151.146/huya.php?id=11352958
+神探狄仁杰第三部,http://103.193.151.146/huya.php?id=11342425
+亮剑,http://103.193.151.146/huya.php?id=30080238
+雪豹,http://103.193.151.146/huya.php?id=29580970
+特种兵之火凤凰,http://103.193.151.146/huya.php?id=29982636
+铁齿铜牙纪晓岚,http://103.193.151.146/huya.php?id=11342396
+鬼吹灯之精绝古城,http://103.193.151.146/huya.php?id=11352871
+鬼吹灯之怒晴湘西,http://103.193.151.146/huya.php?id=11602075
+鬼吹灯之龙岭迷窟,http://103.193.151.146/huya.php?id=29465863
+鬼吹灯之云南虫谷,http://103.193.151.146/huya.php?id=11352898
+西游记,http://103.193.151.146/huya.php?id=26355861
+乌龙闯情关,http://103.193.151.146/huya.php?id=26355767
+柳舟计,http://103.193.151.146/huya.php?id=23860039
+与凤行,http://103.193.151.146/huya.php?id=26355866
+大秦赋,http://103.193.151.146/huya.php?id=23903130
+永夜星河,http://103.193.151.146/huya.php?id=23734169
+流水迢迢,http://103.193.151.146/huya.php?id=23865036
+唐诡之西行,http://103.193.151.146/huya.php?id=26355763
+玫瑰的故事,http://103.193.151.146/huya.php?id=23865142
+梦中的那片海,http://103.193.151.146/huya.php?id=26355765
+如懿传,http://103.193.151.146/huya.php?id=29465868
+芈月传,http://103.193.151.146/huya.php?id=11352975
+楚汉骄雄,http://103.193.151.146/huya.php?id=29465854
+无心法师,http://103.193.151.146/huya.php?id=30080233
+西游记2,http://103.193.151.146/huya.php?id=29465859
+活佛济公3,http://103.193.151.146/huya.php?id=23903123
+刑事侦缉档案,http://103.193.151.146/huya.php?id=29465856
+法政先锋,http://103.193.151.146/huya.php?id=23863804
+洗冤录,http://103.193.151.146/huya.php?id=29465851
+使徒行者,http://103.193.151.146/huya.php?id=23734256
+鉴证实录,http://103.193.151.146/huya.php?id=23903183
+金枝欲孽,http://103.193.151.146/huya.php?id=29465847
+扫黄先锋,http://103.193.151.146/huya.php?id=29465855
+创世纪,http://103.193.151.146/huya.php?id=29465852
+妙手仁心,http://103.193.151.146/huya.php?id=29465853
+野蛮亲家,http://103.193.151.146/huya.php?id=23863796
+笑看风云,http://103.193.151.146/huya.php?id=29465858
+蜘蛛侠,http://103.193.151.146/huya.php?id=21059599
+赛车,http://103.193.151.146/huya.php?id=11279247
+推荐,http://103.193.151.146/huya.php?id=11602041
+
+
+特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+华语影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
+神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
+奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
+橙记港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
+大宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=805235
+贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
+可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+音乐欣赏,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
+热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
+
 YY-电影-X战警,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=452824&tk=922ba46651d3
 YY-电影-奥斯卡战争大片,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a107fd&tk=922ba46651d3
 YY-电影-白头神探,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=11729f&tk=922ba46651d3
@@ -3076,79 +3527,6 @@ YY-电视剧-三大队,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6aeecb&tk=922b
 YY-电视剧-武林外传++,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=272dce&tk=922ba46651d3
 YY-电视剧-刑事侦缉档案I,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=677065&tk=922ba46651d3
 
-
-周星驰电影,http://103.193.151.146/huya.php?id=11342412
-林正英电影,http://103.193.151.146/huya.php?id=11342421
-刘德华电影,http://103.193.151.146/huya.php?id=11342424
-古天乐电影,http://103.193.151.146/huya.php?id=29982675
-李连杰电影,http://103.193.151.146/huya.php?id=11342390
-甄子丹电影,http://103.193.151.146/huya.php?id=11352935
-沈腾电影,http://103.193.151.146/huya.php?id=11601968
-黄渤电影,http://103.193.151.146/huya.php?id=11352876
-强森电影,http://103.193.151.146/huya.php?id=21059581
-王晶电影,http://103.193.151.146/huya.php?id=11602058
-金庸武侠,http://103.193.151.146/huya.php?id=11342435
-功夫电影,http://103.193.151.146/huya.php?id=11352941
-贺岁电影,http://103.193.151.146/huya.php?id=11601986
-狄仁杰电影,http://103.193.151.146/huya.php?id=30080229
-神探狄仁杰第一部,http://103.193.151.146/huya.php?id=11352958
-神探狄仁杰第三部,http://103.193.151.146/huya.php?id=11342425
-亮剑,http://103.193.151.146/huya.php?id=30080238
-雪豹,http://103.193.151.146/huya.php?id=29580970
-特种兵之火凤凰,http://103.193.151.146/huya.php?id=29982636
-铁齿铜牙纪晓岚,http://103.193.151.146/huya.php?id=11342396
-鬼吹灯之精绝古城,http://103.193.151.146/huya.php?id=11352871
-鬼吹灯之怒晴湘西,http://103.193.151.146/huya.php?id=11602075
-鬼吹灯之龙岭迷窟,http://103.193.151.146/huya.php?id=29465863
-鬼吹灯之云南虫谷,http://103.193.151.146/huya.php?id=11352898
-西游记,http://103.193.151.146/huya.php?id=26355861
-乌龙闯情关,http://103.193.151.146/huya.php?id=26355767
-柳舟计,http://103.193.151.146/huya.php?id=23860039
-与凤行,http://103.193.151.146/huya.php?id=26355866
-大秦赋,http://103.193.151.146/huya.php?id=23903130
-永夜星河,http://103.193.151.146/huya.php?id=23734169
-流水迢迢,http://103.193.151.146/huya.php?id=23865036
-唐诡之西行,http://103.193.151.146/huya.php?id=26355763
-玫瑰的故事,http://103.193.151.146/huya.php?id=23865142
-梦中的那片海,http://103.193.151.146/huya.php?id=26355765
-如懿传,http://103.193.151.146/huya.php?id=29465868
-芈月传,http://103.193.151.146/huya.php?id=11352975
-楚汉骄雄,http://103.193.151.146/huya.php?id=29465854
-无心法师,http://103.193.151.146/huya.php?id=30080233
-西游记2,http://103.193.151.146/huya.php?id=29465859
-活佛济公3,http://103.193.151.146/huya.php?id=23903123
-刑事侦缉档案,http://103.193.151.146/huya.php?id=29465856
-法政先锋,http://103.193.151.146/huya.php?id=23863804
-洗冤录,http://103.193.151.146/huya.php?id=29465851
-使徒行者,http://103.193.151.146/huya.php?id=23734256
-鉴证实录,http://103.193.151.146/huya.php?id=23903183
-金枝欲孽,http://103.193.151.146/huya.php?id=29465847
-扫黄先锋,http://103.193.151.146/huya.php?id=29465855
-创世纪,http://103.193.151.146/huya.php?id=29465852
-妙手仁心,http://103.193.151.146/huya.php?id=29465853
-野蛮亲家,http://103.193.151.146/huya.php?id=23863796
-笑看风云,http://103.193.151.146/huya.php?id=29465858
-蜘蛛侠,http://103.193.151.146/huya.php?id=21059599
-赛车,http://103.193.151.146/huya.php?id=11279247
-推荐,http://103.193.151.146/huya.php?id=11602041
-
-
-特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
-华语影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
-神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
-刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
-奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
-贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
-橙记港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
-大宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=805235
-贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
-可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-音乐欣赏,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
-热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
 
 
 
