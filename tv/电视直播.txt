@@ -28,7 +28,12 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+澳门,https://cdn.163189.xyz/live/as/stream.m3u8
+TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 HOY77,https://cdn3.163189.xyz/live/hoy/stream.m3u8
+TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 新加CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 新加CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
 新加CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
@@ -38,6 +43,14 @@ HOY77,https://cdn3.163189.xyz/live/hoy/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+TVB无线星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+
 翡翠台,https://gdfire2.67890123.cn:8088/live/jade.m3u8
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
 Now爆谷,https://gdfire2.67890123.cn:8088/live/nowbg.m3u8
