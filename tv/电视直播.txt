@@ -498,26 +498,13 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
 广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 河南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
 河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
-陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
-宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
-西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
-内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
-三沙卫视,http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
-厦门卫视,http://qwt.zhibotv.top:2016/全网通.php?id=厦门卫视
-延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
-东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
-北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
-湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
-浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+
 
 家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
 都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
