@@ -3,7 +3,6 @@
 
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 新唐人美东台,https://ntd02.akamaized.net/HD-NY/index.m3u8
-亚太卫视频高,http://220.132.15.209:5008/4gtv-live050/index.m3u8?proxy=true 
 NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 悟道法师讲经,https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 网络念佛堂,https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
@@ -20,318 +19,43 @@ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TV4,https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 亞太第一衛視綜合,http://play2.one-tv.com/live/onetv.m3u8
-星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 PTSXS 小公视,https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-THAIPBS3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-韩国国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-法国时装2,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
+法国时装2,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+法国时装3,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
 
 有线18,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
-广电翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus01.flv
 Hoy77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
 Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
-Now爆谷,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
-Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
-NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
 -凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
--凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
--凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 -中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
--中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
--中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
--翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
--无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 -重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 -tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
--民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
--民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
 -HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 -HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 -美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
 -东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
--东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
--八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
--八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
 -爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
-中天新闻2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztxw2.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_jade.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_wxxw.flv
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_fhzw.flv
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_fhzx.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_fhxg.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_ztxw.flv
-寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_hyxw.flv
-mytvsuperfree,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_mytvsuperfree.flv
-黃金翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_mytvnull-3.flv
-創世電視,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_mytvnull-6.flv
-星空卫视(国际),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889901.flv
-天映经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889902.flv
-Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889903.flv
-Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889904.flv
-戏说台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889908.flv
-Now紫金国际,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889905.flv
-Now华剧台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889909.flv
-好莱坞电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889925.flv
-美亚电影(台),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889926.flv
-PopC电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889912.flv
-TVB功夫(国),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889928.flv
-黄金华剧台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889908.flv
-中天新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889911.flv
-TVBS HD,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889913.flv
-猪歌亮歌秀厅,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889927.flv
-极限电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889918.flv
-美国城市卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889929.flv
-高点综合台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889930.flv
+-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+-民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+-八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
 
 
 
-
-ZooMoo,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=ZooMoo
-Nickelodeon,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=Nickelodeon
-NickJr儿童,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=NickJr儿童频道
-i-Fun动漫,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=i-Fun動漫台
-POPC,http://api.mytv666.top/api/fh6.php?t=影视频道&id=POPC
-天映经典,http://api.mytv666.top/api/fh6.php?t=影视频道&id=天映经典
-TVB功夫台(国),http://api.mytv666.top/api/fh6.php?t=影视频道&id=TVB功夫台(国)
-TVB功夫台(粤),http://api.mytv666.top/api/fh6.php?t=影视频道&id=TVB功夫台(粤)
-美亚电影(国),http://api.mytv666.top/api/fh6.php?t=影视频道&id=美亚电影(国)
-美亚电影(粤),http://api.mytv666.top/api/fh6.php?t=影视频道&id=美亚电影(粤)
-中国电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=中国电影频道
-纬来电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=纬来电影
-东森洋片,http://api.mytv666.top/api/fh6.php?t=影视频道&id=东森洋片
-tvN,http://api.mytv666.top/api/fh6.php?t=影视频道&id=tvN
-Kix,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Kix
-ROCK超级娱乐,http://api.mytv666.top/api/fh6.php?t=影视频道&id=ROCK超级娱乐
-ROCK综艺娱乐,http://api.mytv666.top/api/fh6.php?t=影视频道&id=ROCK综艺娱乐
-AXN,http://api.mytv666.top/api/fh6.php?t=影视频道&id=AXN
-Animax,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Animax
-Thrill惊悚,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Thrill惊悚
-AXN频道,http://api.mytv666.top/api/fh6.php?t=影视频道&id=AXN頻道
-华纳电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=华纳电影
-CINEMAX,http://api.mytv666.top/api/fh6.php?t=影视频道&id=CINEMAX
-HBO,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBOHD
-HBO原创,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO原创
-HBO强档,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO强档
-HBO家庭,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO家庭
-好莱坞电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=好莱坞电影
-amc最爱电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=amc最爱电影
-NBATV,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NBATV
-HKC18,http://api.mytv666.top/api/fh6.php?t=体育频道&id=HKC18台
-NowSports1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports1
-NowSports2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports2
-NowSports3,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports3
-NowSports|4|,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports|4|
-NowSports5,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports5
-NowSports6,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports6
-NowSports7,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports7
-NowSports英超1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超1台
-NowSports英超2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超2台
-NowSports英超3,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超3台
-NowSports英超|4|,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超|4|台
-NowSports英超5,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超5台
-NowSports英超6,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超6台
-C18跑马,http://api.mytv666.top/api/fh6.php?t=体育频道&id=C18跑马
-88跑马,http://api.mytv666.top/api/fh6.php?t=体育频道&id=88跑马台
-28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=体育频道&id=28AI智慧赛马
-mySUPER直播足球2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球2台
-mySUPER直播足球3,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球3台
-mySUPER直播足球|4|,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球|4|台
-mySUPER直播足球5,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球5台
-mySUPER直播足球6,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球6台
-ELTA体育1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育1
-ELTA体育2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育2
-ELTA体育3,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育3
-ELTA体育|4|,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育|4|
-GinxTV电竞,http://api.mytv666.top/api/fh6.php?t=体育频道&id=GinxTV电竞频道
-博斯运动1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯运动1
-博斯运动2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯运动2
-博斯高球1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯高球1
-博斯高球2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯高球2
-博斯网球,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯网球
-博斯无限,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯无限
-博斯无限2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯无限2
-博斯魅力,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯魅力
-智林体育,http://api.mytv666.top/api/fh6.php?t=体育频道&id=智林体育台
-TRACESportStars,http://api.mytv666.top/api/fh6.php?t=体育频道&id=TRACESportStars
-TVBPlus,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPlus
-TVB生活,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB生活台
-TVB星河(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(粤)
-TVB星河(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(国)
-TVB1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB1
-TVBJ1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBJ1
-TVBDrama翡翠剧集,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama翡翠劇集台
-TVBPearlDrama明珠剧集,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
-TVBE翡翠娱乐,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBE翡翠娛樂台
-天映(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(国)
-天映(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(粤)
-天映经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映经典
-TVB功夫台(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(国)
-TVB功夫台(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(粤)
-美亚电影(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(国)
-美亚电影(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(粤)
-龙祥电影,http://api.mytv666.top/api/fh6.php?t=香港频道&id=龙祥电影
-中国电影,http://api.mytv666.top/api/fh6.php?t=香港频道&id=中国电影频道
-POPC,http://api.mytv666.top/api/fh6.php?t=香港频道&id=POPC
-黄金华剧,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黃金華劇台
-Now新闻,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now新闻台
-Now直播,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now直播台
-Now财经,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now财经台
-Now华剧,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now華劇台
-Now剧集,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now劇集台
-NowJelli紫金国际,http://api.mytv666.top/api/fh6.php?t=香港频道&id=NowJelli紫金国际
-HOY76,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY76
-HOY77,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY77
-HOY78,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY78
-ViuTV,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV
-ViuTV6,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV6
-RTHK31,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK31
-HKC18,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HKC18台
-亚洲剧,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
-华语剧,http://api.mytv666.top/api/fh6.php?t=香港频道&id=华语剧台
-黄金翡翠,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黄金翡翠台
-MyTV千禧经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=MyTV千禧经典台
-TVBSuperFree,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBSuperFree
-HandsUP,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HandsUP
-戏曲台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=戏曲台
-粤语片,http://api.mytv666.top/api/fh6.php?t=香港频道&id=粤语片台
-亚洲综合娱乐,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲综合娱乐台
-28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=香港频道&id=28AI智慧赛马
-中视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视
-公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视
-小公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=小公视
-公视台语,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视台语台
-公视新闻网,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视新闻网
-台视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视
-台视综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视综合
-台视财经,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视财经
-台湾戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台湾戏剧
-华视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=华视
-CTS华视新闻资讯,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=CTS华视新闻资讯
-霹雳台湾,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=霹雳台湾台
-壹新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=壹新闻
-壹电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=壹电影
-JET综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=JET综合台
-年代新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=年代新闻
-年代Much,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=年代Much
-非凡商业,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=非凡商业
-寰宇新闻台湾,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=寰宇新闻台湾
-寰宇财经,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=寰宇财经
-镜新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=鏡新闻
-东森超视美洲,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森超视美洲
-东森美洲,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森美洲
-东森中国,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森中国台
-东森幼幼,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森幼幼
-MOMO亲子,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MOMO亲子台
-国兴卫视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=国兴卫视
-龙华偶像,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华偶像
-龙华日韩,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华日韩
-龙华影剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华影剧
-龙华洋片,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华洋片
-龙华卡通,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华卡通
-龙华经典,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华经典
-三立国际,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立国际台
-LIVE三立,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=LIVE三立
-CTI+中天2,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=CTI+中天2台
-纬来日本,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=纬来日本
-纬来育乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=纬来育乐
-八大娱乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=八大娱乐台
-TVBS精采,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBS精采台
-TVBS,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBSHD
-TVBSNEWS,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBSNEWS
-靖天综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天综合台
-靖天日本,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天日本台
-靖天卡通,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天卡通台
-靖洋卡通,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖洋卡通台
-靖天国际,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天国际台
-靖天育乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天育乐台
-靖天映画,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天映画台
-靖天欢乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天欢乐台
-华艺MBC综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=華藝MBC綜合台
-LUXETV,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=LUXETV
-亚洲旅游,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=亚洲旅游台
-台湾Plus,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台湾Plus
-EYETV旅游,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=EYETV旅游
-EYETV戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=EYETV戏剧
-ELTA日韩,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA日韩
-ELTA影剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA影剧
-ELTA综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA综合
-ELTA娱乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA娱乐
-ELTA生活旅游,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA生活旅游
-i-Fun动漫,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=i-Fun動漫台
-Z,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Z频道
-Thrill惊悚,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Thrill惊悚
-AXN频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=AXN頻道
-华纳电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=华纳电影
-tVN,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=tVN
-CINEMAX,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=CINEMAX
-HBO,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO
-HBO,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBOHD
-HBO原创,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO原创
-HBO强档,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO强档
-HBO家庭,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO家庭
-好莱坞电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=好莱坞电影
-amc最爱电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=amc最爱电影
-采昌影剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=采昌影剧台
-高点综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=高点综合
-东风卫视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东风卫视
-Smart知识,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Smart知识台
-客家电视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=客家电视台
-原住民,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=原住民频道
-MTV音乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MTV音乐频道
-韩国娱乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=韩国娱乐台
-猪哥亮歌厅秀,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=猪哥亮歌厅秀
-AstroAEC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAEC
-AstroQJ,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroQJ
-AstroAOD,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAOD
-Astro欢喜,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Astro欢喜台
-娱家台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=娱家台
-都会台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=都会台
-新时代1,http://api.mytv666.top/api/fh6.php?t=国外频道&id=新时代1
-新时代2,http://api.mytv666.top/api/fh6.php?t=国外频道&id=新时代2
-城市电视,http://api.mytv666.top/api/fh6.php?t=国外频道&id=城市电视
-中旺电视,http://api.mytv666.top/api/fh6.php?t=国外频道&id=中旺电视
-FashionBox,http://api.mytv666.top/api/fh6.php?t=国外频道&id=FashionBox
-tvN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=tvN
-Kix,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Kix
-ROCK超级娱乐,http://api.mytv666.top/api/fh6.php?t=国外频道&id=ROCK超级娱乐
-ROCK综艺娱乐,http://api.mytv666.top/api/fh6.php?t=国外频道&id=ROCK综艺娱乐
-AXN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AXN
-Animax,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Animax
-ZooMoo,http://api.mytv666.top/api/fh6.php?t=国外频道&id=ZooMoo
-Nickelodeon,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Nickelodeon
-NickJr儿童,http://api.mytv666.top/api/fh6.php?t=国外频道&id=NickJr儿童频道
-DreamWorks,http://api.mytv666.top/api/fh6.php?t=国外频道&id=DreamWorks
-探索,http://api.mytv666.top/api/fh6.php?t=国外频道&id=探索频道
-Arirang,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Arirang
-KBS1,http://api.mytv666.top/api/fh6.php?t=国外频道&id=KBS1
-KBS2,http://api.mytv666.top/api/fh6.php?t=国外频道&id=KBS2
-KBSDrama,http://api.mytv666.top/api/fh6.php?t=国外频道&id=KBSDrama
-History,http://api.mytv666.top/api/fh6.php?t=国外频道&id=History
-SBS,http://api.mytv666.top/api/fh6.php?t=国外频道&id=SBS
-SBSBiz,http://api.mytv666.top/api/fh6.php?t=国外频道&id=SBSBiz
-JTBC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=JTBC
-EBS,http://api.mytv666.top/api/fh6.php?t=国外频道&id=EBS
-YTN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=YTN
-Mnet,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Mnet
-OCN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=OCN
-InetTV,http://api.mytv666.top/api/fh6.php?t=国外频道&id=InetTV
-MBC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=MBC
-MBN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=MBN
-Tooniverse,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Tooniverse
-SPOTV,http://api.mytv666.top/api/fh6.php?t=国外频道&id=SPOTV
-JTBCGOLF,http://api.mytv666.top/api/fh6.php?t=国外频道&id=JTBCGOLF
 
 18台,http://bx.757888.xyz/api.php?id=18
 TVBPlus,http://bx.757888.xyz/api.php?id=tvbp
@@ -388,14 +112,6 @@ TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 
-翡翠台,https://gdfire2.67890123.cn:8088/live/jade.m3u8
-Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
-Now爆谷,https://gdfire2.67890123.cn:8088/live/nowbg.m3u8
-Now星影,https://gdfire2.67890123.cn:8088/live/nowxy.m3u8
-东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
-中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
-寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 
 
 📺 AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
@@ -434,7 +150,35 @@ Now星影,https://gdfire2.67890123.cn:8088/live/nowxy.m3u8
 📺 东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
-
+Animax ,https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+AXN,https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
+Channel 5 ,https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+Channel 8 ,https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+Channel U ,https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18,https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+PopC,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
+ROCK Action,https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
+明珠剧集,https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+翡翠剧集,https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+翡翠综合,https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+凤凰卫视中文,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰卫视资讯,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰卫视香港,https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+HBO,https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+IQIYI,https://s2.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+天映电影,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+好莱坞电影,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+东森洋片,https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+KPOP+,https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+朝鲜恩情,https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+Japan News 24H LIVE,https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS LIVE,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+8TV,https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
+TVBS,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+中视,https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
+台视,https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 
 
 
@@ -483,7 +227,22 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-
+tvbs欢乐,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
+东森超视,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
+民视闽南,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+八大第一,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+八大综合,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
+年代综合,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+纬来综合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+好莱电影,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+CINeMax,http://61.216.11.93:49981/stream/channelid/207378916.m3u8
+CINeMax,http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
+TLC'综合,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
+Nick少儿,http://61.216.11.93:49981/stream/channelid/580636100.m3u8
+NHk日本,http://61.216.11.93:49981/stream/channelid/797583403.m3u8
+cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
+信吉电视,http://61.216.11.93:49981/stream/channelid/166215564.m3u8
 
 
 
@@ -2925,6 +2684,9 @@ CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 
 
 网络直播,#genre#
+
+点歌台,http://zzy789.xyz/douyu1.php?id=3186217
+MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 1905电影,http://150.138.77.132:10037/1905电影网.php?id=1905
 1905电影,http://xxwx.yoesun.com/1905dy.php?id=1905a
 1905电影,http://xxwx.yoesun.com/1905dy.php?id=1905b
