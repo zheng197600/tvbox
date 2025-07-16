@@ -44,7 +44,7 @@
     "分类片单链接加前缀": "https://www.keke1.app",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "https://www.keke1.app/search?k={wd}&page=1&os=pc",
+    "搜索链接": "https://www.keke1.app/search?t=B3o6Pkh0j1mjAcmCy8PC5A%3D%3D&k={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".search-result-list&&.search-result-item",
