@@ -65,24 +65,6 @@
 
 
 
-{"jar": "./jar/Yoursmile.jar","key":"聚搜","name":"聚搜","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
-{"jar": "./jar/Yoursmile.jar","key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1},
-{"jar": "./jar/Yoursmile.jar","key":"新6V","name":"新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1},
-{"jar": "./jar/Yoursmile.jar","key":"电影天堂","name":"电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1},
-{"jar": "./jar/Yoursmile.jar","key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
-{"jar": "./jar/Yoursmile.jar","key":"80S影视","name":"80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1},
-{"jar": "./jar/Yoursmile.jar","key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1},
-{"jar": "./jar/Yoursmile.jar","key":"天天","name":"天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"7lj763gg09397919456493i0h44j8681highi4"},
-{"jar": "./jar/Yoursmile.jar","key":"热播","name":"热播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
-{"jar": "./jar/Yoursmile.jar","key":"追剧","name":"追剧","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"7lj763gg0939791h1l2681i6g94li291li"},
-{"jar": "./jar/Yoursmile.jar","key":"橘子","name":"橘子","type":3,"api":"csp_Qiji","searchable":1,"quickSearch":1,"ext":"7lj763gg0939795i0678i481k40hi2i3ghlg840i9lj166700g1449g3k5244k2017h35698h4739ih31117kigil3k02hl2jk6i5155ih9kkgl311gl37g240g85111ggg2"},
-{"jar": "./jar/Yoursmile.jar","key":"火猫","name":"火猫","type":3,"api":"csp_Muou","searchable":1,"quickSearch":1,"ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
-{"jar": "./jar/Yoursmile.jar","key":"永夜","name":"永夜","type":3,"api":"csp_Qiji","searchable":1,"quickSearch":1,"ext":"7lj763gg402i794240208hi3g05l8181highj909i7i7282k425j21ggg13i630l378272k58l71i2h42l18g1h9glg433jll14i6071h6g5k8gj169138kl3kll1j"},
-{"jar": "./jar/Yoursmile.jar","key":"趣看","name":"趣看","type":3,"api":"csp_Muou","searchable":1,"quickSearch":1,"ext":"7lj763gg402i7942463j9j9jg1499j87l9g9i413il8gqiaoji20g7g4919j3g019296lk9351hh3k5gg38lj0754il3jg"},
-{"jar": "./jar/Yoursmile.jar","key":"公共","name":"公共","type":3,"api":"csp_Muou","searchable":1,"quickSearch":1,"ext":"7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"},
-{"jar": "./jar/Yoursmile.jar","key":"csp_MeijuMi","name":"美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijumi.net/"},
-
-
 
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
 {"key":"py_猎手影视","name":"py_猎手影视","type":3,"api":"py_猎手影视","ext":"./py/py_猎手影视.py","searchable":1,"quickSearch":1},  
