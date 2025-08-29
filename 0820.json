@@ -38,9 +38,6 @@
 
 
 
-
-
-
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
 {"key":"py_猎手影视","name":"py_猎手影视","type":3,"api":"py_猎手影视","ext":"./py/py_猎手影视.py","searchable":1,"quickSearch":1},  
 {"key":"py_1905","name":"py_1905","type":3,"api":"py_1905","ext":"./py/py_1905.py","searchable":1,"quickSearch":1}, 
@@ -60,6 +57,7 @@
 {"key":"影视采集","name":"影视采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 {"key":"磁力6V","name":"磁力6V(T4)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},  
 {"key": "80S影视","name": "80S影视","jar":"./js/lPlj.js","type": 3,"viewType": 1,"api": "csp_BLSGod","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"天翼影视","name":"天翼影视","type":1,"api":"http://7.qqqtv.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源","type":0,"api":"https://taopianapi.com/cjapi/mc/vod/xml","searchable":1,"quickSearch":1},
 {"key":"drpy_js_ikanbot","name":"爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
@@ -84,14 +82,13 @@
 {"jar": "./jar/XYQHiker.jar","key": "可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"ext":"./js/可可影视.json"},
 
 
-{"key":"动漫TV","name":"动漫TV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"http://www.cgwall.cn/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#短剧$3#伦理片$36#微视频$30"}},
+
 {"key":"毒舌电影","name":"毒舌电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dushe03.com/show/{cateId}-{area}-{class}--{year}-2-{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4","数组": "/detail&&</a>","标题": "</div>*title\">&&<","简介": "detail-desc\">&&</div>","图片": "https://vres.wbadl.cn/vod1/vod/cover/+vod1/vod/cover/&&\"","链接": "/detail/+/&&\"","导演": "导演:</div>&&</a>","演员": "演员:</div>&&</div>"}},
 {"key":"狐狸君","name":"狐狸君","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.foxjun.com/channel/{cateId}.html?page={catePg}","分类":"电影$dianying#电视剧$meiouju","搜索url":"https://www.foxjun.com/s/?q={wd}"}},
+{"key":"永乐视频","name":"永乐视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.ylsp.lv/vodshow/{cateId}--------{catePg}---/","搜索url":"https://www.ylsp.lv/vodsearch/-------------/?wd={wd}","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"八五影视","name":"八五影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"post-list clearfix mb15&&</li>","标题":"alt=*《&&》","副标题":"alt=*》&&\"","图片":"src=\"&&\"","简介":" 导读：&&</div>","播放数组":"downlist&&</div>","播放链接":"href=\"&&\"","分类url":"https://85128.net/category-{cateId}_{catePg}.html;;d","分类数组":"<a&&/a>[不包含:更多]","分类标题":">&&<","分类ID":"category-&&.html"}},
-{"key":"永乐视频","name":"永乐视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://ylsp.tv/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}/","搜索url":"https://ylsp.tv/vodsearch/-------------/?wd={wd}","分类":"动作$6#喜剧$7#科幻$9#恐怖$11#战争$20#悬疑$22#惊梀$45#灾难$47#犯罪$24"}},
 {"key":"rarbt","name":"rarbt","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.rarbt.fun/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://www.rarbt.fun/vod/search.html?wd={wd}","分类":"电影$movie#电视剧$Series"}},
 {"key":"坚果视频","name":"坚果视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://api1.bffree.cn/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://api1.bffree.cn/vodsearch/-------------.html?wd={wd}","分类":"电影$20#电视剧$37#动漫$45#综艺$43"}},
-{"key":"流光影视","name":"流光影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.lgys.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://www.lgys.tv/index.php/vod/search.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"飘花电影","name":"飘花电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.piaohua.com/html/{cateId}/list_{catePg}.html","搜索url":"https://www.piaohua.com/plus/search.php?keyword={wd}
 &searchtype=titlekeyword&channeltype=0&orderby=&kwtype=0&pagesize=10&typeid=0&TotalResult=16&PageNo=1","分类":"动作$dongzuo#科幻$kehuan#恐怖$kongbu"}},
 {"key":"飞行影视","name":"飞行影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.tomato-china.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","搜索url":"https://www.tomato-china.net/search/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#伦理$33"}},
@@ -103,7 +100,7 @@
 {"key":"黑狐影院","name":"黑狐影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"http://taikang.com.fagmn.com/list/{cateId}_{catePg}.html","搜索url":"http://taikang.com.fagmn.com/search.php;post;searchword={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"骚火影视","name":"骚火影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://saohuody.com/list/{cateId}-{catePg}.html","搜索url":"https://saohuody.com/search/-------------.html?wd={wd}","分类":"动作$5#喜剧$6#爱情$7#科幻$8#恐怖$9#剧情$10#战争$11"}},
 {"key":"北川影视","name":"北川影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.xgys.xyz/vodshow/{cateId}--------{catePg}---/","搜索url":"https://www.xgys.xyz/vodsearch/?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-{"key":"素白白","name":"素白白","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.subaibai.com/{cateId}/page/{catePg}","搜索url":"https://tdgo.shop/vodsearch/-------------.html?wd={wd}"}},
+{"key":"素白白","name":"素白白","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.subaibai.com/{cateId}/page/{catePg}","搜索url":"https://tdgo.shop/vodsearch/-------------.html?wd={wd}","分类":"电影$new-movie#电视剧$tv-drama"}},
 {"key":"Kimivod","name":"Kimivod","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://kimivod.com/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://cn.kimivod.com/search.php?searchword={wd}","分类":"电影$2#电视剧$1#动漫$4#综艺$3"}},
 {"key":"七味网","name":"七味网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.qwnull.com/vt/{cateId}-{catePg}.html","搜索url":"https://www.qwnull.com/vs/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 {"key":"迅雷电影","name":"迅雷电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"搜索url":"https://xunlei8.cc/s/{wd}.html","搜索数组":"bec4f196629d\">&&\"b9a905c","搜索标题":"<h2*>&&</i>","播放数组":"czs-category-l bdba79a1be86a&&b11e9b1883","播放列表":"<li>&&</li>[不包含:ed2k#</span></a#pan.baidu]","简介":"b1f40f7888\">&&</p>","分类":"电影$list#电视剧$tv","分类url":"https://xunlei8.cc/{cateId}-0-0-0-date-{catePg}-30.html;;md"}},
@@ -115,8 +112,11 @@
 {"key":"红狐狸","name":"红狐狸","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://honghuli.com/type/{cateId}-{catePg}.html","搜索url": "https://honghuli.com/search/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"青柠影视","name":"青柠影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.hspf520.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4","搜索url":"https://www.hspf520.com/search/-------------.html?wd={wd}"}},
 {"key":"沙雕影视","name":"沙雕影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.shadiao8.com/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
-{"key":"8090电影","name":"8090电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.hd8090.cc/fl/{cateId}--------{catePg}---.html","搜索url":"https://www.hd8090.cc/hdsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
-{"key":"追剧狂人","name":"追剧狂人","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.zjkrmv.com/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://www.zjkrmv.com/vodsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+{"key":"8090电影","name":"8090电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.hd8090.cc/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://www.hd8090.cc/vodsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+{"key":"追剧狂人","name":"追剧狂人","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.zjkrmv.vip/vodshow/{cateId}--------{catePg}---.html","分类":"电影$1#电视剧$2#伦理$22#综艺$4","搜索url":"https://www.zjkrmv.vip/vodsearch/-------------.html?wd={wd}"}},
+{"key":"光影迷","name":"光影迷","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.guangyingmi.com/pianku-{cateId}--------{catePg}---.html","分类":"电影$dianying#电视剧$dianshiju","搜索url":"https://www.guangyingmi.com/search--------------.html?wd={wd}"}},
+{"key":"游子视频","name":"游子视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.youzisp.tv/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dianying#电视剧$dianshiju","搜索url":"https://www.youzisp.tv/vodsearch/-------------.html?wd={wd}"}},
+{"key":"雅酷影视","name":"雅酷影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.yakucn.com/vodshow/{cateId}--------{catePg}---.html","分类":"动作$6#喜剧$7#科幻$9#恐怖$10#战争$12#午夜$20","搜索url":"https://www.yakucn.com/search/{wd}.html"}},
 {"key":"gimy剧迷","name":"gimy剧迷","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.jagcys.com/vodshow/{cateId}/page/{catePg}.html","搜索url":"https://www.jagcys.com/vodsearch.html?wd={wd}","分类":"电影$dianying#电视剧$dsj"}},
 {"key":"午夜电影","name":"午夜电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"http://www.wuyevod.com/vodshow/{cateId}--------{catePg}---.html","搜索url":"http://www.wuyevod.com/vodsearch/-------------.html?wd={wd}","分类":"电影$dianying#电视剧$dianshiju"}},
 {"key":"耐看点播","name":"耐看点播","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://nkvod.com/show/{cateId}--------{catePg}---.html","搜索url":"https://nkvod.com/nk/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
@@ -131,17 +131,19 @@
 
 {"key":"小贝影院","name":"小贝影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"http://www.nanxiaoba.com/type/{cateId}-{class}-{area}-{year}---addtime-{catePg}.html","分类":"最新电影$1#连续剧$2#综艺$4#动漫$3#短剧$5$#午夜电影$6","线路二次截取": "<ul class=\"nav nav-tabs ff-playurl-tab&&</ul>","线路数组": "<li&&</li>","线路标题": ">&&</a>","播放数组": "<ul class=\"list-unstyled row text-center tab-pane ff-playurl active fade in ff-playurl-tab-1\"&&</ul>","播放标题": ">&&</a>"}},
 {"key":"爱看电影","name":"爱看电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://aikdy.com/show/{cateId}-{area}--{calss}-{lang}----{catePg}---{year}.html","搜索url":"https://aikdy.com/search/-------------.html?wd={wd}","分类":"动作$6#喜剧$7#科幻$9#恐怖$10#战争$12#悬疑$20#惊梀$21#灾难$22"}},
-{"key":"八一影院","name":"八一影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"detail-sketch\">&&","搜索url":"https://www.hihedon.com/vodsearch/{wd}----------{pg}---.html","分类url":"https://www.hihedon.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$dy#连续剧$dsj#动漫$dm#综艺$zy#解说$js"}},
 {"key":"魅影视频","name":"魅影视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.hangtong168.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","搜索url":"https://www.hangtong168.com/search/{wd}----------1---.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#午夜剧场$33"}},
 {"key":"蛋蛋赞","name":"蛋蛋赞","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dandanzan.club/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://www.dandanzan.club/index.php/vod/search.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3#伦理$34"}},
 {"key":"电影先生","name":"电影先生","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://xn--44qz85a01qpc.com/pianku-{cateId}--------{catePg}---.html","搜索url":"https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}","分类":"电影$dianying#电视剧$dianshiju"}},
 {"key":"大猫电影网","name":"大猫电影网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.maoqilai.com/vodshow/{cateId}--------{catePg}---.html","搜索url": "https://www.maoqilai.com/vodsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
-{"key":"火车太堵","name":"火车太堵","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://tdgo.shop/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://tdgo.shop/vodsearch/-------------.html?wd={wd}","分类":"电影$20#电视剧$21#动漫$22#综艺$23"}},
+{"key":"火车太堵","name":"火车太堵","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.tdgo.shop/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://www.tdgo.shop/vodsearch/-------------.html?wd={wd}","分类":"电影$20#电视剧$21#动漫$22#综艺$23"}},
 {"key":"奇库影视","name":"奇库影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://qkys.me/vodshow/{cateId}--------{catePg}---.html","搜索url": "http://qkys.me/vodsearch/{wd}-------------.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 {"key":"电影驿站","name":"电影驿站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.dyyz1.app/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#综艺$3#动漫$4"}},
 {"key":"K视频","name":"K视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://667555.xyz/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://667555.xyz/vodsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"PTT","name":"PTT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://ptt.red/p/{cateId}?page={catePg}","搜索url": "https://ptt.red/node/search?title={wd}"}},
 {"key":"光影迷","name":"光影迷","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.guangyingmi.com/pianku-{cateId}--------{catePg}---/","搜索url":"https://www.guangyingmi.com/search--------------/?wd={wd}","分类":"电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi"}},
+{"key":"555电影","name":"555电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.55yy7.com/vodshow/{cateId}--------{catePg}---.html","搜索url":"https://www.55yy7.com/vodsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"南瓜TV","name":"南瓜TV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://nanguays.icu/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url":"https://nanguays.icu/index.php/vod/search.html?wd={wd}","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"美剧窝","name":"美剧窝","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.mjwo.net/type/{cateId}-{catePg}/","搜索url":"https://www.mjwo.net/search/--/?wd={wd}","分类":"电影$dianying#电视剧$meiju"}},
 {"key":"努努影院","name":"努努影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.nunuyy5.com/type-{cateId}/","搜索url":"https://www.nunuyy5.com/vodsearch?q={wd}","分类":"电影$movie#电视剧$tv"}},
 {"key":"影院大全","name":"影院大全","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","搜索url":"https://www.iysdq.com/vodsearch/-------------.html?wd={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"影视大全","name":"影视大全","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类":"电影$2#电视剧$1#动漫$3#综艺$4"}},
