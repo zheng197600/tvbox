@@ -10,14 +10,18 @@
 {"key":"豆瓣推荐","name":"豆瓣推荐(LFJS)","type":3,"api":"./js/lf_search3_min.js","searchable":0,"quickSearch":0},
 {"key":"T4_预告","name":"预告(T4)","type":4,"api":"https://catbox.n13.club/t9/yugaopian.php","searchable":0,"quickSearch":0},
 //{"key":"豆瓣","name":"CNS┃豆瓣","type":3,"api":"csp_Douban","ext":"./js/douban.json","jar":"./jar/豆瓣.jar","searchable":0,"quickSearch":0},
+{"jar": "./jar/肥猫.jar","key": "看球直播","name": "看球直播","type": 3,"api": "csp_Kanqiu","searchable": 0,"quickSearch": 0,"changeable": 0,"gridview": 3,"style": {"type": "list"}},
+{"jar": "./jar/饭太硬.jar","key": "88看球","name": "88看球","type": 3,"api": "csp_Sir88Guard","timeout": 15,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
+{"jar": "./jar/饭太硬.jar","key": "926看球","name": "926看球","type": 3,"api": "csp_kanqiu926Guard","timeout": 15,"searchable": 0,"changeable": 0,"style": {"type": "list"},"ext": "uqGL1fpJNAUa4uUHi9iMsef1+C/R"},
+{"jar": "./jar/饭太硬.jar","key": "看球直播2","name": "看球直播2","type": 3,"api": "csp_KanqiuGuard","timeout": 15,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
+{"key":"T4_企鹅体育","name":"企鹅体育(T4)","type":4,"api":"https://catbox.n13.club/t9/qietiyu.php","searchable":0,"quickSearch":0},
+{"key":"T4_360看球","name":"360看球(T4)","type":4,"api":"https://catbox.n13.club/t9/360kq.php","searchable":0,"quickSearch":0},
 {"key":"急救教学","name":"急救教学","type":4,"api":"https://catbox.n13.club/t9/jijiu.php","searchable":0,"quickSearch":0},
 {"key": "MV音乐", "name": "MV音乐", "type": 4, "api": "https://zhxy.eu.org/api/KTV歌厅[听]", "searchable": 0, "filterable": 0, "quickSearch": 0, "ext": "" },
 {"key":"MTV点播","name":"MTV点播(T4)","type":4,"api":"http://120.53.102.254/dsp","searchable":0,"quickSearch":0},
 {"key":"音乐小狗","name":"音乐小狗(T4)","type":4,"api":"https://catbox.n13.club/t9/xiaogou.php","searchable":0,"quickSearch":0},
 {"key":"相声","name":"相声","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs","searchable":0,"quickSearch":0},
 {"key":"软件教程","name":"软件教程","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=软件教程","searchable":0,"quickSearch":0},
-{"key":"T4_企鹅体育","name":"企鹅体育(T4)","type":4,"api":"https://catbox.n13.club/t9/qietiyu.php","searchable":0,"quickSearch":0},
-{"key":"T4_360看球","name":"360看球(T4)","type":4,"api":"https://catbox.n13.club/t9/360kq.php","searchable":0,"quickSearch":0},
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js","searchable":0,"quickSearch":0},
 {"key":"t42直播转点播","name":"t42直播转点播(T4)","type":4,"api":"http://120.53.102.254/dsp999","searchable":0,"quickSearch":0},
 {"key":"听书博看","name":"听书博看","type":4,"api":"https://catbox.n13.club/t9/bookan.php","searchable":0,"quickSearch":0},
@@ -35,6 +39,14 @@
 
 
 
+{"key":"926","name":"926","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://926tv.net/lanqiu/{cateId}","搜索url":"https://www.ylsp.lv/vodsearch/-------------/?wd={wd}","分类":"电影$NBA#电视剧$CBA#综艺$3#动漫$4","数组":"li_pc\">&&</div>"}},
+
+
+
+
+
+
+
 
 
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
@@ -49,7 +61,10 @@
 {"key": "荐片","name": "荐片","api": "csp_Jianpian","type": 3,"playerType": "2","jar": "http://47.120.41.246:8025/vip/jar/feimao.php"},
 {"key":"糯米影视","name":"糯米影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn","jar": "http://47.120.41.246:8025/vip/jar/ouge.php"},
 {"key":"天堂影视","name":"天堂影视","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://tvbot.dpdns.org/spider.jar"},
-
+{"key":"好恐怖","name":"好恐怖","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
+{"key":"新飘花","name":"新飘花","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
+{"key":"音范丝4K","name":"音范丝4K","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
+{"key":"电波","name":"电波","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/8K影视.json","jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
 
 
 {"key":"drpy_js_金牌影视","name":"金牌影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/金牌影视.js"},
