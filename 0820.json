@@ -1,4 +1,5 @@
 {
+"wallpaper": "https://深色壁纸.xxooo.cf/",
 "spider":"./jar/xbpq.jar",
 "lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
 
@@ -40,10 +41,23 @@
 
 
 
+
 {"key": "清单播放","name": "清单播放","type": 4,"api": "http://zhangqun1818.serv00.net/zh/2243.php","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key":"py_界影视","name":"py_界影视","type":3,"api":"py_界影视","ext":"./py/py_界影视.py","searchable":1,"quickSearch":1}, 
 {"key":"py_猎手影视","name":"py_猎手影视","type":3,"api":"py_猎手影视","ext":"./py/py_猎手影视.py","searchable":1,"quickSearch":1},  
 
+
+{"key": "爱奇艺","name": "爱奇艺","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/aqy.js"},
+{"key": "优酷","name": "优酷","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/yk.js"},
+{"key": "腾讯","name": "腾讯","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/tx.js"},
+{"key": "搜狗","name": "搜狗","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/sg.js"},
+{"key": "bili","name": "bili","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/bili.js"},
+{"key": "MGTV","name": "MGTV","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/mgtv.js"},
+
+{"key": "天天","name": "天天","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": "https://tvbox.catvod.com/js/tiantian.json"},
+{"key": "4k","name": "4k","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": "https://tvbox.catvod.com/js/4k.json"},
+{"key": "片吧","name": "片吧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": "https://tvbox.catvod.com/js/pianba.json"},
+{"key": "电波","name": "电波","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": "https://tvbox.catvod.com/js/db.json"},
 
 
 {"key":"T4-6v","name":"磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
@@ -74,7 +88,6 @@
 {"key":"好恐怖","name":"好恐怖","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
 {"key":"新飘花","name":"新飘花","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
 {"key":"音范丝4K","name":"音范丝4K","type":3,"api":"csp_CandyMuj_yinfans","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
-
 
 
 
