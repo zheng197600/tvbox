@@ -1,6 +1,7 @@
 {
 "wallpaper": "https://深色壁纸.xxooo.cf/",
-"spider":"./jar/xbpq.jar",
+"spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
+//"spider":"./jar/xbpq.jar",
 "lives":[{"name":"综合","type":0,"url":"./tv/电视直播.txt"}],
 
 
@@ -27,7 +28,6 @@
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js","searchable":0,"quickSearch":0},
 {"key":"py_央视","name":"py_央视","type":3,"api":"py_央视","ext":"./py/py_央视.py","searchable":0,"quickSearch":0},  
 {"key":"T4_糖豆","name":"糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php","searchable":0,"quickSearch":0},
-//{"key":"道长直播","name":"道长直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json","searchable":0,"quickSearch":0},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2","searchable":0,"quickSearch":0},
 {"key":"py_网盘","name":"py_网盘","type":3,"api":"py_网盘","ext":"./py/py_网盘.py","searchable":0,"quickSearch":0}, 
 
@@ -35,8 +35,6 @@
 //{"key":"韩片网","name":"韩片网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.hanpian.pro/menu/{cateId}/0{catePg}/","搜索url":"https://www.hanpian.pro/search/-------------/?wd={wd}","分类":"电影$dz#电视剧$cn","跳转播放链接":"data-play=\"&&\"","数组":"<li class=\"mo-paxs-5px mo-pamd-10px&&</li>","图片":"data-original=\"&&\"","标题":"/\">&&</a>","副标题":"mo-coxs-center\">&&</span>","简介":"讲述<p>&&</p>","链接":"href=\"&&\""}},
 //{"key":"电影小镇","name":"电影小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"http://dyxz.tv/list/{cateId}-{catePg}.html"}},
 //类型{cateid}，剧情{calss}，地区{area}，年份{year}，排序{by}，{letter}字母，语言{lang}，           翻页{catepg}{catepg}是翻页，网页拉到下边，点一下第2页或者随便哪一页，网址上多出来的page/2，按规律替换就有翻页了。
-
-
 
 
 
@@ -455,6 +453,7 @@
 {"key":"JavBus","name":"JavBus","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://javbus.sbs/vod/type/id/{cateId}/page/{catePg}/","搜索url":"https://javbus.sbs/vod/search/?wd={wd}&submit=","分类":"一区$1#二区$2#三区$3#四区$4#五区$5#传媒映画$6#日本AV$7"}},
 {"key":"AV兄弟","name":"AV兄弟","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://avbro.xyz/vodtype/{cateId}-{catePg}/","搜索url":"https://avbro.xyz/vodsearch/-------------/?wd={wd}","分类":"中文字幕$28#日本有码$21#日本无码$22#欧美$23"}},
 {"key":"骑虎影库","name":"骑虎影库","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.1guoc.com/vodtype/{cateId}-{catePg}.html","搜索url":"https://www.1guoc.com/s/-.html?wd={wd}"}},
+{"key":"道长直播","name":"道长直播[js]","type":3,"api":"./lib/live2cms.js","ext":"./js/道长直播.json","searchable":0,"quickSearch":0},
 {"key":"drpy_js_ss直播2","name":"ss直播2[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播2.js","searchable":0,"quickSearch":0},
 {"key":"drpy_js_ss直播","name":"ss直播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","searchable":0,"quickSearch":0}],
 
