@@ -56,6 +56,8 @@ Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 法国时装3,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
+
+
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -73,6 +75,23 @@ TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 美亚电影,http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 天映,http://cdn9.163189.xyz/smt1.1.php?id=Celestial
+
+Now新闻,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20082 
+Now财经,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20085 
+Now星影(粤),https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20413 
+Now爆谷(粤),https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20414 
+Now爆谷,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20411 
+Now星影,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20412 
+Now华剧,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20091 
+Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20392 
+Now英超,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20403 
+Now_sport1,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20396
+Now_sport2,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20397
+Now_sport3,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20398
+Now_sport4,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20399
+Now_sport5,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20400
+Now_sport6,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20401
+Now_sport7,https://iptv333.ekuai.asia/cdn/813555/tv0991.php?id=20402
 
 凤凰资讯,http://m.061899.xyz/mg/fhzx
 凤凰中文,http://m.061899.xyz/mg/fhzw
@@ -171,6 +190,27 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 无线翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+
+中视,http://123.51.136.80:8301/0.ts
+中视新闻,http://123.51.136.80:8302/0.ts
+原住民卫视,http://123.51.136.80:8303/0.ts
+公视,http://123.51.136.80:8305/0.ts
+公视台语,http://123.51.136.80:8306/0.ts
+客家卫视,http://123.51.136.80:8307/0.ts
+民视,http://123.51.136.80:8308/0.ts
+民视第一,http://123.51.136.80:8309/0.ts
+民视新闻,http://123.51.136.80:8310/0.ts
+民视台湾,http://123.51.136.80:8311/0.ts
+小公视,http://123.51.136.80:8312/0.ts
+台视,http://123.51.136.80:8313/0.ts
+台视新闻,http://123.51.136.80:8314/0.ts
+台视财经,http://123.51.136.80:8315/0.ts
+台视综合,http://123.51.136.80:8316/0.ts
+华视,http://123.51.136.80:8317/0.ts
+华视教育体育文化,http://123.51.136.80:8318/0.ts
+华视新闻,http://123.51.136.80:8319/0.ts
+中视经典,http://123.51.136.80:8321/0.ts
+中视菁采,http://123.51.136.80:8322/0.ts
 
 
 黄金翡翠,http://hkenlive.uk/livehttpplay?channel_id=13027
@@ -498,6 +538,90 @@ CHC影迷电影,http://www.lizhinas.top:1009/udp/239.252.219.83:5140
 戏曲,http://www.lizhinas.top:1009/udp/239.252.219.163:5140
 星影,http://www.lizhinas.top:1009/udp/239.252.220.210:5140
 
+广东珠江,http://m.061899.xyz/mg/gdzj
+广东新闻,http://m.061899.xyz/mg/gdxw
+广东民生,http://m.061899.xyz/mg/gdms
+广东体育,http://m.061899.xyz/mg/gdty
+CCTV-01,http://m.061899.xyz/mg/cctv1
+CCTV-01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-02,http://m.061899.xyz/mg/cctv2
+CCTV-02,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-03,http://m.061899.xyz/mg/cctv3
+CCTV-03,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-04,http://m.061899.xyz/mg/cctv4
+CCTV-05,http://m.061899.xyz/mg/cctv5
+CCTV-5+,http://m.061899.xyz/mg/cctv5p
+CCTV-06,http://m.061899.xyz/mg/cctv6
+CCTV-07,http://m.061899.xyz/mg/cctv7
+CCTV-08,http://m.061899.xyz/mg/cctv8
+CCTV-08,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-09,http://m.061899.xyz/mg/cctv9
+CCTV-10,http://m.061899.xyz/mg/cctv10
+CCTV-11,http://m.061899.xyz/mg/cctv11
+CCTV-12,http://m.061899.xyz/mg/cctv12
+CCTV-13,http://m.061899.xyz/mg/cctv13
+CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV-14,http://m.061899.xyz/mg/cctv14
+CCTV-15,http://m.061899.xyz/mg/cctv15
+CCTV-16,http://m.061899.xyz/mg/cctv16
+CCTV-17,http://m.061899.xyz/mg/cctv17
+cctv美洲,http://m.061899.xyz/mg/cctv4m
+cctv欧洲,http://m.061899.xyz/mg/cctv4o
+CETV-01,http://m.061899.xyz/mg/cetv1
+CETV-02,http://m.061899.xyz/mg/cetv2
+CETV-04,http://m.061899.xyz/mg/cetv4
+凤凰中文频标,http://m.061899.xyz/mg/fhzw
+凤凰资讯频标,http://m.061899.xyz/mg/fhzx
+凤凰香港频标,http://m.061899.xyz/mg/fhhk
+家庭影院,http://m.061899.xyz/mg/jtyy
+动作电影,http://m.061899.xyz/mg/dzdy
+影迷电影,http://m.061899.xyz/mg/ymdy
+北京卫视,http://m.061899.xyz/mg/bjws
+东方卫视,http://m.061899.xyz/mg/dfws
+浙江卫视,http://m.061899.xyz/mg/zjws
+江苏卫视,http://m.061899.xyz/mg/jsws
+湖南卫视,http://m.061899.xyz/mg/hunws
+广东卫视,http://m.061899.xyz/mg/gdws
+深圳卫视,http://m.061899.xyz/mg/szws
+天津卫视,http://m.061899.xyz/mg/tjws
+安徽卫视,http://m.061899.xyz/mg/ahws
+山东卫视,http://m.061899.xyz/mg/sdws
+河北卫视,http://m.061899.xyz/mg/hbws
+河南卫视,http://m.061899.xyz/mg/hnws
+江西卫视,http://m.061899.xyz/mg/jxws
+四川卫视,http://m.061899.xyz/mg/scws
+重庆卫视,http://m.061899.xyz/mg/cqws
+贵州卫视,http://m.061899.xyz/mg/gzws
+湖北卫视,http://m.061899.xyz/mg/hubws
+广西卫视,http://m.061899.xyz/mg/gxws
+东南卫视,http://m.061899.xyz/mg/dnws
+海南卫视,http://m.061899.xyz/mg/hinws
+甘肃卫视,http://m.061899.xyz/mg/gsws
+青海卫视,http://m.061899.xyz/mg/qhws
+陕西卫视,http://m.061899.xyz/mg/sxws
+宁夏卫视,http://m.061899.xyz/mg/nxws
+新疆卫视,http://m.061899.xyz/mg/xjws
+西藏卫视,http://m.061899.xyz/mg/xzws
+兵团卫视,http://m.061899.xyz/mg/btws
+吉林卫视,http://m.061899.xyz/mg/jlws
+内蒙古视,http://m.061899.xyz/mg/nmgws
+黑龙江视,http://m.061899.xyz/mg/hljws
+重温经典,http://m.061899.xyz/mg/cwjd
+劲爆体育,http://m.061899.xyz/mg/jbty
+咪咕体育,http://m.061899.xyz/mg/mgty
+北京体育,http://m.061899.xyz/mg/bjty
+北京新闻,http://m.061899.xyz/mg/bjxw
+北京财经,http://m.061899.xyz/mg/bjcj
+北京文艺,http://m.061899.xyz/mg/bjwy
+北京生活,http://m.061899.xyz/mg/bjsh
+北京少儿,http://m.061899.xyz/mg/bjkk
+北京影视,http://m.061899.xyz/mg/bjys
+北京纪实,http://m.061899.xyz/mg/bjjs
+东方影视,http://m.061899.xyz/mg/shys
+东方纪实,http://m.061899.xyz/mg/xjs
+红色轮播,http://m.061899.xyz/mg/hslb
+金色剧场,http://m.061899.xyz/mg/jsjc
+乡村振兴,http://m.061899.xyz/mg/xczx
 
 
 CCTV1综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202509231200475bb2e75b6e8142b58cbdae900b9bd42a&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250923120047&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250923120047&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f65894162c0c66c200b657815968df48&ddCalcu=8f46ef52d88890649156128c705c66b60c02
@@ -1952,14 +2076,222 @@ NBA-TV,http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
-网络直播,#genre#
+日韩频道,#genre#
+NHKG,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd01
+NHKBS,https://epg.freejptv.com/ph.php?&isp=1&id=bs11
+NHKBS4K,https://epg.freejptv.com/ph.php?&isp=1&id=bs01
+NHKE,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd02
+TBS,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd04
+NHKG,https://epg.freejptv.com/ph.php?&isp=1&id=gd01
+NHKE,https://epg.freejptv.com/ph.php?&isp=1&id=gd02
+TBS,https://epg.freejptv.com/ph.php?&isp=1&id=gd04
+NHKG,https://epg.freejptv.com/ph.php?&isp=1&id=gx06
+TBS,https://epg.freejptv.com/ph.php?&isp=1&id=gx01
+BS朝日,https://epg.freejptv.com/ph.php?&isp=1&id=bs03
+BSTBS,https://epg.freejptv.com/ph.php?&isp=1&id=bs04
+TOKYOMX1,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd08
+TOKYOMX1,https://epg.freejptv.com/ph.php?&isp=1&id=gd08
+TBSNews,https://epg.freejptv.com/ph.php?&isp=1&id=cs11
+WOWOWPrime,https://epg.freejptv.com/ph.php?&isp=1&id=bs12
+WOWOWCinema,https://epg.freejptv.com/ph.php?&isp=1&id=bs07
+WOWOWLive,https://epg.freejptv.com/ph.php?&isp=1&id=bs20
+宝塚歌劇,https://epg.freejptv.com/ph.php?&isp=2&id=cs28
+時代劇,https://epg.freejptv.com/ph.php?&isp=1&id=cs04
+MondoTV,https://epg.freejptv.com/ph.php?&isp=1&id=cs21
+JSport1,https://epg.freejptv.com/ph.php?&isp=1&id=bs18
+JSport2,https://epg.freejptv.com/ph.php?&isp=1&id=bs19
+JSport3,https://epg.freejptv.com/ph.php?&isp=1&id=bs21
+JSport4,https://epg.freejptv.com/ph.php?&isp=1&id=bs22
+GAORA,https://epg.freejptv.com/ph.php?&isp=1&id=cs17
+MusicJapan,https://epg.freejptv.com/ph.php?&isp=1&id=cs06
+LaLaTV,https://epg.freejptv.com/ph.php?&isp=1&id=cs19
+銀河,https://epg.freejptv.com/ph.php?&isp=2&id=cs29
+NHKBS4K,https://mt01.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
+NHKE,https://mt01.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
+TBS,https://mt01.utako.moe/TBS/tracks-v1a1/mono.ts.m3u8
+BSTBS,https://mt01.utako.moe/bstbs/tracks-v1a1/mono.ts.m3u8
+BS朝日,https://mt01.utako.moe/bsasahi/tracks-v1a1/mono.ts.m3u8
+TOKYOMX1,https://mt01.utako.moe/Tokyo_MX1/tracks-v1a1/mono.ts.m3u8
+TOKYOMX2,https://mt01.utako.moe/Tokyo_MX2/tracks-v1a1/mono.ts.m3u8
+TBS,https://mt01.utako.moe/mbs/tracks-v1a1/mono.ts.m3u8
+KBS京都,https://mt01.utako.moe/kbs/tracks-v1a1/mono.ts.m3u8
+TBS1,https://ca01.utako.moe/tbsch1/tracks-v1a1/mono.ts.m3u8
+TBS2,https://ca01.utako.moe/tbsch2/tracks-v1a1/mono.ts.m3u8
+BS11,https://mt01.utako.moe/BS11/tracks-v1a1/mono.ts.m3u8
+東映,https://ca01.utako.moe/toei/tracks-v1a1/mono.ts.m3u8
+NECO,https://ca01.utako.moe/neco/tracks-v1a1/mono.ts.m3u8
+JSport1,https://mt01.utako.moe/js1/tracks-v1a1/mono.ts.m3u8
+JSport2,https://mt01.utako.moe/js2/tracks-v1a1/mono.ts.m3u8
+JSport3,https://mt01.utako.moe/js3/tracks-v1a1/mono.ts.m3u8
+JSport4,https://mt01.utako.moe/js4/tracks-v1a1/mono.ts.m3u8
+GAORA,https://mt01.utako.moe/gaora/tracks-v1a1/mono.ts.m3u8
+SkyA,https://ca01.utako.moe/skya/tracks-v1a1/mono.ts.m3u8
+AT-X,https://mt01.utako.moe/AT-X/tracks-v1a1/mono.ts.m3u8
+DisneyChannel,https://ca01.utako.moe/disneychan/tracks-v1a1/mono.ts.m3u8
+CartoonNetwork,https://ca01.utako.moe/cartoon_network/tracks-v1a1/mono.ts.m3u8
+Animax,https://ca01.utako.moe/Animax/tracks-v1a1/mono.ts.m3u8
+Dlife,https://ca01.utako.moe/dlife/tracks-v1a1/mono.ts.m3u8
+銀河,https://ca01.utako.moe/gingach/tracks-v1a1/mono.ts.m3u8
+NHKG,https://mt01.utako.moe/NHK_G/index.m3u8
+NHKBS4K,https://mt01.utako.moe/bsp4k/index.m3u8
+NHKE,https://mt01.utako.moe/NHK_E/index.m3u8
+TBS,https://mt01.utako.moe/TBS/index.m3u8
+BSTBS,https://mt01.utako.moe/bstbs/index.m3u8
+BS朝日,https://mt01.utako.moe/bsasahi/index.m3u8
+TOKYOMX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+TOKYOMX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+TBS,https://mt01.utako.moe/mbs/index.m3u8
+KBS京都,https://mt01.utako.moe/kbs/index.m3u8
+TBS1,https://ca01.utako.moe/tbsch1/index.m3u8
+TBS2,https://ca01.utako.moe/tbsch2/index.m3u8
+BS11,https://mt01.utako.moe/BS11/index.m3u8
+東映,https://ca01.utako.moe/toei/index.m3u8
+NECO,https://ca01.utako.moe/neco/index.m3u8
+JSport1,https://mt01.utako.moe/js1/index.m3u8
+JSport2,https://mt01.utako.moe/js2/index.m3u8
+JSport3,https://mt01.utako.moe/js3/index.m3u8
+JSport4,https://mt01.utako.moe/js4/index.m3u8
+GAORA,https://mt01.utako.moe/gaora/index.m3u8
+SkyA,https://ca01.utako.moe/skya/index.m3u8
+AT-X,https://mt01.utako.moe/AT-X/index.m3u8
+DisneyChannel,https://ca01.utako.moe/disneychan/index.m3u8
+CartoonNetwork,https://ca01.utako.moe/cartoon_network/index.m3u8
+Dlife,https://ca01.utako.moe/dlife/index.m3u8
+銀河,https://ca01.utako.moe/gingach/index.m3u8
+NHKG,http://hostengine.live/live/Chelsea10%40/Stamford77%40/289500.m3u
+NHKG,http://hostengine.live/live/Chelsea10%40/Stamford77%40/289486.m3u
+日本テレビ,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd03
+フジテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd05
+テレビ朝日,https://epg.freejptv.com/ph.php?&isp=1&id=hdgd06
+日本テレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gd03
+フジテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gd05
+テレビ朝日,https://epg.freejptv.com/ph.php?&isp=1&id=gd06
+テレビ東京,https://epg.freejptv.com/ph.php?&isp=1&id=gd07
+日本テレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gx04
+テレビ朝日,https://epg.freejptv.com/ph.php?&isp=1&id=gx02
+フジテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gx03
+テレビ東京,https://epg.freejptv.com/ph.php?&isp=1&id=gx05
+サンテレビ,https://epg.freejptv.com/ph.php?&isp=1&id=gx07
+BS日レビ,https://epg.freejptv.com/ph.php?&isp=1&id=bs02
+BSフジ,https://epg.freejptv.com/ph.php?&isp=1&id=bs06
+フジテレビNext,https://epg.freejptv.com/ph.php?&isp=1&id=cs26
+日テレジータス,https://epg.freejptv.com/ph.php?&isp=1&id=cs02
+ディスカバリー,https://epg.freejptv.com/ph.php?&isp=1&id=cs08
+ナショジオ,https://epg.freejptv.com/ph.php?&isp=1&id=cs10
+旅チャンネル,https://epg.freejptv.com/ph.php?&isp=1&id=cs12
+ムービープラス,https://epg.freejptv.com/ph.php?&isp=1&id=cs14
+スターチャンネル,https://epg.freejptv.com/ph.php?&isp=1&id=bs08
+ファミリー劇場,https://epg.freejptv.com/ph.php?&isp=1&id=cs20
+ホームドラマ,https://epg.freejptv.com/ph.php?&isp=1&id=cs05
+グリーンチャンネル,https://epg.freejptv.com/ph.php?&isp=1&id=bs14
+スカイA,https://epg.freejptv.com/ph.php?&isp=1&id=cs01
+釣りビジョン,https://epg.freejptv.com/ph.php?&isp=1&id=bs25
+ゴルフネットワーク,https://epg.freejptv.com/ph.php?&isp=1&id=cs03
+スペースシャワー,https://epg.freejptv.com/ph.php?&isp=1&id=bs26
+歌謡ポップス,https://epg.freejptv.com/ph.php?&isp=1&id=cs13
+日本テレビ,https://mt01.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
+フジテレビ,https://mt01.utako.moe/Fuji_TV/tracks-v1a1/mono.ts.m3u8
+テレビ朝日,https://mt01.utako.moe/TV_Asahi/tracks-v1a1/mono.ts.m3u8
+テレビ東京,https://mt01.utako.moe/TV_Tokyo/tracks-v1a1/mono.ts.m3u8
+BS日テレ,https://mt01.utako.moe/bsntv/tracks-v1a1/mono.ts.m3u8
+BSフジ,https://mt01.utako.moe/bsfuji/tracks-v1a1/mono.ts.m3u8
+BSテレ東,https://mt01.utako.moe/bstvtokyo/tracks-v1a1/mono.ts.m3u8
+テレビ朝日,https://mt01.utako.moe/abc/tracks-v1a1/mono.ts.m3u8
+テレビ東京,https://mt01.utako.moe/tvo/tracks-v1a1/mono.ts.m3u8
+フジテレビ,https://mt01.utako.moe/kansaitv/tracks-v1a1/mono.ts.m3u8
+日本テレビ,https://mt01.utako.moe/ytv/tracks-v1a1/mono.ts.m3u8
+サンテレビ,https://mt01.utako.moe/suntv/tracks-v1a1/mono.ts.m3u8
+日テレG+,https://ca01.utako.moe/ntvgplus/tracks-v1a1/mono.ts.m3u8
+フジテレビ1,https://ca01.utako.moe/fuji_one/tracks-v1a1/mono.ts.m3u8
+フジテレビ2,https://ca01.utako.moe/fuji_two/tracks-v1a1/mono.ts.m3u8
+フジテレビNEXT,https://ca01.utako.moe/fuji_next/tracks-v1a1/mono.ts.m3u8
+テレビ朝日1,https://ca01.utako.moe/ex_ch1/tracks-v1a1/mono.ts.m3u8
+テレビ朝日2,https://ca01.utako.moe/ex_ch2/tracks-v1a1/mono.ts.m3u8
+ファミリー劇場,https://ca01.utako.moe/familygeki/tracks-v1a1/mono.ts.m3u8
+V☆パラダイス,https://ca01.utako.moe/v_paradise/tracks-v1a1/mono.ts.m3u8
+WOWOWプライム,https://mt01.utako.moe/wprime/tracks-v1a1/mono.ts.m3u8
+WOWOWシネマ,https://mt01.utako.moe/wcinema/tracks-v1a1/mono.ts.m3u8
+WOWOWライブ,https://mt01.utako.moe/wlive/tracks-v1a1/mono.ts.m3u8
+スターチャンネル,https://mt01.utako.moe/bs10_star/tracks-v1a1/mono.ts.m3u8
+グリーンチャンネル,https://mt01.utako.moe/green/tracks-v1a1/mono.ts.m3u8
+スペースシャワー,https://ca01.utako.moe/spaceshower/tracks-v1a1/mono.ts.m3u8
+歌謡ポップス,https://ca01.utako.moe/kayopops/tracks-v1a1/mono.ts.m3u8
+スポーツライブ＋,https://ca01.utako.moe/sport_live_plus/tracks-v1a1/mono.ts.m3u8
+旅チャンネル,https://ca01.utako.moe/tabi/tracks-v1a1/mono.ts.m3u8
+日本テレビ,https://mt01.utako.moe/Nippon_TV/index.m3u8
+フジテレビ,https://mt01.utako.moe/Fuji_TV/index.m3u8
+テレビ朝日,https://mt01.utako.moe/TV_Asahi/index.m3u8
+テレビ東京,https://mt01.utako.moe/TV_Tokyo/index.m3u8
+BS日テレ,https://mt01.utako.moe/bsntv/index.m3u8
+BSフジ,https://mt01.utako.moe/bsfuji/index.m3u8
+BSテレ東,https://mt01.utako.moe/bstvtokyo/index.m3u8
+テレビ朝日,https://mt01.utako.moe/abc/index.m3u8
+テレビ東京,https://mt01.utako.moe/tvo/index.m3u8
+フジテレビ,https://mt01.utako.moe/kansaitv/index.m3u8
+日本テレビ,https://mt01.utako.moe/ytv/index.m3u8
+サンテレビ,https://mt01.utako.moe/suntv/index.m3u8
+日テレG+,https://ca01.utako.moe/ntvgplus/index.m3u8
+フジテレビ1,https://ca01.utako.moe/fuji_one/index.m3u8
+フジテレビ2,https://ca01.utako.moe/fuji_two/index.m3u8
+フジテレビNEXT,https://ca01.utako.moe/fuji_next/index.m3u8
+テレビ朝日1,https://ca01.utako.moe/ex_ch1/index.m3u8
+テレビ朝日2,https://ca01.utako.moe/ex_ch2/index.m3u8
+ファミリー劇場,https://ca01.utako.moe/familygeki/index.m3u8
+V☆パラダイス,https://ca01.utako.moe/v_paradise/index.m3u8
+WOWOWプライム,https://mt01.utako.moe/wprime/index.m3u8
+WOWOWシネマ,https://mt01.utako.moe/wcinema/index.m3u8
+WOWOWライブ,https://mt01.utako.moe/wlive/index.m3u8
+スターチャンネル,https://mt01.utako.moe/bs10_star/index.m3u8
+グリーンチャンネル,https://mt01.utako.moe/green/index.m3u8
+スペースシャワー,https://ca01.utako.moe/spaceshower/index.m3u8
+歌謡ポップス,https://ca01.utako.moe/kayopops/index.m3u8
+スポーツライブ＋,https://ca01.utako.moe/sport_live_plus/index.m3u8
+旅チャンネル,https://ca01.utako.moe/tabi/index.m3u8
+ガキの使い,http://hostengine.live/live/Chelsea10%40/Stamford77%40/289495.m3u
+日本映画,https://epg.freejptv.com/ph.php?&isp=1&id=bs23
+日本映画,https://ca01.utako.moe/nihoneiga/tracks-v1a1/mono.ts.m3u8
+日本映画,https://ca01.utako.moe/nihoneiga/index.m3u8
+衛星劇場,https://epg.freejptv.com/ph.php?&isp=1&id=cs22
+MTV,https://epg.freejptv.com/ph.php?&isp=1&id=cs18
+MTV,https://ca01.utako.moe/mtv/tracks-v1a1/mono.ts.m3u8
+MTV,https://ca01.utako.moe/mtv/index.m3u8
+NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
+TBS,https://tbs5.mov3.co/hls/tbs.m3u8
+NHKG,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+NHKG,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
+NHKG,https://stream1.freetv.fun/9ea86e6b10e0c09b5700edb622c11af0ddb77782952a4c13f51664ecc22012ce.m3u8
+NHKBS,https://stream1.freetv.fun/69ae2a7c0ed79b7b2b6ba5c5005192c6e449a8fba6c65a4f2f83ee315074eb0b.m3u8
+BSTBS,https://stream1.freetv.fun/4e065f57aae41c6d386d3e730d4a671e58c64537716efafbb16068d01ed00b8d.m3u8
+日本テレビ,https://ntv4.mov3.co/hls/ntv.m3u8
+フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
+BSフジ,https://stream1.freetv.fun/eead04e573eaf12204fc98090e3180fd57672c073fded391aab99baddda35521.m3u8
+BSテレ東,https://stream1.freetv.fun/7d5806f873415752fec9e575992d4fd22a5eef25f5b3e7dab1b38828fe6a5682.m3u8
+WOWOWシネマ,https://stream1.freetv.fun/a954aefed6bebcd95fb97cbcde242ba44ef24b94842f962ee4ea233184a8d531.m3u8
+WOWOWプライム,https://stream1.freetv.fun/bfb6ced83656ffccebd0a6e0a44ce67750bc0d46279b280cbd9b1ab899c51917.m3u8
+WOWOWライブ,https://stream1.freetv.fun/980408af41f2119b27ef75012936c7fc37897f0171ba2e4ba2dc26edc222ee84.m3u8
+旅チャンネル,https://stream1.freetv.fun/6de27ffc8d1fb21cbbcfc28c2758d91b69adc720a12d680cde7ae126a430ea4b.m3u8
+旅チャンネル,https://stream1.freetv.fun/lu-chiyanneru-1.m3u8
 
+
+网络直播,#genre#
 赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 点歌台,http://zzy789.xyz/douyu1.php?id=3186217
 MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 搜狐视频,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 好声音剧场,http://cfss.cc/cdn/yy/991.m3u8
 音乐速递「音乐」,https://live.iill.top/huya/19439762
+女团直播1,http://zzy789.xyz/douyu1.php?id=40471
+女团直播2,http://zzy789.xyz/douyu1.php?id=8189873
+女团直播3,http://zzy789.xyz/douyu1.php?id=17732
+女团直播4,http://zzy789.xyz/douyu1.php?id=113158
+女团直播5,http://zzy789.xyz/douyu1.php?id=10308234
+模特直播1,http://zzy789.xyz/douyu1.php?id=9805480
+模特直播2,http://zzy789.xyz/douyu1.php?id=9837104
+模特直播3,http://zzy789.xyz/douyu1.php?id=10118209
+模特直播4,http://zzy789.xyz/douyu1.php?id=9957400
+小姐姐短视频,http://zzy789.xyz/douyu1.php?id=11531165
+小姐姐热舞,http://zzy789.xyz/douyu1.php?id=10308312
+
 
 NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 末日电影合集,http://43.138.0.72:35455/yy/1354889019
@@ -6847,6 +7179,49 @@ MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC
 天道第22集,https://dow.dowlz3.com/20220723/25504_89b2ada6/天道王志文版EP22.mp4
 天道第23集,https://dow.dowlz3.com/20220723/25505_f72740cc/天道王志文版EP23.mp4
 天道第24集,https://dow.dowlz3.com/20220723/25506_9871e576/天道王志文版EP24.mp4
+水浒传 第01集,https://vip1.lz-cdn6.com/20220713/18378_be06c0e2/1000k/hls/mixed.m3u8
+水浒传 第02集,https://vip1.lz-cdn6.com/20220713/18379_0f05359b/1000k/hls/mixed.m3u8
+水浒传 第03集,https://vip1.lz-cdn6.com/20220713/18380_02d55df4/1000k/hls/mixed.m3u8
+水浒传 第04集,https://vip1.lz-cdn6.com/20220713/18381_d7d0c066/1000k/hls/mixed.m3u8
+水浒传 第05集,https://vip1.lz-cdn6.com/20220713/18382_23e2b584/1000k/hls/mixed.m3u8
+水浒传 第06集,https://vip1.lz-cdn6.com/20220713/18383_caf30549/1000k/hls/mixed.m3u8
+水浒传 第07集,https://vip1.lz-cdn6.com/20220713/18384_95b2296a/1000k/hls/mixed.m3u8
+水浒传 第08集,https://vip1.lz-cdn6.com/20220713/18385_6e0b0f87/1000k/hls/mixed.m3u8
+水浒传 第09集,https://vip1.lz-cdn6.com/20220713/18386_c8830b00/1000k/hls/mixed.m3u8
+水浒传 第10集,https://vip1.lz-cdn6.com/20220713/18387_7ad1b52f/1000k/hls/mixed.m3u8
+水浒传 第11集,https://vip1.lz-cdn6.com/20220713/18388_118d0f89/1000k/hls/mixed.m3u8
+水浒传 第12集,https://vip1.lz-cdn6.com/20220713/18389_d697c179/1000k/hls/mixed.m3u8
+水浒传 第13集,https://vip1.lz-cdn6.com/20220713/18390_ae2bd4c1/1000k/hls/mixed.m3u8
+水浒传 第14集,https://vip1.lz-cdn6.com/20220713/18391_bf358d9e/1000k/hls/mixed.m3u8
+水浒传 第15集,https://vip1.lz-cdn6.com/20220713/18392_303f63eb/1000k/hls/mixed.m3u8
+水浒传 第16集,https://vip1.lz-cdn6.com/20220713/18393_f658f127/1000k/hls/mixed.m3u8
+水浒传 第17集,https://vip1.lz-cdn6.com/20220713/18394_b1739622/1000k/hls/mixed.m3u8
+水浒传 第18集,https://vip1.lz-cdn6.com/20220713/18395_8d635382/1000k/hls/mixed.m3u8
+水浒传 第19集,https://vip1.lz-cdn6.com/20220713/18396_fcea8b5c/1000k/hls/mixed.m3u8
+水浒传 第20集,https://vip1.lz-cdn6.com/20220713/18397_9bf2c10f/1000k/hls/mixed.m3u8
+水浒传 第21集,https://vip1.lz-cdn6.com/20220713/18398_19209a76/1000k/hls/mixed.m3u8
+水浒传 第22集,https://vip1.lz-cdn6.com/20220713/18399_b156b511/1000k/hls/mixed.m3u8
+水浒传 第23集,https://vip1.lz-cdn6.com/20220713/18400_a2786af4/1000k/hls/mixed.m3u8
+水浒传 第24集,https://vip1.lz-cdn6.com/20220713/18401_9578416d/1000k/hls/mixed.m3u8
+水浒传 第25集,https://vip1.lz-cdn6.com/20220713/18402_7dbe4824/1000k/hls/mixed.m3u8
+水浒传 第26集,https://vip1.lz-cdn6.com/20220713/18403_bdd4b2d4/1000k/hls/mixed.m3u8
+水浒传 第27集,https://vip1.lz-cdn6.com/20220713/18404_f3b85ab7/1000k/hls/mixed.m3u8
+水浒传 第28集,https://vip1.lz-cdn6.com/20220713/18405_6dbe4441/1000k/hls/mixed.m3u8
+水浒传 第29集,https://vip1.lz-cdn6.com/20220713/18406_ca68b342/1000k/hls/mixed.m3u8
+水浒传 第30集,https://vip1.lz-cdn6.com/20220713/18407_797f17d2/1000k/hls/mixed.m3u8
+水浒传 第31集,https://vip1.lz-cdn6.com/20220713/18408_a26104b4/1000k/hls/mixed.m3u8
+水浒传 第32集,https://vip1.lz-cdn6.com/20220713/18409_e8aea5fe/1000k/hls/mixed.m3u8
+水浒传 第33集,https://vip1.lz-cdn6.com/20220713/18410_68bb5e71/1000k/hls/mixed.m3u8
+水浒传 第34集,https://vip1.lz-cdn6.com/20220713/18411_a6b5a93b/1000k/hls/mixed.m3u8
+水浒传 第35集,https://vip1.lz-cdn6.com/20220713/18412_e5751d6d/1000k/hls/mixed.m3u8
+水浒传 第36集,https://vip1.lz-cdn6.com/20220713/18413_88479f4d/1000k/hls/mixed.m3u8
+水浒传 第37集,https://vip1.lz-cdn6.com/20220713/18413_88479f4d/1000k/hls/mixed.m3u8
+水浒传 第38集,https://vip1.lz-cdn6.com/20220713/18415_48c305d1/1000k/hls/mixed.m3u8
+水浒传 第39集,https://vip1.lz-cdn6.com/20220713/18416_876b2a2b/1000k/hls/mixed.m3u8
+水浒传 第40集,https://vip1.lz-cdn6.com/20220713/18417_e6ba5fec/1000k/hls/mixed.m3u8
+水浒传 第41集,https://vip1.lz-cdn6.com/20220713/18418_68463e1d/1000k/hls/mixed.m3u8
+水浒传 第42集,https://vip1.lz-cdn6.com/20220713/18419_b2d9cc9d/1000k/hls/mixed.m3u8
+水浒传 第43集,https://vip1.lz-cdn6.com/20220713/18420_26f23ac0/1000k/hls/mixed.m3u8
 西游记普清,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
 西游记普清,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
 西游记普清,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835687545858667_hlsb.m3u8
@@ -6872,6 +7247,42 @@ MBC Busan (부산MBC) (360p) [Not 24/7],https://stream.bsmbc.com/livetv/BusanMBC
 西游记普清,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
 西游记普清,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
 西游记普清,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
+红楼梦 第01集,https://v.cdnlz19.com/20240831/42404_29dad446/2000k/hls/mixed.m3u8
+红楼梦 第02集,https://v.cdnlz19.com/20240831/42405_2fd82cec/2000k/hls/mixed.m3u8
+红楼梦 第03集,https://v.cdnlz19.com/20240831/42406_ff76446f/2000k/hls/mixed.m3u8
+红楼梦 第04集,https://v.cdnlz19.com/20240831/42408_747fe203/2000k/hls/mixed.m3u8
+红楼梦 第05集,https://v.cdnlz19.com/20240831/42407_8cd33997/2000k/hls/mixed.m3u8
+红楼梦 第06集,https://v.cdnlz19.com/20240831/42409_096baeef/2000k/hls/mixed.m3u8
+红楼梦 第07集,https://v.cdnlz19.com/20240831/42410_79d59437/2000k/hls/mixed.m3u8
+红楼梦 第08集,https://v.cdnlz19.com/20240831/42411_28770fd1/2000k/hls/mixed.m3u8
+红楼梦 第09集,https://v.cdnlz19.com/20240831/42412_330cb0c7/2000k/hls/mixed.m3u8
+红楼梦 第10集,https://v.cdnlz19.com/20240831/42413_96f44670/2000k/hls/mixed.m3u8
+红楼梦 第11集,https://v.cdnlz19.com/20240831/42414_ed92d19a/2000k/hls/mixed.m3u8
+红楼梦 第12集,https://v.cdnlz19.com/20240831/42415_c5f068ce/2000k/hls/mixed.m3u8
+红楼梦 第13集,https://v.cdnlz19.com/20240831/42416_ecd13816/2000k/hls/mixed.m3u8
+红楼梦 第14集,https://v.cdnlz19.com/20240831/42417_a0303d8a/2000k/hls/mixed.m3u8
+红楼梦 第15集,https://v.cdnlz19.com/20240831/42418_b2471659/2000k/hls/mixed.m3u8
+红楼梦 第16集,https://v.cdnlz19.com/20240831/42419_116bdeaa/2000k/hls/mixed.m3u8
+红楼梦 第17集,https://v.cdnlz19.com/20240831/42420_0c7c0b25/2000k/hls/mixed.m3u8
+红楼梦 第18集,https://v.cdnlz19.com/20240831/42421_8c497304/2000k/hls/mixed.m3u8
+红楼梦 第19集,https://v.cdnlz19.com/20240831/42422_43919f2c/2000k/hls/mixed.m3u8
+红楼梦 第20集,https://v.cdnlz19.com/20240901/42614_9c63459d/2000k/hls/mixed.m3u8
+红楼梦 第21集,https://v.cdnlz19.com/20240901/42615_01968b31/2000k/hls/mixed.m3u8
+红楼梦 第22集,https://v.cdnlz19.com/20240831/42423_80bf42b1/2000k/hls/mixed.m3u8
+红楼梦 第23集,https://v.cdnlz19.com/20240831/42424_b6c974d6/2000k/hls/mixed.m3u8
+红楼梦 第24集,https://v.cdnlz19.com/20240831/42425_572400b7/2000k/hls/mixed.m3u8
+红楼梦 第25集,https://v.cdnlz19.com/20240831/42426_922b1307/2000k/hls/mixed.m3u8
+红楼梦 第26集,https://v.cdnlz19.com/20240831/42427_23daf040/2000k/hls/mixed.m3u8
+红楼梦 第27集,https://v.cdnlz19.com/20240831/42428_fa1d468e/2000k/hls/mixed.m3u8
+红楼梦 第28集,https://v.cdnlz19.com/20240831/42429_558b52e8/2000k/hls/mixed.m3u8
+红楼梦 第29集,https://v.cdnlz19.com/20240831/42430_5589a6fc/2000k/hls/mixed.m3u8
+红楼梦 第30集,https://v.cdnlz19.com/20240831/42431_e3844368/2000k/hls/mixed.m3u8
+红楼梦 第31集,https://v.cdnlz19.com/20240831/42432_e0003917/2000k/hls/mixed.m3u8
+红楼梦 第32集,https://v.cdnlz19.com/20240831/42433_ed922c7e/2000k/hls/mixed.m3u8
+红楼梦 第33集,https://v.cdnlz19.com/20240831/42434_ce2e7ee2/2000k/hls/mixed.m3u8
+红楼梦 第34集,https://v.cdnlz19.com/20240831/42435_2f21c57d/2000k/hls/mixed.m3u8
+红楼梦 第35集,https://v.cdnlz19.com/20240831/42436_4ddfe9bc/2000k/hls/mixed.m3u8
+红楼梦 第36集,https://v.cdnlz19.com/20240831/42438_07404a40/2000k/hls/mixed.m3u8
 猫和老鼠第一季第1集,https://play.hhuus.com/play/YernLzwe/index.m3u8
 第一季第2集,https://play.hhuus.com/play/qaQBPPqb/index.m3u8
 第一季第3集,https://play.hhuus.com/play/5eVKXL5a/index.m3u8
