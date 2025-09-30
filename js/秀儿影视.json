@@ -1,0 +1,21 @@
+ {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "module-item-pic\"&&module-item\"",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<div class=\"module-item-text\">&&</div>", 
+	        "图片":"data-src=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "data-dropdown&&</div>",
+                "线路标题": ">&&</span",
+	        "播放数组": "module-blocklist&&</div>",
+	        "播放列表": "<a&&/a>",
+                "播放标题": ">&&</span>",
+	        "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.xiuer.pro/vod/search/page/{pg}/wd/{wd}/",
+                "分类url": "https://www.xiuer.pro/show/{cateId}/page/{catePg}/year/{year}/",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
+                "简介": "🍊小橙子为您介绍剧情👉+剧情介绍：&&</p" 
+        
+}
