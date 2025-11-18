@@ -157,7 +157,7 @@
 {"key":"片吧影视","name":"片吧影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.pbpbs.com/"}},
 {"key":"DYDY","name":"DYDY","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://dy-dy.com/"}},
 {"key":"C影院","name":"C影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.c-tv6.cc/"}},
-
+{"key":"影视街","name":"影视街","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://mov.idoog.me/"}},
 
 
 {"key":"快龙影视","name":"快龙影视","type":0,"api":"https://lz.118318.xyz/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
