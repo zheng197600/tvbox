@@ -31,6 +31,9 @@
 
 
 
+
+
+
 {"key":"清单播放","name":"清单播放","type":4,"api":"https://zhangqun66.com/zh/2243.php","searchable":1,"quickSearch":1},
 {"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},		
 {"key":"醉挽清风","name":"醉挽清风(T4)","type":4,"api":"http://我不是.摸鱼儿.com/api/yuyutx.php","searchable":1,"quickSearch":1},
@@ -46,7 +49,6 @@
 {"key":"爆炸","name":"爆炸影视","type":3,"api":"csp_Muou","jar":"https://alicliimg.clewm.net/342/790/68790342/17550582039404a8a3965607b246b57796ed778b096961755058201.jpg;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10","playerType":2,"ext":"7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"},
 
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"},
-{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"},
 {"key":"比特","name":"比特秒播","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"},
 {"key":"原创","name":"原创不卡","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"},
 
@@ -65,14 +67,12 @@
 {"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 {"key":"Lib","name":"Lib","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 
-
 {"key": "爱奇艺","name": "爱奇艺","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/aqy.js"},
 {"key": "优酷","name": "优酷","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/yk.js"},
 {"key": "腾讯","name": "腾讯","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/tx.js"},
 {"key": "搜狗","name": "搜狗","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/sg.js"},
 {"key": "bili","name": "bili","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/bili.js"},
 {"key": "MGTV","name": "MGTV","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/mgtv.js"},
-
 
 {"key":"土豆视频","name":"土豆视频","type":4,"api":"https://learnpython.ggff.net/py_tudou","searchable":1,"quickSearch":1},
 {"key":"UVod","name":"UVod","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=UVod","searchable":1,"quickSearch":1},
@@ -82,8 +82,6 @@
 {"key":"欣欣影视","name":"欣欣影视","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=欣欣影视","searchable":1,"quickSearch":1},
 {"key":"泥视频","name":"泥视频","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=泥视频","searchable":1,"quickSearch":1},
 {"key":"饭团影视","name":"饭团影视","type":4,"api":"http://zhangqun1818.serv00.net:5052/?sp=饭团影视","searchable":1,"quickSearch":1},
-{"key":"py集合","name":"py集合","type":4,"api":"http://zhangqun1818.serv00.net/py.php","searchable":1,"quickSearch":1},
-{"key":"php在线","name":"php在线","type":4,"api":"http://zhangqun1818.serv00.net/php.php","searchable":1,"quickSearch":1},
 {"key":"yunyun","name":"yunyun","type":4,"api":"https://learnpython.ggff.net/yunyun","searchable":1,"quickSearch":1},
 {"key":"磁力聚合","name":"磁力聚合","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"./js/lf_p2p2_min.js","timeout":60},
 {"key":"动漫巴士","name":"动漫巴士(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=Dm84"},
