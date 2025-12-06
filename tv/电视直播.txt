@@ -175,8 +175,6 @@ CCTV17,http://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil/index.m3
 移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
 大象视界,http://1.94.31.214/php/hntv.php?id=xsj
 欢腾购物,http://1.94.31.214/php/hntv.php?id=htgw
-
-
 长清新闻,http://1.94.31.214/php/qilu.php?id=jncqxw
 济铁电视台,http://1.94.31.214/php/qilu.php?id=jnjrtv
 平阴综合,http://1.94.31.214/php/qilu.php?id=jnpyzh
@@ -302,192 +300,361 @@ CCTV17,http://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil/index.m3
 威海海洋,http://1.94.31.214/php/qilu.php?id=whhy
 威海环翠综合,http://1.94.31.214/php/qilu.php?id=whhczh
 
-丹阳新闻,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
-大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
-大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+平泉影视频道,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+昌黎电视剧_183,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+清苑新闻频道,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
+清苑生活频道,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+双滦新闻频道,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+涉县新闻综合,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
 承德旅游,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
-保定新闻综合,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 邢台新闻,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-兴隆县,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 丰宁综合,https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-双滦区,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 滦平县,https://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 涞源县,https://jwcdnqx.hebyun.com.cn/live/jiyunlaiyuan/1500k/tzwj_video.m3u8
 涞水县,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
 徐水区,https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
-清苑综合,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
-清苑生活,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
-清河新闻,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-南宫市,https://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
-任丘县,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 鹿泉生活,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-涉县,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 青县,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 肃宁,http://jwplay.hebyun.com.cn/live/sndst01/1500k/tzwj_video.m3u8
-昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+南宫电视一套,https://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
+河北邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 
-
-潢川,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-郏县,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
-兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-新野,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
-封丘新闻,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-舞钢新闻,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-巩义新闻,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
-镇平新闻,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-渑池新闻,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-沁阳新闻,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-泌阳新闻,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
-新乡县,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-义马新闻,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-灵宝新闻,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-杞县新闻,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
-新安新闻,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-原阳新闻,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
-宝丰,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-灵宝新闻,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
-鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
-嵩县新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
-新安新闻,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
-新乡县,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
-淇县,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-上街,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-太康,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
-固始,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-孟州,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-林州,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-鲁山,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
-登封,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-建安,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-孟津新闻,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
-上蔡,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-淅川,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-襄城,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
-项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-新郑,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-鄢陵,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-扶沟,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-临颍,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-西平,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
-光山,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-淮滨,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-新蔡,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-新县,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-禹州,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-安阳新闻,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
-宝丰,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-获嘉,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
-郏县,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
-罗山,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-平舆,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-确山,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
-汤阴,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-通许,http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-卫辉,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
-尉氏,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
-温县,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-西华,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
-延津,http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
+焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
+焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
+平顶山新闻,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-长垣,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-扶沟,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+登封综合频道,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+新密新闻频道,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+新郑综合频道,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+鲁山综合频道,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
+舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+孟津新闻频道,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
+新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
+宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+宜阳综合频道,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+西峡综合,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+镇平新闻综合,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+扶沟综合频道,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+沈丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+沈丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+兰考新闻频道,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+杞县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+通许综合频道,http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
+尉氏综合频道,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
+临颍综合频道,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+确山综合,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+上蔡综合,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+长垣综合频道,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+封丘新闻综合,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+获嘉综合频道,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+延津综合频道,http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
+原阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
+内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+光山综合频道,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+固始综合频道,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+淮滨综合频道,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+潢川综合频道,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+罗山综合频道,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+新县综合频道,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+建安综合频道,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
+襄城综合频道,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+鄢陵综合频道,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+获嘉综合,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+卫辉综合,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
+尉氏综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+西平综合,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
+叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+泌阳综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+新郑,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+通许,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+汝阳,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+伊川,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+宝丰,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+鲁山,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+郏县,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+舞钢,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+滑县,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+淇县,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
+宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
+灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
+鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
+嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
+新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
+新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
+项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+安阳新闻,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
+平舆综合,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
-温县,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-新野,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-荥阳,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-禹州,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-宜阳,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-嵩县新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
-内黄,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-荥阳,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
+禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
+嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-济源一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
+方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
-方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
+济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-济源一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-淮滨 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-巩义 1080,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-新密 1080,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
-新郑 1080,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-杞县 1080,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-通许 1080,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-尉氏 1080,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-兰考 1080,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-新安 1080,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-栾川 1080,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
-汝阳 1080,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-宜阳 1080,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
-伊川 1080,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
-宝丰 1080,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-叶县 1080,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-鲁山 1080,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-郏县 1080,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-舞钢 1080,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-安阳 1080,http://live.dxhmt.cn:9081/tv/10522-1.m3u8
-汤阴 1080,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-滑县 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-内黄 1080,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-林州 1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-浚县 1080,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-淇县 1080,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-新乡 1080,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-获嘉 1080,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-原阳 1080,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-封丘 1080,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-长垣 1080,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-卫辉 1080,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-武陟 1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-温县 1080,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-孟州 1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-建安 1080,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-鄢陵 1080,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-襄城 1080,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-禹州 1080,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-渑池 1080,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-义马 1080,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-灵宝 1080,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-方城 1080,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-镇平 1080,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
-淅川 1080,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-唐河 1080,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-新野 1080,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
-邓州 1080,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-永城 1080,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-罗山 1080,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-光山 1080,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-新县 1080,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-潢川 1080,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-西华 1080,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-沈丘 1080,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-郸城 1080,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-鹿邑 1080,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-项城 1080,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-西平 1080,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-上蔡 1080,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
-平舆 1080,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-正阳 1080,http://live.dxhmt.cn:9081/tv/11724-1.m3u8
-确山 1080,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-泌阳 1080,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-遂平 1080,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
-新蔡 1080,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-济源 1080,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+河南新闻,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+河南开封新闻,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+苍南综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
+龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+龙游综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+宁波综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+平湖综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
+衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+上虞文化,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
+遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+余杭新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
+义乌综合,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
+义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=4830674369-0-0-792c50b6dbb1f212177ee413838c9d34&extra_key=MhCFdbXNI70ZdkebtW5Way43jpzFEOtNAkun-0XCgWwdfGQyDYjGaLOvaQkG4p4ahsRmKWH3euwpK_-6AzTj-NsrVKt9WX6WKnoTmOLcKhXuM68iO_FXB63j8Avfm_P7SLv_nrzGAup7gYxtTu4IpKilWBeWfflJTVwXfos8VFTWL_xtZEURqWRFF3AtLaqe&ali_ffmpeg_version=mpengine
+义乌公共,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_3090.m3u8?auth_key=4830667771-0-0-4d788b80bdc1fa13522a2d10511a62d4&extra_key=2fk3HCWcAsUB_ZsuI_rrUP3hdTqEFaFPai_ZFKXo5njEPrgmFlIRA9tmB7xb-zLryaZ4y-4A5GYToA82EpN6NdveoFiv45QQP6qp6ZHI1kOJff_5KHtRvRocR3iFRzq6k1eIMRcEcYBzpX3_T595uQ9-UVygOh1Sd_dXnlNCAKoSeP5mtY226hlsTAI9rbgN
+
+
+丹阳新闻,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
+大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+黑水新闻,http://live.schstv.com:90/live/xwzh.m3u8
+金川新闻,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+乐至,http://175.155.106.72:89/live1/live1.m3u8
+利州,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+松潘新闻,http://live.spccmc.com:90/live/spxwzh.m3u8
+汶川新闻,http://live.iwcmt.cn:90/live/zhxw.m3u8
+营山,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+璧山,http://222.179.42.129:8181/hls1.m3u8
+甘孜,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+叙州新闻,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
+泸县新闻,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+泸州新闻,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+叙州,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
+什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
+新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+阜阳都市,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
+阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
+固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+桂林综合HD,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+桂林科教HD,https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
+桂林公共HD,https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
+吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+荆门文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+武乡综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+晋城生活,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+壶关电视,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+武乡综合,http://60.220.198.84:81/0.m3u8
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+文山综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
+乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
+无锡综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=df50c8ad1706195780
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=081040171706199780
+无锡都市,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=95a5f0d51706199864
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=31414f601706199828
+镇江1套,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江2套,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+姜堰综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+东台综合频道,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
+金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+吴江新闻综合,https://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8?auth_key=4849225473-0-0-ccc3233d52ea78642c7045805f46ea58&extra_key=kuPfWJHmelFzV3-zoreYDOH4OVvUscNtgFUPukN0LjrE7j9GbJe-1SiVIo_invs13HOTHPShIbZWuurqH8qWSk1Ouqm4Z10UlHpsUzS1j4nZoIRkEzTmKDOrVq3vGwbvmvC6qDLIKmmLHfFxL7WJeMpZZlN8MDPUoCW9CYoMIW0
+江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
+涟水综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+垫江综合,http://125.62.24.185:80/1.m3u8
+甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+汶川综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?zsicd
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
+利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+泸州综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
+南部综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
+什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
+长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
+七台河综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+康定新闻综合,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
+德格综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel5/playlist.m3u8
+甘孜新闻综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+泸州公共频道,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+长宁综合频道,http://cnpull.sccnfb.com/live/123456.m3u8
+德格综合频道,http://m3u8.channel.ganzitv.com/nmip-media/channellive/channel101955/playlist.m3u8
+淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+大丰公共频道,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
+如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
+宜兴新闻频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
+新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8
+睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
+靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+涟水综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+淮安影视娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+萧县新闻综合,http://60.171.239.216:9080/hls/stream1.m3u8
+毕节-七星关电视台,https://live.us.sinaimg.cn/001LSU8Gjx07KMe2Cb6L070d010007wB0k01.m3u8
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+富裕综合,http://221.209.44.174:1980/hls/1001.m3u8
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
+合川综合频道,http://125.62.24.72:8030/ch0.m3u8
+大通综合,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
+吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
+通化新闻,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+白山公共频道,http://stream8.jlntv.cn/baishan2/playlist.m3u8
+克拉玛依影视剧场,https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
+克拉玛依汉语综合,https://klmyzb.rcsxzx.com/hls/klmy1.m3u8
+克拉玛依维语综合,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
+双河影视,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+可克达拉综合,http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
+玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
+元宝山综合,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
+兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
 
 CCTV1,rtsp://115.153.245.70/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.245.70/PLTV/88888888/224/3221226825/59814584.smil
@@ -3516,6 +3683,9 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 天映经典,http://gd.wsd.gd.cn:1698/hls/129/index.m3u8
 
 Now新闻,http://cdn.163189.xyz/163189/now
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影台,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -3596,6 +3766,19 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 无线翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+华视,rtmp://f13h.mine.nu/sat/tv111
+中视,rtmp://f13h.mine.nu/sat/tv091
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+MoMo,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
 
 体育频道,#genre#
 屿风体育,http://lxajh.top/tv/douyu.php?id=10329889
@@ -6121,3 +6304,197 @@ DJ《拥抱你离去》,https://vd4.bdstatic.com/mda-ncrcfxdipc045rvs/cae_h264_d
 日本管舞,https://vd3.bdstatic.com/mda-khwr8ukrd1mw5bup/hd/mda-khwr8ukrd1mw5bup.mp4?playlist=%5B%22hd%22%5D&auth_key=1610714592-0-0-09cd96261d1adf9e199a401be06da1d7&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
 歌曲《2035去台湾》,https://vd4.bdstatic.com/mda-mkgb7iib7w560j24/720p/h264/1637135844480192290/mda-mkgb7iib7w560j24.mp4
 厦门是咱的所圄,https://alimov2.a.kwimgs.com/upic/2021/09/20/08/BMjAyMTA5MjAwODE0NTBfMTQzMzExODU4XzU3NDc5NTQ2MjMwXzJfMw==_b_B3196a1e0118f96ed9f483431011857f5.mp4
+
+韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国歌团004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国歌团005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国歌团006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国歌团007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国歌团008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国歌团009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国歌团010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国歌团011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韩国歌团012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国歌团013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国歌团014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国歌团015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国歌团016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国歌团017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国歌团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国歌团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国歌团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+歌团★024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+歌团★025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+歌团★026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+歌团★027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+歌团★028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+歌团★029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+歌团★030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+歌团★031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+歌团★032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+歌团★033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+歌团★034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+歌团★035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+歌团★036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+歌团★037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+歌团★038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+歌团★039,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+歌团★040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+歌团★041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+歌团★042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+歌团★043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+歌团★044,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+歌团★045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+歌团★046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+歌团★047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+歌团★048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+歌团★049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+歌团★050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+歌团★051,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+歌团★052,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+歌团★053,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+歌团★054,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+歌团★055,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+歌团★056,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+歌团★057,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+歌团★058,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+歌团★059,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+歌团★060,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+歌团★061,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+歌团★062,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+歌团★063,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+歌团★064,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+歌团★065,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+歌团★066,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+歌团★067,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+歌团★068,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+歌团★069,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+歌团★070,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+歌团★071,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+歌团★072,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+歌团★074,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+歌团★075,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+歌团★076,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+歌团★077,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+歌团★078,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+歌团★079,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+歌团★080,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+歌团★081,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+歌团★082,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+歌团★083,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+歌团★084,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+歌团★085,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+歌团★086,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+歌团★087,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+歌团★088,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+歌团★089,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+歌团★090,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+歌团★091,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
+歌团★092,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+歌团★093,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+歌团★094,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+歌团★095,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+歌团★096,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+歌团★097,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+歌团★098,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+歌团★099,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+歌团★100,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+歌团★101,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+歌团★102,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+歌团★103,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+歌团★104,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+歌团★105,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+歌团★106,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+歌团★107,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+歌团★108,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+歌团★109,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+歌团★110,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+歌团★111,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+歌团★112,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+歌团★113,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+歌团★114,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+歌团★115,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+歌团★116,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+歌团★117,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+歌团★118,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+歌团★119,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+歌团★120,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+歌团★121,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+歌团★122,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+歌团★123,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+歌团★125,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+歌团★126,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+歌团★127,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+歌团★128,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+歌团★129,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+歌团★130,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+歌团★131,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+歌团★132,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+歌团★133,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+歌团★134,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+歌团★135,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+歌团★136,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+歌团★137,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+歌团★138,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+歌团★139,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+歌团★140,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+歌团★141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+歌团★142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+歌团★143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+歌团★145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+歌团★146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+歌团★147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+歌团★148,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+歌团★149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+歌团★150,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+歌团★151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+韩国太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
+韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+韩国太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+韩国太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+韩国太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+韩国太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韩国太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韩国太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+韩国太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韩国太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韩国太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韩国太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+韩国太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+韩国太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韩国太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+韩国太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韩国太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+韩国太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韩国太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+韩国太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+韩国太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+韩国太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+韩国太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+韩国太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+韩国太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+韩国太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+韩国太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+韩国太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+韩国太妍34,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+韩国太妍35,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+韩国太妍36,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+韩国太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+韩国太妍39,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
+韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+韩国太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
+韩国太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
