@@ -26,16 +26,7 @@
 龙南电视台,https://play-hsbj.vzan.com/1670294060/707321619705783642/live.m3u8
 南康综合频道,https://play-a2.quklive.com/live/1758525653004384.m3u8
 瑞金综合频道,https://play-a2.quklive.com/live/1760408109205119.m3u8
-上犹综合频道,https://play-a2.quklive.com/live/1761893154602099.m3u8
 广丰综合,https://play-a2.quklive.com/live/1754033359790055.m3u8
-玉山新闻综合,https://play-a2.quklive.com/live/1744269699236128.m3u8
-崇仁综合频道,https://play-a2.quklive.com/live/1744277411242065.m3u8
-铜鼓综合频道,https://play-a2.quklive.com/live/1742531118997158.m3u8
-井冈山综合,https://play-a2.quklive.com/live/1743498103845328.m3u8
-彭泽综合频道,http://play-a2.quklive.com/live/1740970999257207.m3u8
-宜春综合高清,https://liveds-yc.newsyc.com/wetef/sd/live.m3u8
-宜春法治民生高清,https://liveds-yc.newsyc.com/two/sd/live.m3u8
-万载综合,https://play-a2.quklive.com/live/1739162440932308.m3u8
 湖南卫视,http://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil/index.m3u8?fmt=ts2hls
 浙江卫视,http://115.153.254.81/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil/index.m3u8?fmt=ts2hls
 江苏卫视,http://115.153.254.81/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil/index.m3u8?fmt=ts2hls
@@ -521,7 +512,13 @@ CCTV17,http://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil/index.m3
 义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=4830674369-0-0-792c50b6dbb1f212177ee413838c9d34&extra_key=MhCFdbXNI70ZdkebtW5Way43jpzFEOtNAkun-0XCgWwdfGQyDYjGaLOvaQkG4p4ahsRmKWH3euwpK_-6AzTj-NsrVKt9WX6WKnoTmOLcKhXuM68iO_FXB63j8Avfm_P7SLv_nrzGAup7gYxtTu4IpKilWBeWfflJTVwXfos8VFTWL_xtZEURqWRFF3AtLaqe&ali_ffmpeg_version=mpengine
 义乌公共,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_3090.m3u8?auth_key=4830667771-0-0-4d788b80bdc1fa13522a2d10511a62d4&extra_key=2fk3HCWcAsUB_ZsuI_rrUP3hdTqEFaFPai_ZFKXo5njEPrgmFlIRA9tmB7xb-zLryaZ4y-4A5GYToA82EpN6NdveoFiv45QQP6qp6ZHI1kOJff_5KHtRvRocR3iFRzq6k1eIMRcEcYBzpX3_T595uQ9-UVygOh1Sd_dXnlNCAKoSeP5mtY226hlsTAI9rbgN
 
-
+太谷新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
+项城新闻综合,http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
+十堰经济旅游,http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+嘉善新闻综合,http://p2hs.vzan.com/slowlive/633251673265558519/live.m3u8
+金堂电视台,http://p8.vzan.com/slowlive/188010566442385577/live.m3u8
+犍为综合,http://p8.vzan.com/slowlive/230559508552681163/live.m3u8
 丹阳新闻,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
@@ -3843,12 +3840,11 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 台视新聞,http://222.128.55.152:9080/live/ts.m3u8
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 
-
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8$IPV4
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰电影台,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -4494,8 +4490,8 @@ ABN圣经,https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 波斯音乐,https://musichls.persiana.live/hls/stream.m3u8
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-电影Детское Кино,https://v2.catcast.tv/content/38720/index.m3u8
 卡塔尔 1,https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 4K Travel TV,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 Ace TV,https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
@@ -4595,6 +4591,22 @@ Roya Kids Originals,https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roy
 Documentaries,https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 RedBull TV,https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8
 
+DLTV1,https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w1459397362_b3128000_slth.m3u8
+DLTV2,https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w136041087_b3128000_slth.m3u8
+DLTV3,https://cdn-live.dltv.ac.th/smil:origin01-dltv-03-adaptive.smil/chunklist_w1847237179_b3128000_slth.m3u8
+DLTV4,https://cdn-live.dltv.ac.th/smil:origin01-dltv-04-adaptive.smil/chunklist_w2026800457_b3128000_slth.m3u8
+DLTV5,https://cdn-live.dltv.ac.th/smil:origin01-dltv-05-adaptive.smil/chunklist_w1334303752_b3128000_slth.m3u8
+DLTV6,https://cdn-live.dltv.ac.th/smil:origin02-dltv-06-adaptive.smil/chunklist_w808025954_b3128000_slth.m3u8
+DLTV7,https://cdn-live.dltv.ac.th/smil:origin02-dltv-07-adaptive.smil/chunklist_w1392811753_b3128000_slth.m3u8
+DLTV8,https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w847104684_b3128000_slth.m3u8
+DLTV9,https://cdn-live.dltv.ac.th/smil:origin02-dltv-09-adaptive.smil/chunklist_w567713750_b3128000_slth.m3u8
+DLTV10,https://cdn-live.dltv.ac.th/smil:origin02-dltv-10-adaptive.smil/chunklist_w1510296408_b3128000_slth.m3u8
+DLTV11,https://cdn-live.dltv.ac.th/smil:origin03-dltv-11-adaptive.smil/chunklist_w1862816456_b3128000_slth.m3u8
+DLTV12,https://cdn-live.dltv.ac.th/smil:origin03-dltv-12-adaptive.smil/chunklist_w1030505711_b3128000_slth.m3u8
+DLTV13,https://cdn-live.dltv.ac.th/smil:origin03-dltv-13-adaptive.smil/chunklist_w1381848658_b3128000_slth.m3u8
+DLTV14,https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w1010386806_b3128000_slth.m3u8
+DLTV15,https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w1786842664_b3128000_slth.m3u8
+
 F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 Run Time Latino,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 Run Time Films,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -4619,6 +4631,19 @@ Azteca Uno (-1h),https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 Imagen TV+ (-1h),https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 Milenio Televisión,https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 Telediario Now,https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+
+이벤트,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B3A7AB53.m3u8
+KNN,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_7_10BA9897.m3u8
+대구MBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_2758F434.m3u8
+MBC강원영동,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_5A304631.m3u8
+NEW KMOVIES,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_266_F00DF600.m3u8
+OBS,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_55.m3u8
+BTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
+딜라이브TV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_510_AAC44F43.m3u8
+시민방송,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_513_75523FC8.m3u8
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+Canal Motor,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_263_05C641C6.m3u8
+FailArmy,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Foreigntv_303_A145B1F1.m3u8
 
 电视剧,#genre#
 围城1,https://sd8.taopianplay1.com:43333/c56b1bc09da3/HD/2024-03-20/15/82499a04c1cf/94fb2aba1429/playlist.m3u8
