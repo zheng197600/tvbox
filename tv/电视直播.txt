@@ -3820,11 +3820,6 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 
 
-翡翠,http://222.128.55.152:9080/live/gdfc.m3u8
-中天新聞,http://222.128.55.152:9080/live/fc.m3u8
-台视新聞,http://222.128.55.152:9080/live/ts.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8$IPV4
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
