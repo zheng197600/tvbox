@@ -877,10 +877,6 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁大通综合,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 
-宁夏
-石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8
-石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
-
 天津
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 滨海生活,http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
@@ -929,16 +925,6 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 吉林市新闻,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 
 江西
-抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
-抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
-江西新闻频道,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227051/10000100000000060000000000571126_0.smil
-江西都市高清,http://113.195.172.192:808/hls/2/index.m3u8
-江西都市高清,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227290/10000100000000060000000001722654_0.smil
-江西影视旅游高清,http://113.195.172.192:808/hls/4/index.m3u8
-江西公共农业高清,http://113.195.172.192:808/hls/5/index.m3u8
-江西新闻高清,http://113.195.172.192:808/hls/96/index.m3u8
-江西教育高清,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227283/10000100000000060000000001741171_0.smil
-赣州新闻综合,http://115.150.63.77:9902/tsfile/live/0001_50.m3u8?key=txiptv
 赣州新闻综合,http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 赣州公共频道,http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
 赣州教育频道,http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
@@ -971,7 +957,6 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 晋城新闻综合,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
 晋中平遥综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
 晋中太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
-忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 武乡电视台,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 灵丘县,https://player4.juyun.tv/tv/150434132.m3u8
