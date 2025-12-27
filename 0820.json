@@ -72,12 +72,11 @@
 {"key":"drpy_js_ikanbot","name":"爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_网易公版影像","name":"网易公版影像[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网易公版影像.js"},
 
-{"key":"巧技二","name":"巧技仅搜索","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"剧评","name":"剧评","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"客星","name":"客星","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"Lib","name":"Lib","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036","key":"巧技二","name":"巧技┃仅搜索","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"},
+{"jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036","key":"巧技五","name":"巧技五┃仅搜索","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"},
+{"jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036","key":"AI3","name":"AI3┃仅搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"},
+{"jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036","key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{"jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036","key":"剧评","name":"剧评","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
 
 
 {"key": "爱奇艺","name": "爱奇艺","type": 3,"playerType": "2","api": "https://tvbox.catvod.com/js/drpy2.min.js","ext": "https://tvbox.catvod.com/js/aqy.js"},
@@ -129,6 +128,8 @@
 {"jar": "./jar/XBPQ.jpg","key":"秀儿影视","name":"秀儿影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.xiuer.pro/;;!H","搜索url":"https://www.xiuer.pro/vod/search/?wd={wd}"}},
 {"jar": "./jar/XBPQ.jpg","key":"小红影视","name":"小红影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.xiaohys.com/;;!H"}},
 {"jar": "./jar/XBPQ.jpg","key":"奈菲影视","name":"奈菲影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.nfyingshi.com/;;!H"}},
+{"jar": "./jar/XBPQ.jpg","key":"低端影视","name":"低端影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.ddys.run/;;!H"}},
+{"jar": "./jar/XBPQ.jpg","key":"爱追剧","name":"爱追剧","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.aizju.com/;;!H"}},
 {"jar": "./jar/XBPQ.jpg","key":"仙女影视","name":"仙女影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://xnys.cc/;;!H"}},
 {"jar": "./jar/XBPQ.jpg","key":"优视频","name":"优视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://youvod.tv/;;!H"}},
 {"jar": "./jar/XBPQ.jpg","key":"晴天","name":"晴天","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.qinttv.com/;;!H"}},
@@ -152,6 +153,7 @@
 {"key":"片吧影视","name":"片吧影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.pbpbs.com/"}},
 {"key":"DYDY","name":"DYDY","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://dy-dy.com/"}},
 {"key":"C影院","name":"C影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.c-tv6.cc/"}},
+{"key":"飞牛影视","name":"飞牛影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.ntmsxy.com/"}},
 
 
 {"key":"快龙影视","name":"快龙影视","type":0,"api":"https://lz.118318.xyz/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
