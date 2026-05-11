@@ -8,7 +8,7 @@
 {"key":"T4_豆瓣","name":"豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php","searchable":0,"quickSearch":0},
 {"key":"豆瓣推荐","name":"豆瓣推荐(LFJS)","type":3,"api":"./js/lf_search3_min.js","searchable":0,"quickSearch":0},
 {"key":"豆瓣","name":"CNS豆瓣","type":3,"api":"csp_Douban","ext":"./js/douban.json","jar":"./jar/豆瓣.jar","searchable":0,"quickSearch":0},
-{"key":"csp_Kanqiu","name":"看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"},"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+{"key":"csp_Kanqiu","name":"看球","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"},"jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 {"key": "闪闪音乐网","name": "闪闪音乐","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"ext": "https://xn--fjq53n.xyz/Ting/yinyue/闪闪音乐网.json"},
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js","searchable":0,"quickSearch":0},
 {"key":"相声随声听","name":"相声随声听[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/相声随身听.js","searchable":0,"quickSearch":0},
@@ -18,7 +18,7 @@
 
  
 
-{"key":"csp_Jianpian","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/jianpian.json","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+{"key":"csp_Jianpian","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/jianpian.json","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 {"key":"1905","name":"1905影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://alicliimg.clewm.net/342/790/68790342/1755399436259e4e0f5b7e742b4961f4a35460f10a5341755399434.jpg;md5;6276abe2ed52f1d2c89907eb2ace564b"},
 {"key":"瓜子影视","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://alicliimg.clewm.net/342/790/68790342/1755399436259e4e0f5b7e742b4961f4a35460f10a5341755399434.jpg;md5;6276abe2ed52f1d2c89907eb2ace564b"},
 {"key":"New6v","name":"6V磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"https://alicliimg.clewm.net/342/790/68790342/1755399436259e4e0f5b7e742b4961f4a35460f10a5341755399434.jpg;md5;6276abe2ed52f1d2c89907eb2ace564b"},
@@ -77,7 +77,6 @@
 
 
 {"key":"NO视频","name":"NO视频","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dgjiawu.com/mo-1zxgt/{cateId}/1/0/0/0/0/{catePg}","分类":"电影$5738#电视剧$5749#动漫$5767#综艺$5758","数组":"stui-vodlist__box&&/div>","播放数组":"v1-div&&</div","搜索url":"https://www.dgjiawu.com/se-1zxgt/{wd}-1"}},
-{"key":"多瑙影视","name":"多瑙影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.duonaovod.org/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"低端影视","name":"低端影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.ddys.run/;;!H"}},
 {"key":"面包网","name":"面包网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.mbao.cc/;;!H"}},
 {"key":"热播之家","name":"热播之家","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.rebozj.pro/;;!H"}},
