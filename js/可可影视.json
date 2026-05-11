@@ -1,6 +1,6 @@
 {
-    "t值-c": "https://www.kkys02.com/渲染目标:/name=\"t\".*?value=\"(.*?)\"/请求头(Cookie-c)[工具:渲染#url]",
-    "域名-c": "https://www.kkys02.com",
+    "t值-c": "https://www.kkys20.com/渲染目标:/name=\"t\".*?value=\"(.*?)\"/请求头(Cookie-c)[工具:渲染#url]",
+    "域名-c": "https://www.kkys20.com",
     "图片前缀-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]",
     "主页url": "{{域名-c}}/",
     "分类url": "{{域名-c}}/show/{cateId}-----{by}-{catePg}.html;;ad0m0s0xn",
