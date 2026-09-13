@@ -12,7 +12,6 @@
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js","searchable":0,"quickSearch":0},
 {"key":"相声随声听","name":"相声随声听[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/相声随身听.js","searchable":0,"quickSearch":0},
 {"key":"蜻蜓FM","name":"蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2","searchable":0,"quickSearch":0},
-{"key":"酷克PHP","name":"酷克PHP","type":4,"api":"http://jiduo.3116598.xyz/PHP/pkty.php","changeable":0},
 {"jar": "./jar/spider.jar","key": "88看球","name": "88 • 看球","type": 3,"api": "csp_Sports88","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
 {"jar": "./jar/spider.jar","key": "球通体育","name": "球通 • 体育","type": 3,"api": "csp_SportsQiutong","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
 {"jar": "./jar/spider.jar","key": "瓜子体育","name": "瓜子 • 体育","type": 3,"api": "csp_SportsGuazi","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
