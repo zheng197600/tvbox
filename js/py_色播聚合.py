@@ -1,6 +1,7 @@
 #coding=utf-8
 #!/usr/bin/python
 import sys
+import re
 sys.path.append('..')
 from base.spider import Spider
 
@@ -37,6 +38,8 @@ class Spider(Spider):
 
 	def detailContent(self,array):
 		id = array[0]
+		if not re.fullmatch(r'[\w\-/.]+', id):
+			return {"list": []}
 		data = self.fetch(f'{self.base_url}/{id}').json()
 		zhubo = data['zhubo']
 		playUrls = '#'.join([f"{vod['title']}${vod['address']}" for vod in zhubo])
