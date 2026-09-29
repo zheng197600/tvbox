@@ -20,7 +20,6 @@
 
 
 
-
 {"jar": "./jar/spider.jar","key": "瓜子影视","name": "瓜子 • 影视","type": 3,"api": "csp_Gz360"},
 {"jar": "./jar/spider.jar","key": "荐片","name": "荐片 • 磁力","api": "csp_JianPian","type": 3},
 {"jar": "./jar/spider.jar","key": "金牌影视","name": "金牌 • 影视","type": 3,"api": "csp_Jpys","ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
@@ -87,21 +86,13 @@
 {"key":"蛋蛋赞","name":"蛋蛋赞","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dandanzan.club/"}},
 {"key":"映像星球","name":"映像星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://yxxq10.cc/"}},
 {"key":"看看屋","name":"看看屋","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.siren93.com/","搜索url":"https://www.siren93.com/search?wd={wd}"}},
-{"key":"茶杯狐","name":"茶杯狐","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.cupfox7.com/"}},
 {"key":"电影驿站","name":"电影驿站","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dyyz1.com/"}},
 {"key":"片吧影视","name":"片吧影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.pianys.com/"}},
 {"key":"雪糕TV","name":"雪糕TV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.xgitv.com/"}},
 {"key":"电影人生","name":"电影人生","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://dyrs1080.cc/"}},
 {"key":"大米星球","name":"大米星球","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://dmxq40.com/index/home.html"}},
 {"key":"看戏网","name":"看戏网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.kanxiw.com/"}},
-{"key":"爱壹帆","name":"爱壹帆","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.yfvod.com/"}},
-{"key":"淘淘电影","name":"淘淘电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.taotaodianying.com/"}},
-{"key":"66大片网","name":"66大片网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.66dpw.vip/"}},
-{"key":"片库","name":"片库","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.pdy0.com/"}},
 {"key":"速影TV","name":"速影TV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://free.sytvtv.com/"}},
-{"key":"万佳影院","name":"万佳影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.wjys.cc/"}},
-{"key":"饭团影视","name":"饭团影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://fwdq.cc/"}},
-
 
 
 

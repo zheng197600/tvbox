@@ -20,7 +20,6 @@
 
 
 
-
 {"jar": "./jar/spider.jar","key": "瓜子影视","name": "瓜子 • 影视","type": 3,"api": "csp_Gz360"},
 {"jar": "./jar/spider.jar","key": "荐片","name": "荐片 • 磁力","api": "csp_JianPian","type": 3},
 {"jar": "./jar/spider.jar","key": "金牌影视","name": "金牌 • 影视","type": 3,"api": "csp_Jpys","ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
@@ -87,21 +86,13 @@
 {"key":"蛋蛋赞","name":"蛋蛋赞","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dandanzan.club/"}},
 {"key":"映像星球","name":"映像星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://yxxq10.cc/"}},
 {"key":"看看屋","name":"看看屋","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.siren93.com/","搜索url":"https://www.siren93.com/search?wd={wd}"}},
-{"key":"茶杯狐","name":"茶杯狐","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.cupfox7.com/"}},
 {"key":"电影驿站","name":"电影驿站","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.dyyz1.com/"}},
 {"key":"片吧影视","name":"片吧影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.pianys.com/"}},
 {"key":"雪糕TV","name":"雪糕TV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.xgitv.com/"}},
 {"key":"电影人生","name":"电影人生","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://dyrs1080.cc/"}},
 {"key":"大米星球","name":"大米星球","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://dmxq40.com/index/home.html"}},
 {"key":"看戏网","name":"看戏网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.kanxiw.com/"}},
-{"key":"爱壹帆","name":"爱壹帆","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.yfvod.com/"}},
-{"key":"淘淘电影","name":"淘淘电影","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.taotaodianying.com/"}},
-{"key":"66大片网","name":"66大片网","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.66dpw.vip/"}},
-{"key":"片库","name":"片库","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.pdy0.com/"}},
 {"key":"速影TV","name":"速影TV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://free.sytvtv.com/"}},
-{"key":"万佳影院","name":"万佳影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.wjys.cc/"}},
-{"key":"饭团影视","name":"饭团影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://fwdq.cc/"}},
-
 
 
 
@@ -164,7 +155,6 @@
 {"key":"熊猫视频","name":"熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"https://github.catvod.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"},
 {"key":"XHAMSTER","name":"XHAMSTER","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://xhpro.live/categories/{cateId}/{catePg}","搜索url":"https://xhpro.live/search/{wd}","分类":"怀旧$retro#复古$vintage#人母$mom#合集$compilation#大奶$big-tits#天然大奶$big-natural-tits#成熟$mature#日本AV$jav#名星$celebrity#毛发多$hairy#老熟女$gilf#色情名星$pornstar#故事$story#字幕$caption#饥渴熟女$cougar#人妻$milf#制服$uniform#中世纪$medieval#下垂$saggy-tits#大乳头$big-nipples#女巨人$giantess#修女$nun#医生$doctor#吸血鬼$vampire#外星人$alien#学生$student#家庭主妇$housewife#恐怖$horror#护士$nurse#教师$teacher#禁忌$taboo#健身$gym#农场$farm#厨房$kitchen#办公室$office#厕所$toilet#大学$college#村庄$village#淋浴$shower#监狱$prison"}},
 {"key":"九月影视","name":"九月影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://18.ddzw.cn/;;!H"}},
-{"key":"那个搜索","name":"那个搜索","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"ext": {"分类url":"https://e9.nageso67.cc/;;!H"}},
 {"key":"痴汉队长","name":"痴汉队长","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://javcaptain.com/zh/{cateId}?sort=online&page={catePg}","分类":"有码$censored#无码$uncensored#欧美$western#国产$chinese"}},
 {"key":"1AV","name":"1AV","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"分类url":"https://www.1av.fun/vodtype/{cateId}-{catePg}.html","分类":"国产$1#自拍$2#偷拍$3#乱伦$13#亚洲$16#日韩$17#欧美$18#字幕$20#三级$21#熟女$25#强奸乱伦$27"}},
 
