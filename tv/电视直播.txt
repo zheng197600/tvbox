@@ -1339,6 +1339,7 @@ DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 网络直播,#genre#
 
 陈翔六点半,https://live.ottiptv.cc/huya/11274154
+3030相声小品,http://live.nctv.top/douyu1.php?id=9286868
 西游记,http://173.208.234.146/live/vlxyj.m3u8
 西游记续集,https://live.ottiptv.cc/douyu/3113309
 港版西游记,https://live.ottiptv.cc/huya/29465860
@@ -1460,6 +1461,35 @@ DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 穿越剧专区,https://live.ottiptv.cc/huya/26355857
 年代剧专区,https://live.ottiptv.cc/huya/20969095
 
+韩国综艺,https://live.ottiptv.cc/huya/11336725
+欧美综艺,https://live.ottiptv.cc/huya/20969124
+
+双笙专场,http://live.nctv.top/douyu1.php?id=6476693
+室外专场,http://live.nctv.top/douyu1.php?id=9627625
+翻唱专场,http://live.nctv.top/douyu1.php?id=9572351
+动漫音乐专场,http://live.nctv.top/douyu1.php?id=9409703
+阿七点歌台,http://live.nctv.top/douyu1.php?id=3186217
+音悦喵点歌台,http://live.nctv.top/douyu1.php?id=3870925
+音乐台长,http://live.nctv.top/douyu1.php?id=9629943
+下饭音乐,http://live.nctv.top/douyu1.php?id=8661966
+音乐Wu哥,http://live.nctv.top/douyu1.php?id=8667755
+音乐快斗,http://live.nctv.top/douyu1.php?id=8324627
+蚕豆电台,http://live.nctv.top/douyu1.php?id=8768792
+音乐猛抬头,http://live.nctv.top/douyu1.php?id=8666105
+喵喵音乐台,http://live.nctv.top/douyu1.php?id=9568091
+黑糖音乐秀,http://live.nctv.top/douyu1.php?id=9560563
+荒草音乐,http://live.nctv.top/douyu1.php?id=8706465
+热星音乐菌,http://live.nctv.top/douyu1.php?id=8405922
+音乐Fans小琼,http://live.nctv.top/douyu1.php?id=8666210
+小飞飞流行DJ音乐,http://live.nctv.top/douyu1.php?id=10469362
+小舞点歌台,https://live.ottiptv.cc/huya/15590571
+24小时点歌台,https://live.ottiptv.cc/huya/25261191
+助眠音乐专场,https://live.ottiptv.cc/huya/21241811
+音乐小石榴,https://live.ottiptv.cc/huya/17091681
+吉他专场,https://live.ottiptv.cc/huya/21241765
+日语专场,https://live.ottiptv.cc/huya/21241795
+海选专场,https://live.ottiptv.cc/huya/21241781
+
 幻海航行,http://222.186.39.21:35466/douyu/17105786
 碎片记,http://222.186.39.21:35466/douyu/9412981
 宇宙视界,http://222.186.39.21:35466/douyu/9498354
@@ -1471,9 +1501,6 @@ DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 中国通史,https://live.ottiptv.cc/huya/20985822
 云游故宫1,https://live.ottiptv.cc/huya/19743457
 云游故宫2,https://live.ottiptv.cc/huya/19743452
-
-韩国综艺,https://live.ottiptv.cc/huya/11336725
-欧美综艺,https://live.ottiptv.cc/huya/20969124
 
 举起手来-惊险抗日,https://live.ottiptv.cc/yy/1382736877
 地下交通站,https://live.ottiptv.cc/yy/1382736795
